@@ -1,0 +1,4397 @@
+{
+ "album": "MenloPark",
+ "albumUrl": "https://photos.app.goo.gl/jRkKPneBYiDHSSpYA",
+ "total": 606,
+ "photos": [
+  {
+   "id": "AF1QipPigCLrc8BqDJQh_HeZxX1MHIKEtOCGW3nNV5yM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN120JJtYYJJewOhJmrLfz4SaLxONSSU0-5GTdTCXkFZGL_jFtnPn44sXAovixWebwa5JIy9l-a8lVX8ynvLsTG8vPgCOibg1TPXi8BzziwuhBqEoI",
+   "width": 677,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "0033 Menlo Park Railroad Station, photo by VanCourt (c. 1885)\nFacing station building",
+   "date": "1885-01-02"
+  },
+  {
+   "id": "AF1QipOpdE0JiO6lmL5G8TcEfk74P037lQWLBRkgmkuV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNCP5j07jCdqdC0XzDyKEFfV3dJG9TGlisI9DF4IBFwWrdefs018uhn2gJ2QTHzn9FSJzMpy2BlekiEAPq5m81U6por4Xdoac6h9OVuy4AkZ0iChaw",
+   "width": 631,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "0036 Sandhill Road (1904)",
+   "date": "1904-01-01"
+  },
+  {
+   "id": "AF1QipMSpOrtJpW7-nyAhCfs1B334pn7lKCru1j7apo4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN9RhP2B0uSFkMCtkBrwX05TnwHjpNRqe7kWfc37c3Bd-L_F3b-ZCDbhjtt3ugwVrnsC-SDE74j3vueTzMOAe_BA_N_2FG3PM_Yew16rinawYautgI",
+   "width": 630,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "0055 Menlo Park Railroad Station - looking south (c. 1885)\nLooking down tracks",
+   "date": "1969-12-01"
+  },
+  {
+   "id": "AF1QipPBnREzqH8ZLopyCJkdsZODK2CmaSO4GC4esgKM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOvm30M1AdBhqUlJIhhO38sxFudvXJP16rDtvyXpSddRrNopDAPGqOtboazNXMLetg69hJsOt03h5pnCxZnraL70AUe2vpH9UYMiUijwIJkB8MvJnE",
+   "width": 833,
+   "height": 500,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "0070 El Camino Real - looking east from Oak Grove (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipP8732-rEjn7UteC3kAs4VNuYqzN3wQ9IUFlbgA",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNmKVhym_Ucae0pjWPIyC1K0YmF2rMQvJDqStavmr1dqv0rTn51JhUbETgD8lw7uT63Iz680__dKJESCcIHDUmvooLR71yidmFcRGXm3FaBZYWv6Wc",
+   "width": 811,
+   "height": 500,
+   "lat": 37.4528,
+   "lng": -122.18466666666667,
+   "description": "0180 El Camino Real - looking west (1936)",
+   "date": "1936-01-01"
+  },
+  {
+   "id": "AF1QipMdS_U6GrBamB-h9fW9jLH-HudE_PewZSndxP6w",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMEn-q5Mc95jPJ9i0vDhVJUORus7j7fqRx_Xj8mU-LsJh-jmMATRqG5ZXGg31ubc9-PYZKCmYeAw-qieGXfetDcPDbyrUiRNokTEIoRnibW5jZJDiQ",
+   "width": 320,
+   "height": 200,
+   "lat": 37.4527,
+   "lng": -122.18366666666667,
+   "description": "0802 Menlo Park City Hall, 1933",
+   "date": "1933-01-01"
+  },
+  {
+   "id": "AF1QipNfda_DnFauUK6Vk1tkP8V8fgbVkoL14fZPz2mP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM3jE787S4kEL4j5ol7HDM0Yp7Q9Pf9BAXdKSJTP1j9VTMjeWTmcihRC5rdPPivbpvS9w7qrgqPfN5EevuJQ-P8CxEmfFv7RbdTtRYfFj1AZnpAVO8",
+   "width": 676,
+   "height": 500,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "0866a Menlo Park Central School - at right Henry Hall, Principal (1893)\nPrincipal Henry Hall",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipP8TH2eWEFhTMsNnFZBfrdCI_hHFti_fTC69HCs",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOmNjsaOKh63Sale9ThuFeP8sZTrHqU8zxOfu38RNIzTUJSgVuBDylunw2AVmMK4e3ro1wEKZaxeBHSCCYebfK2ekvHtKZ_6brvpk5nykMncM2esj4",
+   "width": 320,
+   "height": 192,
+   "lat": 37.4536,
+   "lng": -122.18366666666667,
+   "description": "1156 BBC on El Camino Real at Santa Cruz Ave (ca. 1930s)\n1930s",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipP71oMMJSuhkpCa-QwdMZlOnf3nPYV6Fz79BuxQ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPZNbBH-bZKbjAZQ70MLNqnCvUh6wB8h2Zzy0AiziRTxgUsdsLEsVwg9N7BtDF8Dk-5s7RRrpo-aXG9gRMlcCYpL2Gemhi1G3LvxPhwnAjnhqJi9IU",
+   "width": 643,
+   "height": 500,
+   "lat": 37.4506,
+   "lng": -122.188,
+   "description": "1197 Menlo Park Presbyterian Church (1940s)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOYZsgsoARKIEarK91FsxjJ88k5BhNn9PNtgILp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPHbUHuv1Nq3OOpy2ZZ-NLkIucRFZb5OiFViGvrXK8yugpak0AyfEyTs3UyFeVJGdnDiLuM3z-OmTzEou-az3I7IGQ2QFGDsuBRTmbTVlS8uUw8aag",
+   "width": 320,
+   "height": 234,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1724 Camp Fremont - Easter Sunday, 1918",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMtEHp6fzokXbzXdT2lR21dm6NkySkpUpalMe8F",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNgsMBd2rtz4N9gmblO3b4Bpgp7kLg3GXb4Vztj5CPWWBS03bSgqw3jxS1Hug-oDYaOUqU0lba6O61IU1PEHw1LNQB2_Cpv-ciB-UNOJxusVV6Ic2A",
+   "width": 635,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2519 Menlo Park Railroad Station (1917)",
+   "date": "1917-01-01"
+  },
+  {
+   "id": "AF1QipP44k4hQy_lUJL_mC4sUCbHXFaaqFcMilFTObIp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPULiDXOiIp_sepwdTZJlj6XjCmVi8A5ETQhOAstrNss9JkaiBnWWwFflm-3Et-N6dimiKDZYxOEWNJmpw--9HoftRGH-hbcFdGHyDxXDyXQCzGteg",
+   "width": 320,
+   "height": 254,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2525 Aerial view - Santa Cruz Ave (ca. 1948)\nHayden?",
+   "date": "1948-01-01"
+  },
+  {
+   "id": "AF1QipNio3S0XYk3Rip2sq3FGBk7EOSP-gUnI8h98WaO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPUdUPAqtSrAztm3kQdJ6CsB9s9e8MjGyUzD73faiSwLKf-P3RR2IKnZwIRTZ3r62mex5GvHR8XZk0yjIaAcS1Hout0HvNRFrL3ks3q45Vlg1E8yoY",
+   "width": 320,
+   "height": 256,
+   "lat": 37.4547,
+   "lng": -122.184,
+   "description": "2527 Aerial - Merrill St - Oak Grove Villa Hotel on right (1949)\nAerial view\rHayden?",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipNMAT_AwdaUZvqtZ4u41bzT-focoHJHlG1L0i3u",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczONB0XMXiRvBDsl5lRB2nHRQUfLS_HvY16rAXgB7Pu7TbY1TfcF-x54_sPSAZlmT3us11Er1p0BVOkGhJnjS1JyFLqHGrar8Z0so9-f2cxKDkAJaVY",
+   "width": 320,
+   "height": 260,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2975 Aerial - Santa Cruz Ave (c. 1963)\nHayden #S-187-1",
+   "date": "1963-01-01"
+  },
+  {
+   "id": "AF1QipNcESaFy_Z7YuEj4fEul8U6GxOawyWLVsxziOQa",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP6TPxEimepFxV3w5-W5ifu0yCjhMc9kt7THfzIFYFLr-I67gzJRjg7BctEvAQjKmA7rfSzzAGG0KdOV8tV81u7_cwx0OE7KRiW4HSLRDG3j2iMvOk",
+   "width": 320,
+   "height": 218,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2981 Menlo Park Hotel (1899)\nHayden #121-1",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipOkq5VO0ywoVX-S7wdmaK7nZiWMfbiHqxVl895l",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMfEBETlNRhGZ9H7KixcpVEL0E-8sPeXw6qI8ZOTaGFJlsIYUBZDx7wuVOijbbdsqYDFpdAX_fDHJK2lEItywCrLSbLJkfO7BuND_rJWjiM4ZPJOXY",
+   "width": 859,
+   "height": 500,
+   "lat": 37.454597222222226,
+   "lng": -122.18466666666667,
+   "description": "2994 Loveland Post Office (c. 1900) - Jane Loveland was appointed to her position by Senator Leland Stanford. She was the state's first lady postmaster. The building (constructed in 1892) was on Golder Lane, near the railroad depot, now Santa Cruz Ave. Loveland, who was given the building when she retired, moved it a few blocks west and converted it into her residence. In the photo to the right is the Palace Market meat wagon.\nHayden #S-123-1",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipPEmyE4Jo0J57o7wgVVN9IZoyzQ3GJReoqluJxC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP0Ji9ZiHg6ci3O3x-q5EoFqU0oSIgFk2EcrRnqkwjAdGXLShIUfQ9GyRzzz4_EvGIYJsm-QpnQ53yxECOipzm8_aHVDIV03Ylw3i_TmBDKaDxT-N4",
+   "width": 646,
+   "height": 500,
+   "lat": 37.4668,
+   "lng": -122.17200000000001,
+   "description": "3276 Laurel School - Children Crossing Street (1950s)\nChildren Crossing Street, 1950s",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipPAAv-kItwuiHjulu-CC3gCUgqKCeTh4eVZeo0V",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczORHZ2TxAnhhqzD0pB_L_w9WqRYGJmZORFng-Wnt_GdjyCSVMzyeh3v3YYjlOLTilIkneqxxt66c28-pmDCNsjnzo2nH81Ey7OEns3V1OHoYy4jYU0",
+   "width": 636,
+   "height": 500,
+   "lat": 37.4547,
+   "lng": -122.17500000000001,
+   "description": "4600a Aerial View of Dibble General Hospital (1944)",
+   "date": "1944-01-01"
+  },
+  {
+   "id": "AF1QipPYI6fuytJDn-cRgyjN1Iru87785jwa9Q5OtrvQ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPVFid8UlDU60u07nZRFNopg-1TzAcBMrgFouOPN5Vo6HIzgGDppqwkkfnfr6QaR9X1Hfq-JNRm4D3UOC09aGS8A06-tv9Kb4IBocfoqHMCte1Ztzo",
+   "width": 320,
+   "height": 229,
+   "lat": 37.4519,
+   "lng": -122.18666666666667,
+   "description": "4806 Roy Kepler's Books and Magagzines (1962)",
+   "date": "1962-01-01"
+  },
+  {
+   "id": "AF1QipPfYqQtrKvA0cIcZxDqFFNWBG2jJym2bKtwhA-z",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOb1AgCBgcu3cyLJ1pesYEcsrDEpgRwwqPg53za-7alYUyuDlbGvZbi4RiAGLj1Pi5DXfJKjE2xhp061EpPZ_18gU5MEo1ANO9xpw-TCFPExEztKOI",
+   "width": 325,
+   "height": 500,
+   "lat": 37.4519,
+   "lng": -122.18666666666667,
+   "description": "4807 Clark Kepler in his Menlo Park Bookstore (1988)",
+   "date": "1988-01-01"
+  },
+  {
+   "id": "AF1QipOETJWUyLA9e25JnuYc6GTn9TwMpwL10D4DsJHB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOeGlDOZK21WjYElLVu7O55WeZw9HPOUlbP5EVS2jupwsmJJt6jiZlBJSJHAfftvAiYvTVJ2EI5TzlJU44BTdHbWcFt1dLghPVsVVjRZsgK341dBws",
+   "width": 320,
+   "height": 258,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "4888 Aerial - Santa Cruz Avenue (1960)\nFrom SC-73",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipNguK3wndcn8F-AQmUTKA3Ee5A6wWJgLs4-p5WL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMeLYG7qyo9kItvTEdTZkd5Z7qjfBHTEYaAMexurOX3eR-VWmRS3RPu0pIuGs40MtVnoSxeDX8MYRWg_FPFyOF4IW9ts48K-tetUd_wWJ4zoSYda5A",
+   "width": 320,
+   "height": 253,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "4889 Aerial - Santa Cruz Avenue (ca. 1960)\nDate unknown\rFrom SC-73, Chamber of Commerce Collection",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipP_32_VUzt65nQNbHoFcWMU3p7CU5OR6cFGSbgW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMxilW2x9XS_GfRk_p_3UYcE17yTiAzxKenFnuY6PrceN_rJ4S4wVqUcpoXJWJwTBGPim92-K77U1Wxrx1CZn5EGwDxmWG0Cm7EsdTxj7VGFqmhCoU",
+   "width": 584,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0860 Central School (c. 1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipM7BxZG8hhtIuk-RoiHIOftq9O7gNT4pale1UJ4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOFT4Ld3Ev7WlrExM67Ri3auC0i2Oyj-4Tc04VA7epVjHjXcRj4oT0DnFZ2GJ5NxL5H2sAVyxivan1hWQ_FUop5j4Xgeed4hjDz3oUH0Uc4B-OTe0w",
+   "width": 584,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0860-2 Central School (c. 1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipMgmqsstgE39CyIsG9bntti7ZFdbXIri7wdBC8S",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPTxgYPlrGHfaTPkRaWHxzL5RZfpsr04uAQj5VYUBnHP6bPAm-tSiZJpIHPIR3MxQSyS8PI_4js2B14LH90up4sNGcVfZAAq8C0S8aZn3Wi7zup9Mw",
+   "width": 543,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0863b Central School (c. 1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipNv_NK_-oVgruk2yhoaGdYTc29ws57O0Oxiq2zo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPcKa_cWDs9AMdOzClafqEoRaF3UugQc4glqI9Dxsp_tsiykoxPAVEgfU3AWebJHGAh1HoMr1W5i_m-1u_fW4RlVAjyl--2Hi_SkaLo6g25tLfC8Ig",
+   "width": 542,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0864 Central School (c. 1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipOFzBIhKWZQuPujqTLQ4AkEkkpxIBesdUJbk8q4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNJOaUWX72_wEaJt1lzRiuupewavIY0Z62hlgHoHk-6MkDq2cw7OSrvR-ZvM-2XA7F2CcCtN5ZS4ZAwaXR_98d-ubE7qQpu6rFF3qvj1MqVmFGUtK8",
+   "width": 550,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0875 Central School (1897)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipPS-fKDtlUSnBSY5vclgrjlkigtf5uXVCMu9_Bo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN9G4ayxoV22APnytQXPM57uvhLo1wjNJVZbtp8GsdfKvxxlRGT_BNCcGZo4cM4Z9rShKJNkCvQLxh0rR6ZhwMec-npNyGmyEC0pZj8Dnchf5XqZ5o",
+   "width": 498,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0880 Central School (1899)",
+   "date": "2011-11-08"
+  },
+  {
+   "id": "AF1QipN_FKLeafwbeI87PUw_sINm8wFONrE_c32XyqCn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNNOyuP41_jjyRGas0dNDMIQ8-gvqqdXb57dOYaMOyBa8TE5iHdcFHTxQiHscqxefmDq8ZTk1Eb01y5UHocNswuvs7AorDDLZqIhQP3aNY4o_Wb_wE",
+   "width": 509,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1446 Menlo High Room (Central School?) (1897)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipNdmIYWj9gFM3c1gafttt8BqaH8SwAk3V5gR1GH",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNeRcZIe1-sfUIgxiZxuZjyAASQbXw5xnCt5DNyQBlFmNdrAtx0E-_K9IF4uZzqZmeQ23HjrrFKQ9slNN9kJJFnP7weKwaoRv5J8VN7Q_GYgWo0G2Y",
+   "width": 500,
+   "height": 400,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "1179 Hillview School, Aerial (1953)",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipM1pxWY7q_Z-SkFvj3hcu0MJRUFrnNx6KPaJS_R",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMQ_6u4mxDq3o8-BdtqMmprS1UWvAMBfbcI0kv3cMj_5U0tCfJvKGjNH1sd6Dk6t33ao2mv-2nfckRcxNlO0KVxm0_LuzNyjf6f1Yf5dj3AehWQnes",
+   "width": 375,
+   "height": 400,
+   "lat": 37.486066666666666,
+   "lng": -122.18666666666667,
+   "description": "1207 Marsh Rd Overpass, Aerial (1950s)\naerial",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipOfusF1a-UuaTMxRZpsN8gRVha_XpO5zYGO4H6h",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPah7JMk99MzMOOtB7UjZrLQqTCX9a-aEXzTtNPVu7ZiS7l0vI229xxPy7bhlggJ26PPzOP40-yuvEY_erlMxG-zo5GIfCq-jHYN0npvzMBVrMW8ys",
+   "width": 509,
+   "height": 400,
+   "lat": 37.4685,
+   "lng": -122.155,
+   "description": "1208 Bayshore Rd (with trucks) at Willow Rd (VA top right?, Aerial (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipM1nm-ZVVaGUBATUGi4HsDfm8Gr6GIvl20frw6c",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP57bcDROg4zniBSZ6LP7thYYOrc6qy75Jv9Kihat2g-LLvKT01SsYhf7uEypRwROnKAs5Z-HdzrLa0xWDnlT09WwLgHXcVa3hdGdad4dv7O7fZFh0",
+   "width": 490,
+   "height": 400,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "1816 Hillview School (top edge), Politzer, Hesketh, Aerial (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipMujg3Hk_TzKLZGlT20EJfi_rtbXMPtlQxn6a8i",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOwrHOVHGav_ey8ah9BpmCuJhbdB-O6g-RtDLKmlGyBqw5vXYa69QEaG69brW2F_0noz3H3FPhyduo0k8WC2kVj99gQaBnVJLUc9KxcDqFhqiyRHps",
+   "width": 495,
+   "height": 400,
+   "lat": 37.4558,
+   "lng": -122.17500000000001,
+   "description": "1148 Sherwood Hall (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipP6el82cn8wUqPHr4Fz-C9nltV-hMrNukNyBcFT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMI0R6JpyXphi_THSUmmCZ_OtVwFr9FDx3xCU0FyfxkMMY8dQI3nJ5M4fRJHEx06e5YAbntwe7cjpi-xw9o46xPdN-bLYnU-Xq7GtMq2j-fC__bTfE",
+   "width": 500,
+   "height": 400,
+   "lat": 37.4415,
+   "lng": -122.18766666666667,
+   "description": "1244 Allied Arts Guild: Gates and Patio (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipNwnEOl3TtqExCALuvbKw-wsOtrYvYJC-9szwRr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP0nvLY0048aLu8jMb8M4p_njxbRtNOh0VhhM_hsBrZyCJNYhTCYhOTyN3XCnlYrqy4mnmZpnrfKcMzvmXaW16RIrLCZPw2zD9uM22zYhUFdGt_8SQ",
+   "width": 514,
+   "height": 400,
+   "lat": 37.4415,
+   "lng": -122.18766666666667,
+   "description": "1245 Allied Arts Guild (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipOq7axt2FthW-7UB3u8L_7Q899PkzROKG7TRlLK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPVmogmkBXl6gbVrXlE-ka0nD5-Sh0zqaCfxgt1mH-RzBfF4tvHZJ3Jj-q86wRea4107HTWjN0DrjGinqrasLGy10j1NcB1WM1_mMttC_UK616-Rz4",
+   "width": 498,
+   "height": 400,
+   "lat": 37.4415,
+   "lng": -122.18766666666667,
+   "description": "1246 Allied Arts Guild (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipN3QRrjnVqIOjEZxqpjDXNbexwcR1DP-3zqmhpT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOODIs4JcaaT-ogaaADN2yJzqOKlqcUEOjsKQCPnvFoyJ70mw3UG6Fn9Pl35-nv129dGdTfMOdb0qCs9KvCrGt2TulUY5V1DRk7EDmJqEAD4RQBP70",
+   "width": 557,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1331(1) Camp Fremont: ground breaking ceremony for V.A. Hospital (1922)",
+   "date": "1922-01-01"
+  },
+  {
+   "id": "AF1QipMi71P3qYZ8Iw7Wj0PCUcrcz508JwyIthmQpzMp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMSAFi0Z_AARq2TV64QoGu1AZuyy5_GxctxtoVrwuzcFInAB9BN5PwN7f45IqjKNtrnWowcs9TV7bNRyso3q-15A3Yes5Cy0YaE4XoTsj4_pFUURMA",
+   "width": 1017,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1331(2) Camp Fremont: ground breaking ceremony for V.A. Hospital (1922)",
+   "date": "1922-01-01"
+  },
+  {
+   "id": "AF1QipMdt9Fwu1CTpCGL20ja-mI01DGq0dIyeYtJvuyJ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP3HvWeg9Qew7Z2VX6c5eWZdhwKevPlvbxbvMxGwi6HjYhgJdqM1kADoBrn4t9-0kr0hzLl56otj_9PMLVFCpdIhhyw53YB_5nn_o7u0286oeQkYLc",
+   "width": 514,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1332 Camp Fremont: fire truck and crew - V.A. Hospital (1922)",
+   "date": "1922-01-01"
+  },
+  {
+   "id": "AF1QipNwYxKlOGRNI5JFzg0x5cnnE_jWzsZBzoT7WnxQ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM6r4Pq4G2S3lEgydn9dHtSQM6mKKCJEnO-dQ-huP5mNodjvWCkWDunuKjmx44Bh0iqjuJCJDYbZL6jXH0Ja84ipAY_nBQCaR4xVM-UA4kArRnFnnQ",
+   "width": 371,
+   "height": 400,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "1702 Barron Home (c. 1870)",
+   "date": "1969-11-25"
+  },
+  {
+   "id": "AF1QipPQzJsWU_2V59RMA1HvllW3S6rvEIySKdhXJ1GE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPo4m3nr1af6dWG27QkGgS8nPSrwubFNTOU1TZVovZHdS4y7arClPDF8KD75JWNT-LDDvZmNSq1UJkEzyEkN_4cxe0PEmVcwytBjkcK-nGLx_PXViY",
+   "width": 626,
+   "height": 400,
+   "lat": 37.453700000000005,
+   "lng": -122.18366666666667,
+   "description": "0184a American Trust Building (1930?)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipOvf9KcQD3GaA0t0poFjzJIuA3PuUP7WPFwGVsl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNlam2w6pBc3pmodO8pE-dlFV8P_c-lZRHM58N73U4W1SUwSDHxmm_7woH-LbgJA2kjSeMNKkP8GfWDEsXWb7jaqTd8qlJ3N8WdZhbkluJEVXEHTXQ",
+   "width": 558,
+   "height": 400,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "2116 Thurlow (Gate) Lodge (1864?)",
+   "date": "1969-11-23"
+  },
+  {
+   "id": "AF1QipPQQEt4o70M-cgp3BEFfxP6MzbWEdJV6AjjOPp9",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNB2Okx1ufkFgfrGMLGdVsOtim6YqJjVk3AS6yNCiNDD6A-ftVA2MUBaPxKFhnncxVRXnQSPZUp_mogo9YDlUod4Jn6p8AOXspFDh2sDsPf20V9Lbo",
+   "width": 640,
+   "height": 400,
+   "lat": 37.4517,
+   "lng": -122.186,
+   "description": "2799a 1340 Crane St (1928)",
+   "date": "1928-01-01"
+  },
+  {
+   "id": "AF1QipMbia6MZDmSmzBjrCT2k-JSvdZqUMT11tWadfVT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNhcfvorpRQEdBnAOinIQvTYo3llvbYZPzL5SFqHXjv_jWRo-pGlIdN5idB6KDNQDkH1ARnwGFMbAaJCimPfTHGN4vKFPh2HWpNau8oek4bx2YVMDM",
+   "width": 662,
+   "height": 400,
+   "lat": 37.4517,
+   "lng": -122.186,
+   "description": "2799b 1340 Crane St (1928)",
+   "date": "1928-01-01"
+  },
+  {
+   "id": "AF1QipNAYhp173md8GR2hoT_LI8KZ8q_Tz8tWTXEohpg",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMxZMIx4g-Pn2QWYKTQ302EiEAx2QTjyGYsQl-3F3YTjRes-McNIYlMtQX5RUd41K3pmGNzmODRreFyEFkX-n940fXD4eSp-Ki3WeddVS0VX-POru0",
+   "width": 603,
+   "height": 400,
+   "lat": 37.491366666666664,
+   "lng": -122.17433333333334,
+   "description": "3093 Belle Haven: Sign for new homes (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipMxgUtqHQ-vFE1WSVJuTQmYvas_eaYGM7in5r3R",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOV9E8yyZdMzEqZSASu4Pk5dolvuURYUHQxcX30bcUtH8XGXHzIdf_RY5IJ1B-42nJAa46fX2FtuYGmHP7YCBzCvuxpP57gCrSyVPQvhJK2V9HJJJA",
+   "width": 695,
+   "height": 400,
+   "lat": 37.4515,
+   "lng": -122.188,
+   "description": "1022 Bryner Home, 1127 Johnson (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNPRgm6lrJja7aKaID-OGDLypMilwYsh2TvjR92",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNUsnTv6mezqgx1MvE8cnDCczwyUc5PR9jgjA2bAylyDNTaS4tJkXkZe283K7O7L29a5TnZ3PsmrDqgjZn39aj1eht6QFQ7he9kreIL50Xfxgs9sAg",
+   "width": 695,
+   "height": 400,
+   "lat": 37.4515,
+   "lng": -122.188,
+   "description": "1023 Bryner Home, 1127 Johnson (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipOVG1t6BkpvcSmaSGMSC7RvldxNJNVtJDhW_dk5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMR03tVQxArBKCSuXXMivtFgqMB24FHAngkGqwECQCN24Vs8_PWfXkf8hOF4yq137fz6AjSTbAALuGrZ9v3pkHYEN374i53CpWlVTyXUu7TxC9TR1s",
+   "width": 577,
+   "height": 400,
+   "lat": 37.4515,
+   "lng": -122.188,
+   "description": "1024 Bryner Home, 1127 Johnson (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNIK8pH0QaH9fk-WkCloisERnDD7HXeN18ra8iK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN-anEqa23ANdhVA-40LocPIgTdgsIuPCH9gO0d1jkyoh8KhyBS3vPLuhb49uM9k0h2RvCWr2ajLqGqf6ZDVWR0PnwglkaBwy9AxQqtTKMGgV0iuTI",
+   "width": 508,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1081 Camp Fremont: Reunion (1949)",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipMewHFPHDnuONIYRQ7oczxyL_O6po0u6-IBSGPQ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNwTDF1n8NybMPs-xND1aCWJId-wQSeURXaP_qxJECilB-QkHxzf29f_Eb3jWmYLLlG7pzzF50_OpsCnYxV0TLB17mS6W3J475FhAgs2mXI677er1M",
+   "width": 495,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1085 Camp Fremont: Reunion (1949)",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipNhWQb92Z8MbLFNSHz76B84Gc2raV3kNSaCAPCm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPj93SmK0DamzsjmduBJNdJcwNgxcA9KLodQeBn9cn_kVxTIUFvtGBQcCcQFD-g5o-0HmfoVpXFUMSoVY7X4HkSlFV3jIepZOhY2QpMSpWMDwYPKzU",
+   "width": 548,
+   "height": 400,
+   "lat": 37.4547,
+   "lng": -122.17500000000001,
+   "description": "1566 SRI (formerly Dibble Hospital HQ Building) (1958)",
+   "date": "1958-01-01"
+  },
+  {
+   "id": "AF1QipNJKEZtB2vZoZPY3LAxu64fz6WYCxXgI-DsgD21",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNz3xeJEouNGEO7Y10zCEnCDcZrKI_bke4uizB3BpV-82-0y-yr4lo9L5saZiNwvOneuekxpr-j4CfFGPPSUppq1Td7IWBSZT9vX-g6P8SZ8PzPrTY",
+   "width": 529,
+   "height": 400,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1568(2) Camp Fremont: 40th Reunion (1958)",
+   "date": "1958-01-01"
+  },
+  {
+   "id": "AF1QipPe7AvWQSjkS0lUz4KNA2WNTCRLk-TNdYZulZV1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOoMOSw33Jj5MS2D7aoYTVIuqAPaS9bNCOfML0LkZlqjXs8Nnt1binVc9yITVPfnLnu7JJQVNxTqcFxIIfwE6RG2TC0nvaWn-_XoPzakDovcv_Q2R8",
+   "width": 501,
+   "height": 400,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1628 St. Joseph School??? (1919)",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipOqt2N__oqWRh0W-8lLliyPDIXRnSQQ6whvl8dE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN_yozZz93cQgO0zqG0Rtgru-q0KWgFdcIjvtC9rccwAtCdQxQGckO3aJ9FZWigEDvY42jIF37JIrRXdj2ADgvyxmE3dN86a8aHijM6CHMyjVxyOe8",
+   "width": 395,
+   "height": 400,
+   "lat": 37.452000000000005,
+   "lng": -122.185,
+   "description": "3375 Anderson Shoes, Gerry's Cakes (1983)",
+   "date": "1983-01-01"
+  },
+  {
+   "id": "AF1QipNCOvujykKNQu3jRYVMOxNX8FEJEFhr7p0gnfIS",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPfeEwoPgr4d3A-4VrY2E9cd79SdnPdFVNSiMpCRrJDgADRP7yhXSiVrjLst4ZgITPykr3gFWrehEgUueNPPqFPL4XMMI6gaKGidJwefwc1ce8SwRg",
+   "width": 236,
+   "height": 320,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1115 Camp Fremont: 319th Engineers (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPivz_8K0u6utrxEnWTsQu5gfmd0lpgUJLbSGMy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNYA_cDGj4NTYVbBwwXSD8QGDIRPnefTuBjv01f3zDrPBq7XVHIWWhNoRZpzRpkqQ2XmnR3UshB8GRJ8ZhQFwjVVrMTJoavvogUu8PUyoKtbI4fGLY",
+   "width": 320,
+   "height": 182,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1117 Camp Fremont: 319th Engineers (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMGHMph6j3_UzfLk8L-AIAEDO1ahWmfo07qlDKV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNFlHuWhZkrv1oI2ndBX3KXQSsjNcm4sw4lgpMTkV-XBYX1o2KsFWTqmLPNW44hg3yuiOCDXTjTAgjRDahUXJYYavubOFW5U03TDBoN5SsOnF2a20U",
+   "width": 210,
+   "height": 320,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1118 Camp Fremont: 319th Engineers (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipOUV03s0yDM5MrLtQzduxw3-HeVLDxhExEZGSSL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMYHWa7q7emnXwJflbyg4UdZ6ZegUpqCPzhyMDORNOUfai0x1lthfTFfSsedVRPEAoBROtOKHhlsYlhdyRmjagY8TWKXWpdWo7lof6xpKq9aNNUQ1A",
+   "width": 320,
+   "height": 188,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1122 Camp Fremont: 319th Engineers (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPY7S30F3ZmzBmO0g4QtZQtukMA6iz-dp4tjH5Y",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM7xXgFc4ssJ6j6d57BQBdIiHoK3cEmRodiZoPUT9RLjelwcj2cHdfMAwKsxYKYRUle2iPZGNHcnr_3Zc81Vr8dx8t7srOGOuRx4F5I_uqkRj9hK7s",
+   "width": 320,
+   "height": 188,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1123 Camp Fremont: 319th Engineers (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPkXp4dgP8KU2A2XMud5ec2OGoGd2buGcYh6qSL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQ6bjEI0Ib7m1Mn8faNgG1ZOe78_hSYioDlMelwgn4peuCu60NPEZ52q3a8FibDwU2TbkqBKBbkhtGkjaN0d3SVOSssdrpEq9T8V83cHhbNc2-0_k",
+   "width": 320,
+   "height": 250,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "0669 Menlo Park Elementary School (1887)",
+   "date": "1969-12-02"
+  },
+  {
+   "id": "AF1QipOeiurf3dt_-fM1qbxh_XgyzsrntltI0fgKExPG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOLzGHIgEtWugHDI1VgNb1OaaM59j0X4ui9wyJEpsWqPpMj4uUGA5vtk5WCsdqfZlDo1UX-qaYS7SvrafPRysCC0UFXSR1hD0LvAgUhlXsoWzz-zSY",
+   "width": 320,
+   "height": 210,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0850 Central School (1911)",
+   "date": "1911-01-01"
+  },
+  {
+   "id": "AF1QipNGP539bUMrYMZeKNPZQXcy5zWwcnO1VvYh56be",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNvlamzr2IQ1Rpo41Iyof4FZfUu8wUjZqQWddTU0xcyQbpXwseqa-evTEPll-szIxiy-dyB8dXDrOPwq03RbwL10_FGCyULuk6ME0drmgugXlKgB50",
+   "width": 320,
+   "height": 254,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0041b Central School (1939)",
+   "date": "1939-01-01"
+  },
+  {
+   "id": "AF1QipO5HN_sGPtKsujtePq1vS7B_67lHPM6LtdYpFaW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOW5bZvPJDihF-QgdYCZiA18vVPKtKO9n63rtPqao2URCfC6EHGJwz2BuU1GOVqrgIe7slvfiNLvYXbqRFJX4XLlrgVgDpAql4oWa84lu-uYEoRys8",
+   "width": 320,
+   "height": 257,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0042 Central School (1939)",
+   "date": "1939-01-01"
+  },
+  {
+   "id": "AF1QipM67jSo9G0bHb_nd0aooUI4U2zDwENSK0eFtHoi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMEMg6-N5h42IjKIagyORzJd8oDe7FO2ivJcRx0NZqBjS03WYHvEg7p5nn9gMMV-U_1J1UO3NR3vfH6KNjWGfo2soxPQUVBuyS5wTy_NU94GtwQLNY",
+   "width": 320,
+   "height": 226,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0044 Central School (1945)",
+   "date": "1945-01-01"
+  },
+  {
+   "id": "AF1QipPgOtU1e6p7zafWRcjem_qxM07G8lCD_zfUVMGy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPnw6dwz3RSxNBt4Zqoej3EeHkpQSKT7KRloIub1ycegmagjK8ZEvqNNWW8eJFrEQlsNtINwpJDXkNgiWoEQisGMh67brdm6N8OJJxBYI5CwcAGV9k",
+   "width": 320,
+   "height": 251,
+   "lat": 37.453300000000006,
+   "lng": -122.191,
+   "description": "0062 Menlo School (1947)",
+   "date": "1947-01-01"
+  },
+  {
+   "id": "AF1QipNO6GzsogHP_JGhq7K9WaU9JFHuQl7l-6KuP6rn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNUiDIGvetgIkKyT0fKj_mt5DGulMntKObtUj84ctwrWMbS-MllAnMc1Wp4-k2uNiwjXO-OxdkO9CHhUgJOB4dPRRCg8h3iFKaOkbk_XtA7thiZsfA",
+   "width": 320,
+   "height": 193,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0848 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipPvzyw-B0F-MlGdwfnLXok8mFtKD6E8THAPXLuU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOMsys9k5VMQQhEjjjP_cRbeoAEtW7grnB-4WBub-4Ra6MBRNdKrOWSja343jtnUf2rFeKHD-OSz1LGA4XDBnkQ7wDwhaibsJYSTl1Ru6iQkcMuHE8",
+   "width": 320,
+   "height": 190,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0849 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipNJe5GDc-GN7BVUNeYXOZ4DI4euiSHuNJn0S_A7",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMCUqEEM7ikZ2MyZ2cXqPPq3gxqHunkamwjwURjRXXoDbcwyMsqcsCP-xitPA_mD1Q6hQJ1qH5HcNefvG6PZBqqy3NQv_vrQ4j7l-oIf1N3B0Elylg",
+   "width": 320,
+   "height": 200,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0851 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipObZMZG1x3H4Rz1fdF5fwTW34zsC2lRWqxJe40I",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMKxeTJRLhBEpXh-i4iOvhrMR4_8JwcLo7sUpmKbXoVdHM1-yzHYTVsxSQ3gEjeY2hKkbEI3FZvArX0R70PEY8dTbSpoaONLXoMp_nJZdOhItm-r4g",
+   "width": 320,
+   "height": 200,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0852 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipOG7Ko29PdFetIBBYMC1rBHw45yNIm8PCLhqu5Q",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNLxz8hXS3dygr4bb4fMLbD4K7mMGWHHYxdCRHsmgTHMdPuAhZc1xAog2UMAt2ayp6qvRbOMvkacv4ZMsfPZ42sFn84j3lf2-RlYWWi8wNvaEnEd5g",
+   "width": 320,
+   "height": 200,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0854 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipPosGYjqplRFftDDuVSWojBkLbf9e-52a5CJzIK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMSWwpMtlJE2IIZCtJA4l7HaVYbmDD47B_hQoBrT8qgFuuYwSZPCt4BZqE0ZrRaZFZ_b9kmV56EX3sagRHpOSDtI83S6o0cjgQMQpEV71ka7MJusVo",
+   "width": 320,
+   "height": 204,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0855 Central School (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipMfgPXEnL0jgXH-ul21nqFTDBlT7dqhSQ3B40S3",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNrCt62OBbnSmw-e0XF4lOJOIlE-FabXN0ZrBg8O6S83K3dSB_Aal0rVDDLWWRykw90CP9ZXynguFvxJQha5jdba6nXvUn7RESwZiWA_Xbcc44Qg2c",
+   "width": 320,
+   "height": 260,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1335 Central School kindergarten class (1930)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipMXViAD7LpfNpR4AvxCQgpTYM7KV41KOCeuIbmu",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQR_-_FMSqX7l6TYEAvGB_CXp8jhQpkFoIXhJhDJJyRFtjTrYMT2uZ8AZdQevu-Cjm3RkMnhOJAMaxWsw6LIw01GRrj9R90E4okyS7Gi96ZcaMTk4",
+   "width": 320,
+   "height": 233,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1336-1 Central School 1st grade (1931)",
+   "date": "1931-01-01"
+  },
+  {
+   "id": "AF1QipPigc-fNF8Y816GvBMklxTMGYNTrLMTzmV_JVFE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOjjSVyXhFuEAReWbWJoQSjZagZxQRujuvL2cga1pczWk_SpX0AT2me_kEB-KsDZgPCz5lp8o0ykM5f4L_c36mnEsz1AEb9TNwaxvWuqD4S7eMTjQ4",
+   "width": 320,
+   "height": 233,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1337-1 Central School 2nd grade (1932)",
+   "date": "1932-01-01"
+  },
+  {
+   "id": "AF1QipOdg3OxJ1YCcGvbydsiVSmQOX57fu-acXrTxbPB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOWPYNVFupSr5O0qr5xI0JoXPnk5Y_gnyh8wXHDyWanqzgXZ_Nz7IBKS55NP0TPVSIpQtpirg5YInviYFR4bF0-v3cWSPqmqhik-GJkq2yi_rw-aFY",
+   "width": 320,
+   "height": 142,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1338-1 Central School 3rd grade (1933)",
+   "date": "1933-01-01"
+  },
+  {
+   "id": "AF1QipM9jdjVIclspnXQTnidsabE9GmgKN5X_ZAF-Y-b",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN75PRzvLWChprUShS28GZnQVINLJaeL42gArBNiNxRba_VhRVeiH_FoaMWB26BxyAEAY-rtZJQTMlMnX_E3pzFf5P0O6E6mWhP9xa290n_0jf43CY",
+   "width": 320,
+   "height": 252,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1711a Central School (1920s)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipOCIUC7_fgb1VTtalcEYAZFHmvybDsr2r3Rqlmm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMgesb-ku3UojYbb_cvD9ARBgcG3eJr5fo5qzkcNg0L8WnviPfBn84_6MsG1NKMRMNkLU8a3FvG6yzyoBhGm5fpnwJ3w3addkiIX6IU5KpPHzlmumk",
+   "width": 320,
+   "height": 252,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1711b Central School (1920s)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipMmaWtOhP_JRQtkKL1293vJz1VoD-9B_9ng1W4V",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPhC3lXD3mxLN3yoKoIGCoIF6vYfpOalOYMNejqCXqw2rV0alIMvo_69XTdXZ8Cvww2-bJ2WKLFxmFSt0Hklcg1rH52wh0ASRuLtSz0qBnLDXfGlfo",
+   "width": 320,
+   "height": 252,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2028 Central School (1920s)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipM3MStaznr0XZ8yIXOuvkNP2a-Pyb4NbNjZv7dM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPkyCiGljkhf-ibmMMRE0LmGY7By1_ADiKqGiyov4z7XxP-xVYP6EgwXRe-AsJNanEIyr8jyvL0xInSK7EeN1oZYCpUCBEbCOrvN0wUvK-Qaawt_5A",
+   "width": 320,
+   "height": 252,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2029 Central School (1925)",
+   "date": "1925-01-01"
+  },
+  {
+   "id": "AF1QipMuCu_9TEl4MWKMz2YHsJ3q4tX5cAP0Kku7MeTR",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOTPO0UJ_o8IcdpnZRKNVZfR6i4xIy87k7tSJUo41R6bxuSC8wWSXOjPRK621VRAAmx8Hv_LKYvK_iTRhGSljhF_lxOPMmJ3fEpUAaLXmxhGDkoLII",
+   "width": 320,
+   "height": 250,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2030 Central School (1926)",
+   "date": "1926-01-01"
+  },
+  {
+   "id": "AF1QipNvAngsQ3Q04tYzFoqZlgKm6eChxsU1Lt-rKVGI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPsk3O4nkqyBrlnhgHdIrKmBz-mzYpdbeYBF6pcQpS2iQdISiiAACk2Xsn5ddc3StPxa6Z-tyRG4XRJRKy4HejJv1ONd4HwYDuv2opz0hobB0M7iOw",
+   "width": 320,
+   "height": 250,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2031 Central School (1927)",
+   "date": "1927-01-01"
+  },
+  {
+   "id": "AF1QipMvjA55S48ETY1_6OtVqCWcSqsi5FkiE1ygRiIT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPhKQgxmhObkDXkN6EVOFH1xhqf3sBE964lu2QdhO_mlOLs__rUcfOb55y8eM9fUNcWidGHT-LhSeQiOq0_aYbKRqqWlG_OhgLFEtxfKgjTZALQdnU",
+   "width": 320,
+   "height": 237,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2032 Central School (1928)",
+   "date": "1928-01-01"
+  },
+  {
+   "id": "AF1QipMtJhD45vIXHUfXlL-yQhFS9BoBaEhO7EReTmCZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOC9Ymn28li1KIVtadK-4UL9aqIbPaVRlBbtIh27hMDwAGedh6escOU-Nh_auuKVSYBHVxsgXJIi1cWjg73AfNiCKlmRlLZ7wMdHx6s1vFrqBDCIqk",
+   "width": 320,
+   "height": 252,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2033 Central School (1929)",
+   "date": "1929-01-01"
+  },
+  {
+   "id": "AF1QipNtrYbfwSh0ZRhYmN7NJinPlWlNaUd-oBUf1hTt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMElXPOoSJifXQb5BB8FOTn3YC-yKIzEMSq8qD4AuFPg_Wtab1yaj7b_yUliBrhdy8pFzCsjQbtMwheb_hy6U80eoenxoBo_f_Vyd23-lcLzm0gHbw",
+   "width": 320,
+   "height": 246,
+   "lat": 37.46843333333334,
+   "lng": -122.186,
+   "description": "3071a Encinal School 8th grade (1954)",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipP4AZIAwHNrvwQJFMdHVTuz4Jyiq_azNMfiZ9JZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOhkrOrAAekKoNWG95Z51PILgmVbN6UBFZuq-80Tg7QcUk8I-S-jO7XJwq9Q7LcbG01juB_QMGYcAkMNSVMyWBQhwxjj55qshsz7AePZiHXjxwURjQ",
+   "width": 320,
+   "height": 227,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3351 Central School Eunice Philbrick's class (1929)",
+   "date": "1929-01-01"
+  },
+  {
+   "id": "AF1QipMFtjj5oQEAbEwzkcvvM6qnP-i094ZBmS7frYSf",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNtV7wtKs4Dbih1yNaeBrOJXnIIAMyIJw0-MWB5B47V3a-OkABGp8W7GyVlTK7OhoEqFSH4NX4vLczpE4TVcPyk0ukUSSywgdot03QJWdJlMkCKSto",
+   "width": 320,
+   "height": 235,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3353 Central School Eunice Philbrick's class (1928)",
+   "date": "1928-01-01"
+  },
+  {
+   "id": "AF1QipO93W88v9aXCa7_pc4cYUXamLKh6HVz1oPi1YQ0",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNX1Zv-JZNxsVct5feJUdskMXLw4Tas0tYUy0TdJfsktmntQCbqbN2Xx12dkCzCl1SIXoE9Eh-Mos39Tj9h60dNrAqVn0OM9saqFohV49bcsQt4LIw",
+   "width": 320,
+   "height": 233,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3354 Central School Miriam Philbrick's class (1928)",
+   "date": "1928-01-01"
+  },
+  {
+   "id": "AF1QipNCnRye1D1o9vjMbhYFSYpiPyzi_NoTBTxJx7kU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPhx3XGES9h_ZIaZ5QaCH-XBgiz2ciRcahc9nJwtYUXRWW2NDtAgyDVBcrOrjZjLOPbmc2QKat33n-jpKvrnxxMXJPeFx6Q86aOGuKPL_R4cM3aHAY",
+   "width": 320,
+   "height": 235,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3355 Central School Eunice Philbrick's class (1927)",
+   "date": "1927-01-01"
+  },
+  {
+   "id": "AF1QipPqC-MzH-BfVc_r56gRydFSCy02G2nstEYFR0sv",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOAo6QluNGbrM9zjictsqlNOkRbZzI5axm4VoZg6u4dz27enXLYJRSJ6g_vacOuoTCD-s-jq68QHK98JGhxrdrBnkFTmLhQxEbuZYw7ZaX5u1VY9Sw",
+   "width": 320,
+   "height": 235,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3356 Central School Miriam Philbrick's class (1927)",
+   "date": "1927-01-01"
+  },
+  {
+   "id": "AF1QipPE-EP88ha35JgUt_2AYlYb0nZq8DYKXUBi4jsG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPE74ASgnx5boxXLwF1eaRcn6QWOrqrLpHXqtDIAMSyK9zNF-HO04r0U0PVtaZ9Os24R4XVDriCz593Ql8K8L-uDNUf-Xn5emRzIfH7rZHPd5WCwJ0",
+   "width": 320,
+   "height": 215,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3474 Central School Frank Carter (1926)",
+   "date": "1926-01-01"
+  },
+  {
+   "id": "AF1QipPLpAryuspv2WOHvJncGsnIUclUZoK3Ms394ZwC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMLMOb2nAp8R5yAcoFIxo8u01jlD7RdNozSFBusamAvB2-CpntQsrIzqHQ_OiEJpdeaX6h6WDLaHFEmZFtH-7Kgm316Ta-nR7pdmefGuE11-_6c8AA",
+   "width": 320,
+   "height": 260,
+   "lat": 37.43856666666667,
+   "lng": -122.19,
+   "description": "0036 Sand Hill Rd (1904)",
+   "date": "1904-01-01"
+  },
+  {
+   "id": "AF1QipO-DvV4B-KJrpXBCxoQcw2zSDPcaE33dBw2UNA-",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP8u3z6_sSi3ibiTGdOxUx5i9LOC4Ev04jfUXmQMMAP72-ai1gV6bAi1PIUe_4U6jJbXNJx8rOAvtwpVPkdVB_BALT-_DhdbjQHr1-Eb_CcSxtNUpg",
+   "width": 320,
+   "height": 248,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0043 Central School (1944)",
+   "date": "1944-01-01"
+  },
+  {
+   "id": "AF1QipNNTuUYrh8o--xpgZD0TqXLc5vQBPcidFRjFV9I",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOg83O6SB5Z445WYfPXkU4TjjevsWWkkrfgOVE7-89pRYlmxHu5lJpQkpQwB6Z3lKN7vISwvQz03IxjWujujZSCmET_ai2axDUlKgN0J-cUxPtLSJ0",
+   "width": 320,
+   "height": 257,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0044 Central School (1945)",
+   "date": "1945-01-01"
+  },
+  {
+   "id": "AF1QipMWYWzBOA2qObxH58IBB-bYu2ORAB8lZp_wNojJ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOnw_GioZ53PM8Ff4ZhqKD0OU3tTmZEeFg3-z-dCfOuFoD0ff9ObhydVGbGV16MZSm_SNB7ePMq8cmwrd0NRfQMm7WeMmEeIpCvaXYErYdwfagDyHk",
+   "width": 320,
+   "height": 230,
+   "lat": 37.4555,
+   "lng": -122.186,
+   "description": "0059 Menlo Park School (1942)",
+   "date": "1942-01-01"
+  },
+  {
+   "id": "AF1QipNua1yvEJy1MUKbR2_kt7BR1MzkcakqrqvLF9if",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMirJrUiuahSPqFaoc-RXQ2fS6YYpDZoeUUTWV--E5BIlgQceNS0MdRYcvLlNw0dYIpho3p9rkh2PtHCahfC2qsQvQmnrAB13CV-zC0pquVyvBeDSg",
+   "width": 320,
+   "height": 254,
+   "lat": 37.453300000000006,
+   "lng": -122.191,
+   "description": "0061 Menlo School (1943)",
+   "date": "1943-01-01"
+  },
+  {
+   "id": "AF1QipPZx7mW056uoBk4OSqM1yyq2mRKU7y-Xz8NX61B",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPaYDRcGTb0axk9ihx15U2E13OeZ0pZZcEa39GQr90xpL4-7vCCS54MFbLXrgs7pKWEuRIfIGZfUik_NB386EZomPXr8Ab0sGgRLb0Xq7vhqm8LE3Y",
+   "width": 320,
+   "height": 245,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0079 Central School (1914)",
+   "date": "1914-01-01"
+  },
+  {
+   "id": "AF1QipPVbCxjuuVbzhzo8QDyWrzLfzppZbevwGxWH3Cy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOgkNzDIYQ8MeRUOWVKM6xxMLVY1PQies-IHQ-WawqrZFUTa-jIqnwazKmr7B_KO3PUy5yNs2Tbc9FGf0hQkG2ey589KDYxO3pXKtedNuTG2WZatzg",
+   "width": 320,
+   "height": 195,
+   "lat": 37.4527,
+   "lng": -122.18366666666667,
+   "description": "0802a City Hall, Doyle St (1933)",
+   "date": "1933-01-01"
+  },
+  {
+   "id": "AF1QipP1PfF48O3yJM3ZH0NnNjH4NL7bgW1Gp8nnvxSF",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPBqDkH5Ln1_u0ZboEPqYD0SGdmKG0KuJN3WbBdkc3hqkzidZnnVvwudLhLstOiNqIFke9n7ibTB0bjHcQf67oI9WBNrVBS6AYJWeaSWS2G07NDG_8",
+   "width": 320,
+   "height": 260,
+   "lat": 37.4562,
+   "lng": -122.18766666666667,
+   "description": "0892 Holy Trinity (ca 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipNU9AKlChwzXuA_lJNZckIyRKkt6e1jd08D8GUW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO7jEhf2pLLWszUwUwrw7OJ9-kn59bDeTGHDkpvrBjlDBgaxX-sJLvcm5AbLUn_kG7Ld-0OvjCOhocAL74dnMTKiKK2g6Ousqp0-bhKF4-jQRobFkY",
+   "width": 320,
+   "height": 212,
+   "lat": 37.4527,
+   "lng": -122.186,
+   "description": "1000 Church structure moved to Crane St (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPratTv8xu6mZ_CgkHOJ0XJ7bFK8iJqJIsUpRKP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNO8vfOsK-Iz2qtnH_-kje5twnw1fFF_b8dK8qNd_IxudLON5H1qFP1f0JvFm8ZNmYc_IustVmCEFcOuLI5fVZGEDgfEOiE47WYdH7DZgMrubJJcng",
+   "width": 320,
+   "height": 229,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1114 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNuG9aVFBkxXvs6TKP4J06l_Ns0j4dAffXgdvZa",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPMPa9NTVrq65UhJ8yLWkJ0UE083tBd2Z08HCnDmnRifT93X7DmNimNAcFxJxLbU5hRsn6JHXy2NNN-BMjE_HcbRUiPu7Mo-s1B7txATsBcH5ZAr1E",
+   "width": 320,
+   "height": 181,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "1192 Central School PTA (1938)",
+   "date": "1938-01-01"
+  },
+  {
+   "id": "AF1QipNrENku1LeI3DHSIfKMOw6vBBZycZRN8eMpLv2U",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMLDnc29F3a36znwEqy4RzsiTk3U6Ylr6M2mMP5KAPeoJc_GxLJqYzTSNl5KbqEaOZWtaVNR8I_M3Z-YRl3NTrzMFPQoT0DN1KHsjF9qHj7CurOO9o",
+   "width": 208,
+   "height": 320,
+   "lat": 37.487766666666666,
+   "lng": -122.168,
+   "description": "1199 Civic Center, raising of Centennial Flag (1974)",
+   "date": "1974-01-01"
+  },
+  {
+   "id": "AF1QipOrXoR_WJeMuovvJF_iKqd2EBgxTFCMsJSz4asm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPneUNP93G5iy336pTqIsbc8popGuBfMjYf9KFBF5WfLlap0BSuXFu-f3YdJIaWyncfFzhQH5REytEHJdWoXs2pNdNuxSycJtKt_3aqvIjdQ2cShdk",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4515,
+   "lng": -122.18666666666667,
+   "description": "1327 Cook's Seafood (1991)",
+   "date": "1991-01-01"
+  },
+  {
+   "id": "AF1QipNrUqiVKzYr9DqFixffD-26ENWP3RU99xSU8k7w",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOKr99SiIPH3NrTdEBG0Ah9QtHYm2yTHcJ6cVcE5OdJEp9jspiHgCfLsA9d8LBSQWT19TZXwQFQdagdH0l1OpNxaXK-hrLMgP6bwyLqQ85rl9k1HNk",
+   "width": 320,
+   "height": 202,
+   "lat": 37.453700000000005,
+   "lng": -122.18366666666667,
+   "description": "2644 BBC (2001)",
+   "date": "2001-01-01"
+  },
+  {
+   "id": "AF1QipOwMwILRIE7MvWtLhB86TPx-EJCignS6jbZ_pLZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPzm5O3meJGfYlohm5p6lAzbsQly8wHmQXzD6BzsudJ3LsoYUqqyUXUob9oniYRMYKcubsO8Zu-rq_-uR0gh_jRusePYSpP2VxXfsjRV_4MXvIp4io",
+   "width": 320,
+   "height": 259,
+   "lat": 37.487766666666666,
+   "lng": -122.168,
+   "description": "2735b Civic Center (1998)",
+   "date": "1998-01-01"
+  },
+  {
+   "id": "AF1QipO4iOqX-L-PNmN9FyZE3Gfsd_ZlkhmpqM-sNZfT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPwJ44PHmCMioYg1yXLFCkO8lvULotOtpoN_4dlDXcos1t11eFe__m0DkyRgkPUJtGiTo4zyD0_KyLfjb6_fcGCPjppmjAnJEue4puGWV0P3n6163w",
+   "width": 320,
+   "height": 255,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3360 Central School - Martha Lancestremere (1948)",
+   "date": "1948-01-01"
+  },
+  {
+   "id": "AF1QipOo28kQJA5ggD9GRc-7ZauDDE2ZWPAYwHK8Vsii",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPZTwO9qL4nE-trZon-mUxE3Dy_d25K0ely7NlpzKBeeBD7oDWbEqw6O-p_wkMwtVTlBXiL8185HIuLZGG1axBfBALfe5eAp8evtwRIIEJFQYFRxyw",
+   "width": 320,
+   "height": 249,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3361 Central School - Martha Lancestremere 3rd grade (1951)",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipPW5COiv64oP2OzMc3W84OXRTn8kj1jgXCifXnU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN-mzF3bcaIIdK1HRTQ_EEXII3LfEkY3FDTmWOY9njj9us9VBGodhj7XMZoSome1gP04wRQHM5S4Tl_oLp1Ozj5urbTEPrpBQTJrKviFtUFe8RGUVg",
+   "width": 320,
+   "height": 249,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3362 Central School - Martha Lancestremere 4th grade (1952)",
+   "date": "1952-01-01"
+  },
+  {
+   "id": "AF1QipOIbBt9h0gKeOZ_ckrqUkhGU2tlSEXfQNIH2Dwx",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMeYrDAcWYFxmBjX389XUGuavKvj7e388MsMfDPFpw25R_wh2dL1okduhPQ-Ekn_05oIKRIHPGwu2236ZwV5QFK7Yw7JqsByRnh1w51PQEPjf7cTrg",
+   "width": 320,
+   "height": 246,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3364 Central School Martha Lancestremere 6th grade (1954)",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipPI8zEV0HCoTmQSBTpsDbWDjmY9jEmiSahW9LKe",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOxgjkkm4FeGbAN88IZCKUPoOtntS5K2GXIf6q8mhWbFOICIi3pTqmEb2i7FzV_Zhi6S2Px0I5nM3b90mU_-pGamWk3Q9eCR3SC2UQ9QVLVSjckuVc",
+   "width": 320,
+   "height": 249,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3365 Central School Martha Lancestremere 7th grade (1954)",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipN0CYy5QvajMLcVL-HAuYWqrZs5l6dUFhCSMhZm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPeUqTY8tZ_8OtVVE9rnHyeDSnX_kusFCYYx9aftMlqQU0HOeVCbgeu8kyBNP-p0njyTlSFcRmXcWWyIEgCauix7Eu6IA9p1MkKZIUKe3MQce6k3ho",
+   "width": 320,
+   "height": 221,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1113 Camp Fremont: YMCA Bldg (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNKdPwQo3Z2Oo0DpHiJwmUg0l2WjG7W2r7oha-9",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMZ1UtlMK4UfEGdhMUDVjZ1KeGZUVO939XSudS9ImwxYdE8OruQ2mT_OylQb3pEKBP7n-kx_54uDS3AnAm094TklTEaGDQRNH4A0uXRkKWSunHsshs",
+   "width": 665,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2584 Santa Cruz Avenue (1957): Menlo Park Harware, Andrews Realty\nHayden Collection",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipMKm6x8KGF4a9DJzPo0bqdkLSD3mFnBOdPhOhPe",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNciEDrwQ0bOac6WbL4S6a2B6ClXbVXmYJBsD0_fOjaogzVZyFTrZ9N-mih5jQfiqtOpfTbE4Yn1wu03biMA8wcclMdmNU39qRcR5jai2jJQxOEq0k",
+   "width": 646,
+   "height": 500,
+   "lat": 37.453700000000005,
+   "lng": -122.18366666666667,
+   "description": "2599 Menlo Park City Hall (c. 1951) (in 2012 British Banker's Club)",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipMnnWGp0pM3YL7OgFiFTytHcbzq9bIXsQ78fLyu",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM_AB_gElXu_d-b2Y9RDkvf4YiTd_TTxiP5Xib7juv82v_DX5Fb_GmpY6cacQrYlUdmwL0_ZZnmoN1Cw5qoLeYAWnG7ZhYAZOIweQvwKvDfH_U-9Tk",
+   "width": 755,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2600 Santa Cruz Avenue (c. 1950): Consumers, construction next door\nHayden Collection\r[Scan of Copy]",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipPz7iJPFxwZLCRCazOGbIafFeoLLLGVBNFyDwXr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOP3fQCBNFxybSDPr6z9JH6hVqTiHRoA4nA9YN2pN3IL-X6NEW8lT3cENf6CEIryW90vcoV70E3M1_IYpG73lHJF97PJFATRMW08d8Yy_Yrl-iV4C4",
+   "width": 394,
+   "height": 500,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2604 Central School: First Day of School (c. 1951)\nCentral School\rHayden Collection",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipODHN-tYXcsbv4eU-MKYIXJrPCiIbY5Q-Fy7jA8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNN-F42GBV9wfSdiPrR14nwju2xDhJKIsSZkPPzgO2hinrclNOSZsJJT1W9BDNnR6ddXXaQnAj3KtAzK6vC38Qz0OJHL4R2VI1mkCKrBiTaFnCPQTo",
+   "width": 628,
+   "height": 500,
+   "lat": 37.4415,
+   "lng": -122.18766666666667,
+   "description": "2912 Allied Arts (1953)\nHayden #S-175-37",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipOMdfHnT272Ko2Dlz7iK1BRfa0B3lbUvcVc8Hgn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNhrpOJrGA0WcUQlJwQ3XgB1gmlP_LlOAbsQ2mgSZ-VWp3wTQI3I4wRpMmWyemG-aM1_IkFwi7sDbx3Jku7jIfc7zYOk712W4_kHb-_fRarpEbGs30",
+   "width": 621,
+   "height": 500,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "2921 Camp Fremont: Launching Pier (1918) (Cooley Landing?)\nLaunching Pier, 1918\rHayden #S-186-10",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMC8wMO_aB8SYrr00fBGJ0FbNw-G9Y41TEcjCnj",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNkvE_MlTXOTDOV6YZjb2SwkXq_dmPWqeDthKweOYaDEOyjiGSFqTz33-dOODahtyiJtdyKYaaraTSC3_fBJe4cx7BDtg-6X_d4CafxIQ6voSCmq24",
+   "width": 729,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "3000 MP RR Station (c. 1885)\nHayden #S-139-1",
+   "date": "1969-12-01"
+  },
+  {
+   "id": "AF1QipMIIDbfmHgROM9tac4rQCfzj5o6dKK1TRg2OQXs",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOHijUJygAMdtoC4yKIWFCBAd-eDP0dE0O-IQcWy0UZJGbqJzcjxxLWIAZEdUdx4768Ckf4Cfv5ePkqeL3lCsGi2nwBDrvSnfHouY8o28w-lGADAow",
+   "width": 805,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "3001 MP RR Station (c. 1925)\nHayden #S-127-1",
+   "date": "1925-01-01"
+  },
+  {
+   "id": "AF1QipP_Ef-GAeoEh4ZquxKI47ST3KcNgztp10t0owVP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMSFUP-lWTVHBM34B64_bdqWAl5HSB-IB_SGCfHev4I7cM62WAqO8BCque7PrgD0arGwmuFSAmLE3g5nt3J1TinFzq21L0B5JEZBX-AGSFW_Biir0Q",
+   "width": 809,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3004-1 Convent of the Sacred Heart (1898). It was originally a girls school, today it is co-ed.\nHayden #S-138-1",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipNR6jJT0E_P8GKRt6cs-w8NejIFuP6NrcrwAjEl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMJJwCB6-zpR4dAe-ar44L5jPaK_SfHJuSRvvWW8Mztqkbsf_9vkNIfmAPNAhUTTp6V-GZF02HYbw8s89qENhO6bMlnmKFQbuo9HyR4TL6eBDnyZOQ",
+   "width": 634,
+   "height": 500,
+   "lat": 37.43856666666667,
+   "lng": -122.206,
+   "description": "3005 St. Dennis Church (c. 1880)\nHayden #S-105-1",
+   "date": "1969-11-29"
+  },
+  {
+   "id": "AF1QipPRQX-1jm2YfLzkS52zWdYShkNYyIbX-OBPmPQL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNOFxeeQtXeg4s1RQ_IsxB7BUGW9tDqBQDyKY5GboiKX0jyhQp2MIWYT_0Ift6m3xroA1onPjs5f_aKFiiQ6vyVoDJbXE0oo7YcAoRaRRPiAmmo6w4",
+   "width": 397,
+   "height": 500,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "3018-1 Menlo Park Yesterday: History of Latham Estate/Sherwood Hall (1970)\nHayden Collection\r[Scanned from negative; whole piece]",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipPK6wLlTIn0nWuUqECz0wvGHKYrBHuk2Ij-qlHm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO_UcvnIoABisKGtq_F49U6jb0_MrFhYNkW7k0TGmVXZEEYXElXT9EnMi8E3SGoFz8O7V45puK4SYYb9zG-smI-VwkmYMvXIFHdllr49Jqa0zN6lDY",
+   "width": 741,
+   "height": 500,
+   "lat": 37.4558,
+   "lng": -122.17500000000001,
+   "description": "3018-2 Sherwood Hall (1878)\nHayden Collection\r[Scanned from negative; photo only]",
+   "date": "1969-11-28"
+  },
+  {
+   "id": "AF1QipOnE4QJxgQrQOv1gR_RwE3IeUxeFM9EV_INkMh8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNHO7qKKEOqU8fac_JXQbDc5JczIfaEejrqDi8T4oW2rp4LxDOuokl4CcLGrbau-1ZRVai1kbxL6-09LwA_Jh4LjJddhrxD7odWKsvLMcHNCCdxuJM",
+   "width": 681,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "3057-1 Santa Cruz Avenue looking SW: Bank of America (on left) etc. (c. 1960)\nHayden Collection",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipO7mFJhZ9XyP3bMzMbnx8WnTPdwKCvlgTD9JPoE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO2qyeizYfF7lzkNX0rvc6B4SzPh8x8U9WhzWcp1gTfw1ORMy-6GUFXBnEmUUWI_wm07YHW0OY33VEbs-YVSuAlIWgOiZaadZAljfNHlUD1HeXAI1E",
+   "width": 704,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "3057-2 Santa Cruz Avenue looking SE: The Walnut Tree (on right), etc. (c. 1960)\nHayden Collection",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipPcRqNQYlz72A1dE2Sc2aACWXaksrkDqBfrRJ15",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP8hJRVNEtchlGJWdgyO9gveFSLSFJukuud7hyCdmDCgkQklibYIpOhcMCTMCVDgCGxzJczf59gE2tS77Dh8Zav8X9Obmf_XGfBNICI_FCLZGkYDU8",
+   "width": 639,
+   "height": 500,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3074 Central School Class at Gindelle's Pet Shop (1951)\nHayden Collection",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipOhcdcskvzc7wgJlcNJunXIaCsNMDe8xnNjHp9w",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOfR6UWJTNRG-ShC1MIOTds2Tj7ddmFljx0zEWNajPcDe-rYunRb9ho9UAkVZNFVptRdYd2xXPwJYlY36oUOnfDYsoKLd8fg2gxh5-V8WYNFbvAHuQ",
+   "width": 320,
+   "height": 260,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "0004-3 Duff & Doyle (ca. 1895)",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipOOC6QFxldb8BMmg9a6vhrQLJPCGGk6QKOJ-vXi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM6M8VrQ_zSrVD3IbO5DcyF6qqNWOFODGR3QqWuNC2P1HSqptESp9GtrN8r3ZR-EI3da-5QjHnvd3NeIhfKBusk21cQCCRqLJoB5J0TvDmXQd6l_XY",
+   "width": 320,
+   "height": 242,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "1016c Duff and Doyle (ca. 1885)",
+   "date": "1969-12-01"
+  },
+  {
+   "id": "AF1QipM0DJk5w_0PGVOcmaKAlYo88Cr0NyRg5SiGxvJO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPOnp74sqSAmXiJl9p0SN1i6OAiqzckJRwsiH3RBggCpSvEWprq_YXI9pSlBydBCKKPtMIo4JV5Yjq6WoLFBIyKkz5aHQHnRvmluRBhi9EH1ylUpLM",
+   "width": 320,
+   "height": 208,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "1688 Duff & Doyle building (ca. 1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOiTJzOZiIbc4wrQEFQSKWCRXnEN2tPV7FwPDm3",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPO9achdWfjdZ9uJG2-Yfe_5TUoKntEuZWF9UTkJfkSC8TeqEw3gXIxzCRvNBwZaJVYy-k9GrOKr94mA7qmbeRzFOtVhc0RfVtqVXbLP49j2jeZlDk",
+   "width": 216,
+   "height": 320,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2132 Stained-glass panels, Santa Cruz Ave (1991)",
+   "date": "1991-01-01"
+  },
+  {
+   "id": "AF1QipNZ4QEmmq2w_eW442T20psLJkyja1BhL7_e7Hqp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN0b0HcrJW2Vu0ZsyDSU_MYZcUUdqedePSuhS5l21FfINeyNTeimaMWl58GGfDykzMi71PbRm1CPuaSuKZTrNOm1VKMTutdF3KnhhQxWAcau4okwxI",
+   "width": 320,
+   "height": 240,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "0541 Duff & Doyle demolition (1942)",
+   "date": "1942-01-01"
+  },
+  {
+   "id": "AF1QipNbB335lLu62mnPxL-GMJOUMtHRzfpi66AcCwdo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOPcTGskJAbPsZrkSaDEeUByquHsHL-AU_ruG-XpiquximzXewD55rfrHmLzWum0-z5qzczJByOg0-rLEeETXTRWb2N5_hBUkbVT8sTzA9JuEdTuoE",
+   "width": 320,
+   "height": 243,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "0542 Duff & Doyle demolition (1942)",
+   "date": "1942-01-01"
+  },
+  {
+   "id": "AF1QipNOqxksExfDUC54hEkQd-C9Kst7IuR3j7P00_Jv",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPxHNFH7Kvd8VV0nV_VOXTAc0LoHVyVUGlX3QUWFFL6J1VVAvQ7o40wKNXXUhv7AFD_H7PYYsqIU_SIMRGl_PVGxJkqWyYWz_MjFoGMCSeJAzn-PXs",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0134 Hillview School, luncheon (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipNh3jnzfkLfQXc0wSoiI-uX_jcu04SveIcPm_so",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPyINreLvK2eJK45MBF0UpVLPD7gQX-1HDh-cEl0BJYxF6SnClIQ2sUIPBUOZ3vI0fIt5L-to_t1X4t5A6kfIgNXJrTUUh8DyfSfPhWGyTIo9kMcYg",
+   "width": 320,
+   "height": 250,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0140 Hillview School, music group (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOtSpfC6MTPjV4PBl6-hVBZxhrLi51_wN5P1uLV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOb2siWSYr87yQdPqUev0lTzXIFxBhL8w6AIoRKKF8nJllW2Tfaugjx9zCnp3YyDsmAIt4mBYAokc7SP_WkV-4bn0UfRhGvoS24sp8JY_ZP8eHb5zo",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0142 Hillview School, spelling bee winners (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipMCIkTXFsH6UvAw1yRAzYaeomGWGr0OsZc5aTQm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMgZuSu0-y_NhJrRjLJrROA76N3rjzMW01dINLTrlkrkYZaQMUHP13Ls1zbnfexVOuRrmkVV5A7aOw2cML7hKXJZFN4_1wjkGBpqxSL5kKIZGBS2og",
+   "width": 262,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0143 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPj7BckEa0phpDo7LhfkkeLy_otoiWa3B633SZB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOXehHxDY1gXKBV0drqPYJDOpkBMD7hORl-ZbuvCyAIm0g6iVZnd0FWJ7VRaZ-FOldA8IbioFLdDWu9l6qQU3LpfF9sVevVRkQoibGNd1Ffp96uAOs",
+   "width": 320,
+   "height": 258,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0144 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipNG7FC0AwaOHRRupnqSek-sCZ8ypEPKBvs1cxl3",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMOR4I0ZeN0eo-fw1sgd9CH_gz5gL5_z_ugDPPdrA0c6g-1Wo9935KMgXM5pzmxzTlED2qSKBLXf0f7AUHduSMO7wAnUeOklGDvii1KOvTm-qIfEuY",
+   "width": 253,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0145 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipP-qj2nxfTxAM4NTiHEibMUECSk4-qVcpsCVlYY",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM8tlI8ED29yKR24xwLp-zEXRMq2FLG3QhsCncX-UlKk2KB6crKvIj13jlL0kkRiHP-qWd2GHex47N0w-LL92jzQxDHvlm_CV_LQZVz88JO3UCgh_Y",
+   "width": 320,
+   "height": 253,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0146 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPm9ITPlfwb_INzBYDlYlcupe3Q3XA_6e_gCNHP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNE6b_-dc_sxdVbnmmesNk4WxSkJ0lvo9dukvRmfLJXW3WwwDA41m7_su72tMkdE54_ylNBxLwD4ZyY4Kg5KEPcTQeNh2n5nS9SQreIF-s0Bsb-zuI",
+   "width": 251,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0147 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOvxOyWzQPBMC1aSG-umUhrvCAu0kZyQY0QG6NE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOA14PLfsh-oG1NU0UpMhXKGuT4EgdY7X6rPdhmwVa_9wOMzWYbqUa-BpBGbMZwZvOpyTrGlA8ultVrnaTTODE4KZzFsrKtJe8Vrn1mIowWuxdQvvc",
+   "width": 251,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0148 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOX8yeHYheNu5805O5xYjGCVZofHFYP09ZJRc5D",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN5Os5ME8FPRrVCnqebkDGC910NVjOwjMdguKyNP67ZWmnbsTyAZjFB0RWBUu7hiaGYKXgGR3WqD-k9wzew0hi1ND2NZBrvqMtqjM09nPFC_NbIkyE",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0149 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipO0nmK-al_ZzYc5nH2VeVETEQtqIjb-atluaRoX",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPVb_3AMU5mHCdVtJ3FkCs8oh_CY_BfEGz5TdcuISN81hVbg_xhefRRsFOU6xAuEnSRSxLHU-bb2IgqTdueR1GEwm0qxf3BqEzgBXa-PC6ILVojWM8",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0150 Hillview School, UNESCO meeting (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOEwGyr4f5-KVynjPELvh45QSBWD1UMJDfGuigw",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMTyj6zJALuos2E1xWxDOgDGWhOD5b0HH-LuQQZe3onAIIFkgtFdcboTW65c2t0iYUUky45xTuHbJvOIiJ6zArluRR78vM7_5HgSyWn2h4fKWDq-yI",
+   "width": 253,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0155 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPx7ytevIt2Vop4XW_l6cZYFf-X3e879AX1hwLi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO8OEDCm6tPCLQTJb5A1O41BecPHp0RJRO9flsmyYvKU_QcMBINUnh1a_omgLG_OvTsrQhwlvz7WvsjtbPT9aXotO9XXVU26S4ZbnGSpb80SlQXeWs",
+   "width": 320,
+   "height": 254,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0156 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOY9DPYMCJCIYF9Bd6PutpI0lqoBk_V-9yXHLjy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMeNLc5EepKV_i7znq1rV2CaZJ5dcD6gZATR5ZetevzMasFGDLmkwOr6qatSAViK40iR4rEhJIJNuJ9wfiAmrzZUrLE9YXqpWAJJ7pbI5t0-v3HSRU",
+   "width": 320,
+   "height": 256,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0157 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipMnVX8MOYIGEMouxrDi5c6xPTJ3eFkUFrVjzr8Z",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPDmlGJPEwmAhN-EiRi4dPjFBpUlwA3YPeorLvipVLo47vuL9QelVH5WxNMfiph65tnc5pKPyFuo55FvbpBRkAV4K3eIXIpQnOFm4SxJOz1hKUyBxk",
+   "width": 253,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0158 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPsNeB96jpXgKedn-_pkC7PQEkrDnIdaqZlVkW0",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMJeHCS4T4G97vaIJmOHkUXoJHFcZt60teBuaMJLohRbriG4DHnZGhNojcZOwkvhuRjVCS2DYUfQhSquQlmSIOPr7Y7DKDgRw1TNzAEX-uh3XFMwtk",
+   "width": 320,
+   "height": 250,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0159 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPwGRT1RtQ9k0fdJhpCvDVYOQGzX5en8aVKbLCY",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNVS3x96sj2bJL98psiMgEc38TXocBaHyMN8-UVvAoGYGDLX2C1ebpGVkQcFbO-OuCA_G9iS-sl7PK8aFs0CKnXeONeio0d4WpHGWL2r5u855WPHhw",
+   "width": 320,
+   "height": 249,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0164 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipMtZuRPe1d3FW1SBt2RE99VpgvZs-lf8UpYYCNI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQEOe1Rq8mYMZds2zw4fI5fjTIFy18zECymWyrZgQi0q5sFa7pxbzRDl_Ca1Rr23txTt5AB1jKAeUffEisoqy3Fg1LxgZEtJ5NXcPFp4vDqmg3RS4",
+   "width": 254,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0166 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipORxtf3Sw2WcfY6W2ORGIaWiJ5YgF5VVto-q4lJ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMLpD3l3T-RD0vplVhycBIvgd4i6vjNzxq3Uz4EUm7U0nVJBwt2UqynjJxoxUD8NlHSiZBRRXIryRDB5SBCjVBKmao6WASibcJ2-gdHkfpaiEepQiQ",
+   "width": 320,
+   "height": 250,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0170a Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipOZ9-0ILQxy1pt8YfUgV-PkamaH8lFt5KgjXWFN",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP3AEKPWQ8HLCKpFbuPTtixbEZi_cSoW0ylTvjmeQ2XfND9vyWQ3TYB6LO7G5prTaUBiW6DMHenkumKgK-U25TOEx-SxieQQCAMT5cf9VQY67Wh2Hc",
+   "width": 320,
+   "height": 250,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0170b Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPNo7e1f9ZAAJcm-1sXTWt1X8FuIrsba79uX5Xk",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOuRhS17OZEU5cueGoBfDXNKwT7CzzF-7NJNRlDJBUyyNlJ4BKJRIEm5fixpSd2u7LOViUeCttfMgbRxJfUfy5-fEFr1O19S8WZRv3e2NwX4IPZYms",
+   "width": 320,
+   "height": 247,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0172 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipMlCXLp0h-K4pKNyVQCGsQY76aKVARJvQTWiNlc",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNKzKEZkMx0kdlAZY4u2KtARvUqa9ULGLHDnoufwqr1i-XjkdSfA66DIdKnNkNEqKT-AZ9omJWiCF44YaydWoYQ7vMhFDeJfct1k1ymz4kJb-Tpjw4",
+   "width": 247,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0176 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipN7JdrDrsR6itEw5-hcBYLzkPnwwnQM8nUgWuCF",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMAnGKC2wNxUIsqALyw59CcZFakw2kVdRdoTGuRKQ5Xt2FtHO7puesaCPYRv1E4l6DgkYbAr8B6A0P4rHMSFe9D4IOLHYxPrV_TOp2S_nPmFt_sJZg",
+   "width": 250,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "0177 Hillview School, District Science Fair (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipONQofYSPHBn-SBrH0u87EbWPq16g0m6wOGLzFr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNLTBSwKjs67zS1_ZHCq4FLEcOJaWQJx8pTNBqqFEtBNioXVALTrxbkls1ZIWX6KH75o6Bywo5oIxu6ahLe4FO5SqZ1CtGObkSkbU2C3DIQ1o_mafc",
+   "width": 320,
+   "height": 240,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "0729 St Joseph School (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipOsLF_DpiL0fdz3aZOjzybk8ygpH1S_FfIpr9mP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPeSrCMcoNYwDUykDzxXcwWDkXEHqwb0mVH9D3ZRB2BeKEYImaxXk1YCT0LVfxhGFclbr6iWkbN9tjm3D6zJ7fPWCbhLS_lRBwRNtuhQ8bHOh4KiYU",
+   "width": 244,
+   "height": 320,
+   "lat": 37.4562,
+   "lng": -122.18766666666667,
+   "description": "1615(?) Holy Trinity Church (c. 1920)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipN9Mhc-MOuCsuJP_uLc_5_lT7-tGelUNe7fZ2JA",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPzoPwK6ZuM_-9rqGAS1P2h6BPja3w9rMXCnTbw-9hKiUjECSMlTVt8maHq_1ftyRA0Tzc7Pwha2Cvvg-if-XEK0D-362CDKWKjDEcZd3k2qTvsIlI",
+   "width": 320,
+   "height": 264,
+   "lat": 37.4517,
+   "lng": -122.186,
+   "description": "1649 Mitton family home, Crane St (c. 1872)",
+   "date": "1969-11-26"
+  },
+  {
+   "id": "AF1QipOAghZfZ7iX5wm66EwIiqw9uyyVEC05TZa76XBB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOkMkM8CBwc1E0UgAZZ0841ye9GGsb_tj9yPJVoT7HepwXbgV1d7sawSeHb1F9rELmZ6XbFVNNf822icwccS85G1ckYSmrVMejfvG99tD3nZnUgW_8",
+   "width": 320,
+   "height": 223,
+   "lat": 37.453700000000005,
+   "lng": -122.18366666666667,
+   "description": "2645 British Bankers Club (2001)",
+   "date": "2001-01-01"
+  },
+  {
+   "id": "AF1QipNlsSSMYfKMQqzi4bHxSsciGUg2izLX_GVYjKa5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPIMGatUw_7ssksfN3zYA4O1TzIOKUzD9WtVcLyIkkpzLBow9DgX7MCpCxOerhw7bXU5K5yd11cwlrw2ulX2TcCWSWZUXbzIBfMtuPxBxlrQbFIQY8",
+   "width": 320,
+   "height": 223,
+   "lat": 37.435399999999994,
+   "lng": -122.202,
+   "description": "3141 Gate, Holy Cross Cemetery (1920s)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipPdzcCf7GuKVz3p13GTxiU8_xyabmv2iLpBBk3P",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMlR9Pz9miHrOPvdMx9pXyzLar8am1OPcNK4SqgG78fkip_a69zEXiWv-MFFwdHjZjcReLE67TZ9Kk4TphtLjSCz5daHPzuf8gNizRnJw-ThE55_qU",
+   "width": 249,
+   "height": 320,
+   "lat": 37.4394,
+   "lng": -122.205,
+   "description": "3275 Hillview School (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipOkUEVz5WZISwjcmMuiRtRTwYkNhoM225UMG3BG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPrGDPwf7xY6r7sXTAjTtefs78x9pZlbB7Sonu5Pm1ImzCSfDk7LF-wFyRS05ZKtxtpIyTvaTjcuuUVYV8femqspzHjUKeYmPyZseCYFERYh6wM8_A",
+   "width": 320,
+   "height": 235,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2134 Menlo Park Hotel fire (1895)",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipNytyE2tfGT3R0-EaBqhucDTbw3Hxnb4LQRd9bU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOy3EbdEd0SqGHJ2gVFlgVArEH5LA4yKCcA7BgmkKIt0-3po1GMIgZGBCNiKs9qCwxtcKyPWm087-7CUM6JabPvy1siNR-s5e5lKG7sbJnNyZT_6_Q",
+   "width": 320,
+   "height": 207,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0030 Home of E. W. Hopkins (1908)",
+   "date": "1908-01-01"
+  },
+  {
+   "id": "AF1QipOOiPySyJhGM_tRLz1F-IOvQWziG-_InOfbqscv",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMNH-AOT1NJoVs7FWkhvxBHvfGIacCCYVLSlFfLP3jwzATm7BK-mweSioYRw2MfvKNsBrX0ZjIBECNhZhXlgbYfiSeHJUxTq7-j1QOr2_iW-6XkvDM",
+   "width": 320,
+   "height": 240,
+   "lat": 37.4562,
+   "lng": -122.18766666666667,
+   "description": "3346 Angus Hall on Laurel St, Trinity Episcopal Church (1920)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipPbkejX30R8ii2Pvh2O0TvNYehkTaiF2RgmTwPK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOKFEBnlXw_yy0hmJyVKirm3R0oJAhpY0Pxr5pg2-UHyH3DeRfrmIl6mu_KvIzhCxcx4flskebSj78dx2leJsfABHdvTKI1e5nroTC7laGbfFMbKjw",
+   "width": 320,
+   "height": 234,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "0067-2(?) Menlo Park Hotel (ca. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipNYi46bzbYXjh9RPe63IaDCTq1xv5Cd-RQHN_ST",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPqq8Szy8X_s13d26_5lKqrr5uycZrEyMetRCOFFdA5m-hA-hdO6wj4HUlfgblX_xPWvq6mSphK4DVH9Jv-IZOiKwxyOuAxTql3s2WbfKGkFbKw_x0",
+   "width": 320,
+   "height": 254,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "0067(?) Menlo Park Hotel (ca. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipM0-m2pnpn4GOCupLiI8OvWKSdp0trj4qqVEIxL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMvYwAgtSb8YiPilabn_MJWgz0skH-yJOBOnFdP74RTceRT4rw6MaqqjvHpGE7862WW9eI8pZ37vTbQ1OcOe_F501UEeYPhDjrmnpcC8-WAL5DSLbI",
+   "width": 320,
+   "height": 207,
+   "lat": 37.4547,
+   "lng": -122.184,
+   "description": "0067b Oak Grove Villa Hotel (1908)",
+   "date": "1908-01-01"
+  },
+  {
+   "id": "AF1QipOaHhMQ4iTXAJpXpuLVanpBgK44q2iPeQrMKYGi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOjUYgAT3E3oYJhfqzAQsKcEwk22Hs5a2zuP71CubaJrL6-LYaB68Xu2p4KdJB_GuqDlCpcdekxAqMJOaBud27MEa7C-tOFqXBiPqQWRtNcQCZWnlM",
+   "width": 320,
+   "height": 203,
+   "lat": 37.4557,
+   "lng": -122.18366666666667,
+   "description": "0067c (2) Palm Hotel (ca. 1908)",
+   "date": "1908-01-01"
+  },
+  {
+   "id": "AF1QipMCdQNk4CeOZn_Q7otNnfioVxzsBH9udCY26ku1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMAE0y0CEUyjUnSOTwjMe-12LzNOpZ8wjxDL1_e_OqxBQeXnpj0WejbctHHhnFUB6NKWSWsD_ko_qlI5xwV7X9gbgZerUdgg1K1_pPc9TTSQ9KLySE",
+   "width": 320,
+   "height": 195,
+   "lat": 37.4557,
+   "lng": -122.18366666666667,
+   "description": "0067c Palm Hotel (ca. 1908)",
+   "date": "1908-01-01"
+  },
+  {
+   "id": "AF1QipMBs1_RT0H_RhtvxGL95VCfCukUs-OHm7HcdMq0",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM8t_lPyRryIfJHAsa-8QUdYZ01aACoLvb6JVgaKYwudT497m_GfVNcfNDO0SBzdB9uAE76X8KeYyJXx_b_meQoAOrfCbNTG_vaVgAkpOYTg6azyp0",
+   "width": 320,
+   "height": 240,
+   "lat": 37.4061,
+   "lng": -122.24,
+   "description": "0774 Searsville Hotel (ca 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipOrbaVkDeE1B7P_aaAFbpWbrvt44MVa5Pdoyhza",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOestCeUdpT92N_Ycp3dIbb3xx3GCu_WSvlngMShagSJp9Q9Gs6Hs8Iib30oEEu-NWUco58WBxiFr6wLd-oatklIRqnqCB-CCczKH0Y8MdFaqVc894",
+   "width": 320,
+   "height": 284,
+   "lat": 37.4525,
+   "lng": -122.18566666666668,
+   "description": "0234 Kepler's Books (1955)",
+   "date": "1955-01-01"
+  },
+  {
+   "id": "AF1QipOgiukchdSBuSXWDHGqJcNP48izcD8uACcm7Le5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPKScLpN_r-Z8o-bdFGp-OZzvbMlCrcvpmbtMEs8ePzRmLc_9p2MdhVQn2U1ET0sZcDpXMlCm6GBdU3waiv_OvchfZsxDo15pO22sHyqdCwlxMJStY",
+   "width": 320,
+   "height": 233,
+   "lat": 37.4519,
+   "lng": -122.18666666666667,
+   "description": "4806 Kepler's Books (1962)",
+   "date": "1962-01-01"
+  },
+  {
+   "id": "AF1QipPeRtK9ShHAdvycBuTlLKRpP4nYmEidht0gjLRg",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMbbiMiLN1bPRjYr17HEVwm05zBeTM-3Pjad_-T55irnQ-7AZQ7xXZX22OHjPeS7YsrS2BAEoe9Y9C37X7QNHT8B3ZwnFwGESQSFf2EoCqcreSvF0w",
+   "width": 320,
+   "height": 221,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "2222 Renovated Library (1992)",
+   "date": "1992-01-01"
+  },
+  {
+   "id": "AF1QipPTVr6UojYHAcvgXa_pYXvbv5TFHsz5j2oj3dKk",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMLx07CA3tHZlBMcMpw-13Tsw4vlD0V67HcTbKRpXSHfTAqZ_armPetUPkvZ6ODprp2kT9hMaIeqCAKygAu3yIAcCkvTSewwrm8FUyzshvHjcUIpKc",
+   "width": 320,
+   "height": 213,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0457 Los Lomitas School: 3rd/4th Grade (1938)",
+   "date": "1938-01-01"
+  },
+  {
+   "id": "AF1QipPgy2H3VSCMdGKi8xMBtYK-397276qsH724XXqA",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNeV6cEh53pUT_dnd9Wd3fAI_FOPWBJkHrYsnleYoz5dpVJxY5OnPDYMMruSxm1SMtS9yhGByHM6DKwZvQDwXQIE1AjbqTMBm8-oPzdawmF6EjKt0w",
+   "width": 320,
+   "height": 206,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0459 Los Lomitas School: 7th/8th Grade (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipOGTNkE7fSRSOQrpEQtU5AQOcySF-tmNWuAdPoK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM3Bv7ucc-F-ROchdk_WHlm-jEvAdOrxt_Dv2wh2iUh1U7SVilUgVXHQnX4KC5D_9IiVTxIAVHfa3ucELFtRtLcV65Mx2xnX0tF_qPeSswyyMHeqBI",
+   "width": 320,
+   "height": 122,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0461 Los Lomitas School: 7th/8th Grade (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipPcYI2xwthlyb9F3JgyzmvZ5ktHECu0WFsfALwt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMC3a_Mn1N7nGMCCO3iJPZHJr4bztLvA1FbDyvO4ToJ0T3yIwEFcXvjgmd8hAnHZ8fKoNJMbqPVqKOmmClnqYg2o_xBKL0BBQkM1EzrbCf0CG6EmeI",
+   "width": 320,
+   "height": 211,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0470 Los Lomitas School (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOIXhiVRVJ9AzArbzD0QCDl9x8gBS_VwuWYUJS6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNFeIpVKfk7erMmI2ndb0c17oYc7KQ_N7pD6xNirU4YpdDA5qxCpj-ZBLnTGZx4onJHCxcLPNnkYu67ygWTRywpGvW2FcF3UB0uCaxR73VxhQn0IFk",
+   "width": 320,
+   "height": 224,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0471 Los Lomitas School (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipMfTb5yMQMMcq0phjpUdIknPGMQDv-QPbcm50W-",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNwEJvJNaNZUXTCbk4jktuSUwrEsx8pab2bOzTxr6x5pAHspXD4z5BbY9ziXzP8IlirPHF_c9ljs1nPjVsDidZDojZSgT_FTjokxgALcBSPsMcFwGc",
+   "width": 320,
+   "height": 220,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "5187 Los Lomitas School: 2nd/3rd grade, F. Helfrich 2nd fm left front, P. Helfrich 5th from left middle row (1035)",
+   "date": "1969-01-24"
+  },
+  {
+   "id": "AF1QipNRuaDQWz72Inwvyi4v61I2lc9VWpnDw_uYhLgh",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNrX0Evge9SkDGTbtmXVa2WFPb2grb0zG8QhOKVNLJ6muCVV8PYk0E0c_RC_0-oEMY-j0QB-RsHVbAT3tNGa6HBMumpqJowdTCOqIH0F_zYsoRc94A",
+   "width": 320,
+   "height": 185,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0564 Los Lomitas School (1934)",
+   "date": "1934-01-01"
+  },
+  {
+   "id": "AF1QipOH9evdEjsxk47FUT7xlBAFEaky40sLfCg2muJq",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPeQ-WXbSAAPvdAmojxMe7YFqzNWi7FQb_jAYa_vO-kZ3km5pSb_61RWBYvS5IalMXDBPTdqbBYWONdb3nWY9uXu62B-_niaG18GwMdG63hp_eNQw8",
+   "width": 320,
+   "height": 213,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0926a Los Lomitas School (1938?)",
+   "date": "1938-01-01"
+  },
+  {
+   "id": "AF1QipNX9V5sFVLcwYQs2FtmBAyWyymFAID-iUbQM1yq",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNPOIqZZyiVX5xeJQOT4DOzXk-nikYVgx4OND7du4junTAJZKA4y5x-tEfx-SpiVGkea9G2ez6SSsrmS_Tc9toykgGqfKu_qbM8iT-NIJOlJVjKwBs",
+   "width": 320,
+   "height": 217,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0928 Los Lomitas School (1934)",
+   "date": "1934-01-01"
+  },
+  {
+   "id": "AF1QipNy1Xn3A-sd5AhY5k6gnBPWhZSB2oF_me5WeqLI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPgEjU6o6XMTHVtUYXgvE6RE2XX8NyCuDBAQuh2mMUNC2nd4oeGZ3vzsd-TO99hG-nByJ2PeWfyM8i-wUqTTdBFLKyftHOn0dGXA4jM43zZRMM-zSY",
+   "width": 320,
+   "height": 230,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0956 Los Lomitas School: 7th/8th Grade (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOL26aLcqCQ7lsu2F6D9xV5nGLgN-0uUTZfC2ad",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO385eWvev99BzN0gvcwMoqBwmiHWuDVXPtj8AwF3-vlN4ms-agR0PEiYFi7MHplVaS4iA_07WVi2bevU_uB1eW-kpYdqETbZ8nxbwynrKsXRjQQo4",
+   "width": 320,
+   "height": 215,
+   "lat": 37.4381,
+   "lng": -122.22133333333333,
+   "description": "0977 Los Lomitas School (c. 1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipNCLXqJsYeifDbwjmMXSY4CAOkckC8YZvKfHlav",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNLHqbqZ6hsr-T3KbI04fcLWY18slAy6TBITs6bMMfj3xoHrv0dsVG5cN3VDzFkVYMgjF_FPmqdyU0-MICqaeXbn6LX8AQ4FnQCXyC_GmWqC48pi9U",
+   "width": 320,
+   "height": 213,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1220 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOQQCNFjKPZlW2GDTbJ7706qZveKKZAfXaZzjyC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMf4CqwdT51DroSw1O5rglPbrTwwsrPGRcdERJFfelkzLE1ukZYGVrMi3kDvdavfKPf0UJWT2GeO1ryhQ4oHy5pxC8KLj75XF7goQaRQBy1p5Hv1uQ",
+   "width": 320,
+   "height": 215,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1221 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOKlcWP80YugoWi2zF2k0obcZoqo7bQRGkKz6J4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNuat70fi1oXhhp-XsXV2-5N92lqAf4EmeLO_x99cc9-0vDaVKl4TiHRRprm4w77_hz0HHdUPlUj3_HvEdMwHZLtD31HSEFBwoptJqls6e3XGdsaBU",
+   "width": 320,
+   "height": 217,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1222 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOSaWo2MopMYZNymLh1UQ69jheTQ9UNQBxkcwbR",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOfY2ayWrvozBMt9BU6o1PNR1R0ir7AbHhIfX1pjq1Gp8Ff_m8lRVwM_1yACwfKvyl68kgB_DSAnf58i73zwq9Gi5J2AiOwR6RXrXLDWKa62QPzfv0",
+   "width": 320,
+   "height": 218,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1223 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNOxFciRy-k1-KXjWqP7moccse_EJVEb_M33u3L",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOzOaAdlA_kS-I9Wgi9B9N3A8C8YA_UoAThSexTaRLKOLZaqOE9tHGNkzBJcoj8Rmq8n-tlK-UIgWK7IJv5H652GaDKc58XYJubREeCiYIfLCyEgus",
+   "width": 320,
+   "height": 220,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1224 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipMV-yKlTn-X3Jt3Ton8OsW3X2PL646PZQHXHFV8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO_quGwpHYgZQrX-1Vss-msuLADV3bPyoqIHFNCR0_5ilRlE14yC5ynoWX8btKFT1nv_Gm6xWYopW306W0nmjkm0RWD7IkMvIkXzPMOHyXDUgGW-0o",
+   "width": 320,
+   "height": 223,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1225 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOQmoo50acTyqxvHYtYjqrmnZJzAuICrJSOGG6r",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN4ixdcOrmjHCyJCoz6dAvAkdN_uncZjAUko80YKBgF77tS9SWqFMp6dipUvBFycs2aqvjaNrCSDGmfXw9fuR0NE7acBdPsm0wwVfH4_eWshqt5zbQ",
+   "width": 320,
+   "height": 220,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1226 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipMS7OqWloRor5-iZp5PaO1zKNIOPzib5E0s9UGR",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOTix_2GQ-NXSGaRGIIvJwyTamrxxuabQwB-Ix3kZLWOwuXWOmijVGQ-dvWcnLwLkVlruv9gGgawN2xIErQZ2-QemoBcu8O68cZnKri6lPgBOarsag",
+   "width": 320,
+   "height": 223,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1227 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipPD92GkgAt2Ie09YMFd1wl-ka8iT8e6ZbBUFyKE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPAptppvsGrycGX32j3VVeqEioaiUmKnDfCU7LBWVdnr4rkcjQIYRuQT6NkCIUuHKo5XXdbvycx_Qt7wVpJ3MMkelnN92su9bVFFexHdanrQaAWEXg",
+   "width": 320,
+   "height": 220,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1228 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOnhqI6lZmuXADxk_-ta06gBFKiCVFRa8VUJiQx",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMG-UN-I5VzBoEbbGEbuZ2yXGlIvTgost5zZaJ2EWzMloj9qelmT9AOLh5tu7ZkQ8fVGfrhRI6O9IPX9ToAZv7WS7QZbl9G8jCr1w9Qd7q0EgO3ZGg",
+   "width": 320,
+   "height": 220,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1229 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNDdph8h8P_vekAw6aTgw8RGqYk003rCaLCncVa",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOaj2vd1v1fBF2CYTeBEVEBpZeJuQ_9gWMkqafjPuwmGyi5pV3YfPxiSEP2I0pW2VQlR5DyEpsIDnbQayCMCZPeBfZ8FrUWF4cTE6kLDabkrzQ9oZI",
+   "width": 320,
+   "height": 257,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1230 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipM942SEgu6WhzHLZrtrdRR0ajwC13gF1_bTu4lr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO487dvxEH9qeWaRzEGTAQ0KX9l3nQk8UxxX4RLVZn8U-s818KK4Dk9bWwK22BE60qrM-qhX0KCQshSmaHsWh-z_ZI6scDLjJnRZJpJORtsDDRSyqU",
+   "width": 320,
+   "height": 257,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1231 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNTUgjb6I2bnxE2eY86MBN_6rMeyfGfxZAYoEP8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMsr5Sj9npKqT27jve-yHhcyESo-LE0YrjhNcML_bPh0dwfT00mmKh3mBjk5NmikQu5B_8ZdsANkoM9iMyxSlJGbSZPbLhI4Q91WWY0tr4sGqCuRCE",
+   "width": 320,
+   "height": 256,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1233 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipPO1NNRqWGZV1G9e94VGktalQgr3v2MJmOrAiBl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPWwML-KzAQ0Fotz7DOqV6n2NOKGHTIohiZHqQCyH_Jwwntdk63X28nzyO0pNyXWDx2H1lmHjOZtmDBxVkC7vyjqG12Iev5w5z4PIZC_y1T7zanLQI",
+   "width": 320,
+   "height": 254,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1234 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNpAvK7vn6MinDwjSOkC-cteoP3INRfXVb3E_ZB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP9Ezp_TXocxhK8flGINYNjbt-jzio1vnejZ6I_IX3AmrSjm9YqCypSltoHa3oyYSljFbQqQ4iWYLWBX-00gOXQsVytmd9vIZtQVaRbZewrklbUCrc",
+   "width": 320,
+   "height": 254,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1235 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipOsMmROg-L-OILsKNbkNXUcE50beYmsEJiY_-kz",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOGT2RPWwIcy24pwivWLkrdjzRD6-jJBj46CAJRjBsvID1e35y_E2BUgzM6fVwHz4I7VrFi48i9Gf6i48HxFuUbVghj6T8kD_Ce24Z6axmBSwyzVF8",
+   "width": 320,
+   "height": 257,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1236d Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipPzCWkZGZt-MJEk709YEparwonVxynlXJVR618B",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQDfrdqeNO2e6pPtRQs0KNM3SvuR_y27PzpcGvCW9_dQ0lsq4NWt13DVSNuYtWo3QxNY9n_SA_7coerZ9u075ua9lxBlY4DeOQkiVWo2euwA72Ie0",
+   "width": 272,
+   "height": 320,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1238 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNpo0WLUBiungvlOQhAO21PKD1dyiDmkezQa9ct",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOpNItZhHjj2Vdk5FT5LoJHkXxG9ct83Yb8KhWJkOInpGampQROQ5E69KlFFuAG79LlNLhcLpQEDOb6YeKFzd2KHE4RJL6uxSnIZxowEV-dWE4uuM8",
+   "width": 320,
+   "height": 224,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1239 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNNNfP32-ok7EUI6e3gOvrBKVy958sthUyN-uFE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQRmtRmT7rhECqYAITAoXv66YnaJq3Oy9Li4HSOBmNvyHX7eUDfZsAIO57cIyXA41-2WR0xzQ1sLAH_zySAUgLg2yKpUnC5mA-OqhZOKFJ6AbN7J4",
+   "width": 320,
+   "height": 254,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1241 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipObZqHSdgC_la_N4OGju2a2gK9dr2da1ipaS6m3",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMOzEOyQR5Goc3jwoE37ocOlB5ts-ZcZYvZGOymCNx5rFkLYgslnaBNc0F5hOYnWzFVrmTVwRa66bD10SLY_qEBYdB8-hPPTNcu0qzG5ni2gG1AtTk",
+   "width": 320,
+   "height": 258,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1242 Library dedication (1971)",
+   "date": "1971-01-01"
+  },
+  {
+   "id": "AF1QipNu-z45jqeRfdtUogUpfuTis0RmBgDSgBx-73j1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczONWY4eaUaXrKYLo4Is141HEzP5X0Yb9ryhfLUgXvtEtF2ays5A7Pg_MaRAJuqEakVdt_6MfzMeUaeAE-vFQuJWaqoGSmzvenf1SikyK5UFdIkdz1E",
+   "width": 320,
+   "height": 213,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "0988 Menlo Park Library (1960)",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipPwmUUIQqKzXygQ-FjlTtZkqMtQTHE_dAjbgeDc",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMPkI9Efye7t-2J_-MvJbLmjTuZyvttOYvLxMOKIckgw92-vKptX-vBsTHxN8KuxUKk8ekohWuHZVAwyOky-4X-98Bfd8BZxDsaZB_OvlXt7w1an5s",
+   "width": 320,
+   "height": 190,
+   "lat": 37.4528,
+   "lng": -122.18466666666667,
+   "description": "0180c El Camino Real (1936)",
+   "date": "1936-01-01"
+  },
+  {
+   "id": "AF1QipM6svOSZScii9ycnnHkL344VxwgccTtq5DvYXO2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM8Pt3kCvHk_1ddGkj6F1UvjFWApaa-CrNrykcaFye11WoMftOZnGN96MQR-oL-R9YhtMjiuXHEnU1WsVw0L2ZZTENLGWmPXjp3ht21uEgw_iDxJfg",
+   "width": 320,
+   "height": 200,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "1810 Main St, Menlo Park (c. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipMEPj7Y6FczqPrfUbNOevO3vMg3Q67JYZ7eZM75",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN9gI-7Qun9uKrS-0w7nWRDdF2AfYtWBR4wY6tl9qUqaE2f3iHOh2mkTb9vcym_44kKORGzLK4uQ3-PQ0l_08hXz8JvYzZVaHse8Kp-jnrfBHnG7_4",
+   "width": 320,
+   "height": 194,
+   "lat": 37.453,
+   "lng": -122.184,
+   "description": "0187a Santa Cruz Ave looking NE (c. 1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipPqUQTWI3FyUuCJsvePR5f3qD20upue_47849YH",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMlWf6VSSiplTzHnhwZXdnrausTlDSqVcleBPmgOmli7zUO-lPQTMbjjsXK78jdpGeJU92ftSdYL261JHhYNb9-WFys2JpWEhEbRXZ_WeNr-aEJ7BA",
+   "width": 320,
+   "height": 201,
+   "lat": 37.4536,
+   "lng": -122.184,
+   "description": "0193 El Camino Real Menlo Grocery (1936)",
+   "date": "1936-01-01"
+  },
+  {
+   "id": "AF1QipNSoC7mc6tJUon5GXaJwTz8af0ERegqw6EsZdbU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOwxDq67bgF1WViohsxoRs4ERfzmkuqIxOJ2n6SyQbZ-ipChfkv0EQu_Xd4u3wDzE66H69Y1pJ7iB9AjxmJjZGrR4vhuurzTJGJnK20RsbDKvon3lk",
+   "width": 320,
+   "height": 177,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0656 El Camino Real bridge over San Francisquito Ck looking SE (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipOoBCXUOwiAufMrcoTZYcCKxoaZJdh6EITiDTLa",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM1NJbFt1W0J80L_tz54yMqOAsu_MCc7zqRdmoauaTt8pH1Wi4TsIXKMi9VmZPZDm6a30m8fbjF-UBnCd3yS8z68Yyc-zkYstOAs_HFaltn9n_Otno",
+   "width": 320,
+   "height": 177,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0657 El Camino Real in Palo Alto - Palo Alto Ave to left - wall on right apparently part of entrance to Stanford estate (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNEaSCCttPIo5vw1SEmVfv4SeafYuMjYKE3osiQ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPTNQ9VVuN-3iy3E9IYaFtvK30ouqWThYrnG4WR6Oi9U9Y0uyy-5Y78lPs5izar-D5xbG8D1c0Ls9ODZcUctQ5i4b2-luG0sRMuVIJnyPyzwq56fHw",
+   "width": 320,
+   "height": 179,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0658 Ell Camino Real in Palo Alto - Probably Palo Alto Ave to left (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNKY45cNQMKtoO4wdaWF6B4id1fkH5pLhJ9vVfq",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO2vZcSro6XRg5-2DBPcEQnzPkShsgmiqQbhw4_uykdBSg9ICQwJPHcyVDcbXRGotW9FB3wFbmB9CAMTeuMdA75VvoMMZAeMrC7j8w5sztfM0nLgRQ",
+   "width": 320,
+   "height": 182,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0659 El Camino Real in Palo Alto and to left Palo Alto Ave & RR crossing (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNO47ipMRzacXQTtpBpuwhQO7S1M6bvmUdSx0Rm",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPU366HF-n_jiS2a1AMhaaCQIzSvXnjqOWcOtA7pdo-KQrBaiZCTwAv-r8LVhtW7jOKo0ZwnD6oczJgjJADYrjNMOOVdU3PEhZhwhreqmbBLDJObRE",
+   "width": 320,
+   "height": 184,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0660a El Camino Real in Palo Alto looking toward San Francisquito bridge to Menlo Park (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipNHl-B-TZMVAADW4ZKTTE-I_s8wBrnXeSUjs0Dg",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOTEl1I6g7WPlj2N-5bpn4HZZXnrDM0AwZ00go7-4kv2lflCubCEiNDq_c9yCaJOjF6kl8oPiIbpsmvtiu5z76MzwMHpCMy0OYo39sqAhY5scDU_EA",
+   "width": 320,
+   "height": 183,
+   "lat": 37.452200000000005,
+   "lng": -122.17200000000001,
+   "description": "0660b El Camino Real in Palo Alto looking SE from San Francisquito Ck bridge - Palo Alto Ave to left - wall to right apparently part of entrance to Stanford estate (1924)",
+   "date": "1924-01-01"
+  },
+  {
+   "id": "AF1QipOtjRsVYV2C7ONtiZDtfUPtsHpoKXUTA0Y2my3e",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNTvztzWxb8aw2odf8OS8dKufLH1C_UwM4tzeWszvW6kvlVzuuP9VCnr8bNsRlclCbyn_QsggOk6ldrJHdgjZZHglYr1CRk20Pf4nRBZOomzvRDkvY",
+   "width": 320,
+   "height": 260,
+   "lat": 53.3043,
+   "lng": -9.072919444444445,
+   "description": "0908 Menlo (Blake) Castle (c. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipMrKxluoUlPw8DVrEYrPb_5t-OAsrai_7HZ8hdj",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPtSk7xZp6sSZgfe6d-pG0fzwKPaWmQNxhuiUQZZjcMjHNMuDFUHVwD96HYXzMJF8Mm4VTEbCJnd3JyUkut6jZM_czzPSDJBhvb7J85mz1JI8Ue5RI",
+   "width": 320,
+   "height": 238,
+   "lat": 53.3043,
+   "lng": -9.072919444444445,
+   "description": "0909 Menlo (Blake) Castle (c. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipOMOtSQ30Szj00NS2d1a2ptHxtdTFN8K3G1J0Lb",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO5TFmfmVWN1lWGueZ8G62Z9nnfzAz7b6FMNm7vwA_KWkUro87EHgE1uDMA6g2VKUOTZkndtXq2Ahi8OR0PNcHDwf9-Ag3gP5MFxzDMZgNDzV5IPAU",
+   "width": 320,
+   "height": 255,
+   "lat": 53.3043,
+   "lng": -9.072919444444445,
+   "description": "0910 Menlo (Blake) Castle (c. 1910)",
+   "date": "1910-01-01"
+  },
+  {
+   "id": "AF1QipO6bYNSFT9vP7qFyXIWciyjc6zy2_iKKvYyW0PW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNiOFAyEzMq3wemHylVYZ8jiZYjaViLNSDt41PZsuDCwVQ-bsvhvu08VLUQdevxxnEZpCw-J4Y_EgE_bceSnigaowOn21XNiv2MqJmVUHueLP02o20",
+   "width": 320,
+   "height": 228,
+   "lat": 37.451100000000004,
+   "lng": -122.185,
+   "description": "0932 Santa Cruz Ave corner of Crane St (looking SW) (1978)",
+   "date": "1978-01-01"
+  },
+  {
+   "id": "AF1QipNk_osILxtLqDeOui3q5dCsnje9wOZddusKi-wo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOa2dMJm0cNbDPWZ8Yv4u1CXRuhl4hySSNCAvH9qorwvE5k4bgO5M-c35o67Id5HQcWvjyk_y0Pu0nFn3nGHnD_wdWadeFmhKx44icnGfrk19j0POI",
+   "width": 320,
+   "height": 156,
+   "lat": 37.4536,
+   "lng": -122.18366666666667,
+   "description": "0983 El Camino Real at Santa Cruz Ave looking west (1934). At extreme left is Duff and Dole Building (demolished about 1940); toward right is Maloney Building under construction.",
+   "date": "1934-01-01"
+  },
+  {
+   "id": "AF1QipOBDocucJN-jGHDe4jTMrd-04dw75LLx_Q0PQL6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPT4BBVkuGpTcQQpldtqhG7P0-tszDlD3A10uleZiuv6sqPNz50aMtMIa0PivW--4MjJgkc-7VeB4LcuJWrLQEVsQn8nQIFVV66A8iKv5bHkTPOTT4",
+   "width": 640,
+   "height": 387,
+   "lat": 37.4536,
+   "lng": -122.18366666666667,
+   "description": "0183a Santa Cruz Ave at El Camino Real (ca 1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipPXXpx6YoZ8NhqFSCT3Ro15JXAD_TQvFcHqDS5E",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM4OQhttd7Vpa39b6w4M3g7M7-xZ2lxji3DzNqAZtmVmle8rPPVh-jXcIdAk9GcqXrNwjFJ1i6hxz6r5rEnarwiiI5neHN7AIWnqNJeQxTRLKhVxAA",
+   "width": 640,
+   "height": 380,
+   "lat": 37.4543,
+   "lng": -122.18466666666667,
+   "description": "0375-1 Golden Lane (now SCA) looking from Merrill St toward El Camino Real (ca 1927)",
+   "date": "1927-01-01"
+  },
+  {
+   "id": "AF1QipM-DFV0e_N705aFdYWqTuHN7t2hCWeGcCt8KzUF",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO863kSohALxNmzXQlLJRL-6QRjCtPIo5IZgJHhURit4Hu3pDQ7ppMcWNB4hmzVKGwtWAIAHQWZtVwBQ87nKrQABaFf1f5TwIeYpa68yrqA0MH4r60",
+   "width": 730,
+   "height": 500,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "2603 Central School, Grade 4 (1948)\nHayden Collection",
+   "date": "1948-01-01"
+  },
+  {
+   "id": "AF1QipPnsKlQLqa0-GHwYsczreGiq_-3-Zbspb2E_Qus",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPd_u6nb5DWUq64oDS_IEDGRCo0tUPhcR_q4YqEHRi9aRMFVuKScSbL1BtBCZYT2fQIuM1B61eJiinbpkxpdi8tnRBMpIS9RA2pyiNzk9npPRvi7zk",
+   "width": 630,
+   "height": 500,
+   "lat": 37.4519,
+   "lng": -122.174,
+   "description": "2622 El Camino Real looking west (1955): on left motel (2013 Stanford Inn), Carlo's (2013 fortune teller), Marquard's (2013 Pendelton's in new building), Cambridge Ave, corner market (name?) (2013 possibly same building), Oasis; on right Stanford Buick, Peninsula Building Supply\nHayden Collection",
+   "date": "1955-01-01"
+  },
+  {
+   "id": "AF1QipND90kzH6aBTanWyWhKgctYLuN0QXjmZHXnghHs",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOMq8Bn248gPWup87MCP8oisW6L0B1Vyj4Wc6-ejWhXExjVJjNH9sV6dVTNdpfwc_39xOtrRiJ-IArC4uM5Oi_m_0XRE1428BfcscTIa8neHj_ofnw",
+   "width": 648,
+   "height": 500,
+   "lat": 37.452200000000005,
+   "lng": -122.18366666666667,
+   "description": "2969 Original Little House (ca. 1950), located at 630 Menlo Ave at west corner with Doyle St (car on right is on Doyle), today (2012) location of Su Hong Takeout, which faces Doyle but has same address.\nHayden #S-124-1",
+   "date": "2012-01-01"
+  },
+  {
+   "id": "AF1QipNoMks2QWnC71IBAFMmKCIdYUHaIt-9XluEGypM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO88wiOx3G3RvVPemIV_EmZ6Vqv2a55IfcJPShczpLUDHBbs0XyFXMJc2AgHZPYHyxWNv-q9DPSKygnBltblf8sfc9wvgup004tWc86dtGlXAVRXVE",
+   "width": 628,
+   "height": 500,
+   "lat": 37.4544,
+   "lng": -122.18466666666667,
+   "description": "2979 Station 1 on Merrill St (1920s)\nHayden Collection #S-162-26",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipNrJ2Y4jrzKH3LmdUbBWp4DlLAEaDh7FXpYdigl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNdXcbYSBchN1KsRNqGibGD8eTQF1DzI-m3PaWmnQU1HmbCdWjxG36UnO_Ee0YB5qD2r8F3iRX9oySW9m66iSv9r2KGzQ8NsOT-YuJgkdEtyL9qo8U",
+   "width": 636,
+   "height": 500,
+   "lat": 37.46843333333334,
+   "lng": -122.186,
+   "description": "3070 Encinal 8th Grade Class (1955)\nHayden Collection",
+   "date": "1955-01-01"
+  },
+  {
+   "id": "AF1QipMrTqeQ82ju0PGT6gIMqSt59YKTDdA4u4HmsNOA",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPwzIovD417fu9ooAgXXkIbCYNehRCBQWT29cGO-sncbXmzQr6mQfYnhAuLSv8n-jY35ltdsr3c0G8L56PLjwHlNTfQG8YcQ5_vASldyez5uoUQfVo",
+   "width": 638,
+   "height": 500,
+   "lat": 37.46843333333334,
+   "lng": -122.186,
+   "description": "3071 Encinal 8th Grade Class (1954)\nHayden Collection",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipPuqsNpHYSp36AW057oflmeLXU5I9Jcyuz9b4tt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNldua92Z9OCpPt5onffsLkc2BdwIs_f9AK7JfuxC-uCBYdguAWPKA1Ad8-nVbf6uK_bqx5ZSaP1bSvMWqmZfk11SInXbslPhlkv2KxYxDWrbucntE",
+   "width": 640,
+   "height": 435,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "1271 El Camino Real looking east from Oak Grove (1938)",
+   "date": "1938-01-01"
+  },
+  {
+   "id": "AF1QipOg1ImwGt-NZv7DGUxqzokjPTTjJanRBEB0vey_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMmd_uKhsQ3V3ECBdNxpmGqYBQ_sYNbNogEGQ34Xlaz1UYwlNKTxdTDZ_sKPos6BiLUSDelPvs6hUSBYiv4aoFzAlYYSdkSH8jPtt2m_anJKo8r-kA",
+   "width": 640,
+   "height": 435,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "1273 El Camino Real looking east from Oak Grove (1942)",
+   "date": "1942-01-01"
+  },
+  {
+   "id": "AF1QipPOu5x1dky19ZmVR_KL7siJtVIUoXzo88NGR-wE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMvGAORm3fvlCP99bWVwvp7882tmDTwjIChqnhoFdrSmsGywN96AcYZT_QIJ0xsqdIHA2ohDxRlk2hbNZirDE69_y_tABOlqO4KI4j_i_P6uKwu7d4",
+   "width": 640,
+   "height": 398,
+   "lat": 37.4534,
+   "lng": -122.18366666666667,
+   "description": "0070 El Camino Real (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipMwZr76nXn5FddIhefTOHQLRKAePh1xY5vkLKou",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN8qnBlh_4632jczBMkWy49Oj3ZdGWXTvzQB72DlS6naQa2l1ES_TR3JkvcYfPBbYTzviln0MF19jQKDPit42BCqXHi_WqLnwh0l7HqD0Ij_Yp3UJ0",
+   "width": 640,
+   "height": 387,
+   "lat": 37.4527,
+   "lng": -122.18366666666667,
+   "description": "0802 1036/40 Doyle St (1933)",
+   "date": "1933-01-01"
+  },
+  {
+   "id": "AF1QipM-LSRD6URsWPWhmi852II8gHM4-954N5H7Zax6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMrssZG7_Dohwsf6dZ1A7Rha-1py_Yxt4tX0B5g4heiP2bKNqAyxYzv2h4BfJWMqxCbXH6l_9hW6nWvW0-L7vIGlxLQic0INGfNRK_B09cE-vvkUo8",
+   "width": 640,
+   "height": 410,
+   "lat": 37.4527,
+   "lng": -122.18366666666667,
+   "description": "0802c 1036/40 Doyle St (1933)",
+   "date": "1933-01-01"
+  },
+  {
+   "id": "AF1QipOflSUXALJtv6WZ0kZJdkSJbjfX2v0AhyNqLEyY",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOwfdbHyRrU2Nhn7XuPRUlDlMY7yZU_DV_QRqkhMMhRKBGjMTYAoiXGOcbdXvx48VwJ85uRuiBHfxNMxfbayQxTzBWVfrP3N9WNV-XNL-7x_Ru4K9k",
+   "width": 640,
+   "height": 465,
+   "lat": 37.47403333333334,
+   "lng": -122.19,
+   "description": "2612 Roger Reynolds Nursery on Encinal Ave (ca 1970)",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipNasxYcES9nOLSKJDz-SFpFi-aMCV2vQLcTWynt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM2CNac9ul1Q7gB_ZiskUpgaWRKkt-UCN7nswJHgfX2PP7N9ZSKZBYIuR3SZ8hWKkst3jMIu1npEyp-fqepHZwmVT808q9Yifua87lzL5FLLNF7Lqk",
+   "width": 464,
+   "height": 640,
+   "lat": 37.47403333333334,
+   "lng": -122.19,
+   "description": "5334 Roger Reynolds Nursery on ECR, aerial (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipMfuuxywdtpqlPiqq3-529T_55_RaNRZDuP1t82",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNoLfF81rfT-rvVtlKNlQmnofbzB-0lWwraLt4u96HkLMdzbHBwEQ47pgLALDGN-prJN6LI373BsJpbfZ9afXEpeBP1a-EzJpu73gWbo-iHSMCJ16Q",
+   "width": 640,
+   "height": 464,
+   "lat": 37.47403333333334,
+   "lng": -122.19,
+   "description": "0739 Roger Reynolds Nursery on ECR (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipM6OZ_j2wTbaYi6kDbnvcgPimOsBdGWsDvr3Dad",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPiCOAUC-JQazxjVOYHF4IWd18lBgYswr6mgGJpmf7KcJLTzA7UUz-JmzmGs6mSY0TgPKBgx_Gjip9nCwGqkWP_wIGjYBRgqQYEeTVT5dnDZUFRKG0",
+   "width": 523,
+   "height": 640,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "0978c St. Patrick's Seminary (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipPD7jAExNnJQB5E4RKWdPimFQVUMc3n2oQagLH0",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN8RvCdSnmAfei5koPEsEzHmljRRbY9CqGe1woVVNUtmLjNCGKKc1lLuSeO_4-z-nTeBXHI8xBC2aCUAlEcF4xWOcTn0tysBBO3sg7i5s2y1BH7zyA",
+   "width": 640,
+   "height": 386,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "1836 Duff and Doyle Bldg (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipMj4kZ4NeUPFJWEhLjbMmB0pSW3qjk8EL7VOM7m",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNVP541Tk8lCxVsalj0nTDsxIAKDOSr_Vo3xLKlClJPZEUc8g5EeUs27sajJgzcSSkZWv50w3PD20OrfH9pw4GWPSPip-TffStESACa7Iz4dmJJW1A",
+   "width": 541,
+   "height": 640,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "0978c St. Patrick's Seminary (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipP74KPaALzv4QHNCYD7t6E24NveLXAoMke0_46T",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOFTUiYVqyGIlCcb9hNu8qBjaAy1HkawuiJvkv41dUOCqjKRiiYsr3ZDtf7AlpZBb0p4um3Vg_7aRIbQF8KfII2NiNIWGC0Nxi1zrDOUP8WLfqhots",
+   "width": 640,
+   "height": 547,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "0979a St. Patrick's Seminary (1906)",
+   "date": "1906-01-01"
+  },
+  {
+   "id": "AF1QipNj8zL1ieJeo08PTOTMzu-8bGIKECX1xDpA1Xqg",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOzkFEM0YWawCaEfbfDHwShYVprQPW0g1wThE0XivJ9qG2_4Bfj71EmAqWApWUFz_iYIz9JIXAEHF1GZaoWk5MHxFTIeVB6PY89x8z2gqkl8YctTzQ",
+   "width": 640,
+   "height": 477,
+   "lat": 37.4415,
+   "lng": -122.18766666666667,
+   "description": "4939-18 Allied Arts Christmas Decorations (1988)",
+   "date": "1988-01-01"
+  },
+  {
+   "id": "AF1QipNzqffCgSKxYs0foieEc3GruFMR0nsHkyahvrlW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOBLL3UgnWvG8bJGETrkP32ONdzf-kkg_D2gZ6CpxBINJ5EXsn0wfLfqxLKi2ND1Of9mutfyF3gvHmRa9qbK3vCw2h6tCSzvVEYTO8HfEVSQmIZF7s",
+   "width": 640,
+   "height": 432,
+   "lat": 37.454100000000004,
+   "lng": -122.18466666666667,
+   "description": "1651 MP Fire District Headquarters on Merrill St (1937)",
+   "date": "1937-01-01"
+  },
+  {
+   "id": "AF1QipM81UylHhFzh1-mDeHo7HitNtgYxCX3R7TDB8qG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMF3CPzhAEWrTpjeycJN9XEVJpCvm3QFx7-zXZKKS-eeYx72dZDMvDZm13gwBQAApA9J75xwJEOR65s0djSqLg0SPMxlb3SPYlrwBsu-n9oBKKbgus",
+   "width": 640,
+   "height": 506,
+   "lat": 37.454100000000004,
+   "lng": -122.18466666666667,
+   "description": "0016a MP Fire District (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipNCtbp88j84qEWeAeeSXYgrz8hibiA2RcAdiu5b",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOIFatoQg249eZAHpYKQDOeeuT80zRicpu5iEMUZrnaKuDVPUHBgEGH1mec3K_2_hr6K6NGQbgqylD-9tBqmQ18iDjgYlZft9bzqbUc7PzZYL977WI",
+   "width": 640,
+   "height": 450,
+   "lat": 37.4519,
+   "lng": -122.191,
+   "description": "0330 Fairwinds (Mark McCann) Estate (now Arbor House) (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipO92Vnn3vK5SdiolOiOggWAoMbjxhOISib939DB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPJwVXg4J7aOtnH40OblhbQLFACgetOmqgLG0x-dfumjfXGQVFBMrsZHYseQBWsyCdGsv2BjXvOmptlhpRwbgfcEnbQ7cBj20_zUT51RTWDqBzkHOg",
+   "width": 640,
+   "height": 455,
+   "lat": 37.4519,
+   "lng": -122.191,
+   "description": "0331 Fairwinds (Mark McCann) Estate (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipOmBLKjDVgCwZ37DaqA7kB0E747CzpFzAMG14ce",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOdHysfu3oYmuW5RVhNkI9FjJ-0mNbSTgM0v6NiqdkYC52dtVgYBuRcctz10jAoIAU69fUYCbuo3v68zJ26UDwbNJCh5jzckEweAeEdHivJcDKc4NI",
+   "width": 640,
+   "height": 455,
+   "lat": 37.4519,
+   "lng": -122.191,
+   "description": "0342 Fairwinds Estate (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipMOZMDnJpBn-4lcIxTMrxRXtGeMDb1Bskzcx7zT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNQsGKUvbPfB5SHtE_4Z_m58PHAaWT_4g0pYyAgMdhU5q6OsF1BBEFKmfKSDIVCBMVRvFL0ylkxFJnTz8u5Yo6nqCLaM5JUXHAgc7lzp4VBDjw_tx0",
+   "width": 640,
+   "height": 455,
+   "lat": 37.4519,
+   "lng": -122.191,
+   "description": "0349 Fairwinds Estate (1930s)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipNATpYxkVHkOWiK0OkHiVvV8GwhwH0r1UoberUf",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN_HyRTpMR-egDSoYIhxVxvP4xzKOGmdgIiYSJgXQTd_sB_jkeElHTPKWCKfQ9F5qErvOlCc5HEnaXtiwZti3aGEul98_m749_E7PmyUs19moQop9M",
+   "width": 320,
+   "height": 246,
+   "lat": 37.4506,
+   "lng": -122.186,
+   "description": "1567-1 Fremont Park, 40th Reunion 319th Engineers (1958)",
+   "date": "1958-01-01"
+  },
+  {
+   "id": "AF1QipNOHCsAm8LhH44EPCx-64ojnF7l3zjnSYirQBNM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPAJZxU5VKF5UCFbpk9VnZ9IuHkADVcC9W37nVGtUKUuU0LjJjtQG_Pa1hcrpiAJHVlBDXBiouqjTY_JVximuett4ZlEbsk4shCNfAj20ytZ5nK3gk",
+   "width": 320,
+   "height": 207,
+   "lat": 37.454,
+   "lng": -122.18666666666667,
+   "description": "1575 Menlo Park Library 800 Alma Street (1957)",
+   "date": "1957-01-01"
+  },
+  {
+   "id": "AF1QipPZXA0GYNQQJqrztTfMF9bBMfwWMAJtFrldw4gN",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOM4L1VJqOfnejArHbm4GwexCGxTyO71aW7c6-l9OX6-9rQ3x32cMVsJFskFsGbmxrRbbIC3a9kkTbAXEGo7Nk0CnyBhszC2UXZTDp5XwAKiaAzStU",
+   "width": 320,
+   "height": 217,
+   "lat": 37.4559,
+   "lng": -122.18366666666667,
+   "description": "1592 Fremont School - Maypole dance (1930)",
+   "date": "1930-01-01"
+  },
+  {
+   "id": "AF1QipPkDTIaYwInrHTX4pozrsKNwogQxBQAfpVGLG4D",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNE6EGQufrFODug93pNdrHOwnxc21WYwkDH9KH1EgCJznd6MsLRalDtGd4ZXg-ZaX17YWGUPlulgu8Yde9HQP2By1nRpFyPKNXpf9vjjZZ5_auzxQk",
+   "width": 320,
+   "height": 233,
+   "lat": 37.46949722222222,
+   "lng": -122.18466666666667,
+   "description": "2154 Flood Mansion (1880)",
+   "date": "1969-11-29"
+  },
+  {
+   "id": "AF1QipMW9mbXl5hwzOpECB4TcD-2OMjEJuAjvDoZ6o3q",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMFFUUjjmTStEgpR8H8AtBfCO7SD6Rgwt1HRxE5v7enywyZNyqfxnV0mqGqYahfU7_SUP3lpgSSSWcNrwBb_9DYbTpq41fKTN0fjJdSyGDCfyJ645w",
+   "width": 320,
+   "height": 238,
+   "lat": 37.46949722222222,
+   "lng": -122.18466666666667,
+   "description": "3174 Flood Estate (ca 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipM4Ps2CnCfIWz4YanP3cNzPMTucbtCrZH6NAhfE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPNmT_Sl9XdagzeKniQba3NHKR-gYD3zmKIDrahgjwhEuaf2DZfTB8J-8qdy4EwiARJqSKZvI3M792ZkJKS7l_CXmeDkkeHO2gLtL9F0X21jauQszQ",
+   "width": 320,
+   "height": 256,
+   "lat": 37.4559,
+   "lng": -122.18366666666667,
+   "description": "3274 Fremont School (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipPQ9iQZ3ZzL47V5Jty2bfHLrlRGPqizPLm-mt7p",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPxiSpbCREmsHQuO-E57enT2I1RV4W3HAgUSGd2WMOa19Djr9kJ2GfAxWQA3j3HeUvZJKaSLjoaUk8qK-MihfXk6kRXod8qdjScO0XMdNsud-eFU1Q",
+   "width": 320,
+   "height": 257,
+   "lat": 37.4559,
+   "lng": -122.18366666666667,
+   "description": "3274b Fremont School (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipN1Z__Qj0LXpTZ1O6Ij_UP6K3cPhY9EPOR59zM2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOiF2uhjUCy9dHC_qxu5fHMIjwyWRNbF3qLFfPxJRWYisSN1TJzsP50nXb_FkYDQ_piqLl_J4y84NtlDe19SZGZRpELCZw33bL0ihLjR9nYZQfwtUg",
+   "width": 253,
+   "height": 320,
+   "lat": 37.4559,
+   "lng": -122.18366666666667,
+   "description": "3274c Fremont School (1950s)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipO0ITpXPFIvzk5JtTKkXehb9NlPMK1yBs5YrhOD",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPDzDT6V_zW9VVXtxmeO6i20zUzjlYZ_pSaDRrqevvZQcJzyAgQawJqdVzBGQandWlhfKi6cclLsWqE8wV_ZcDWLCtQEV8c8nYMHtOuxMnxuqbF2uI",
+   "width": 320,
+   "height": 253,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0354 Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipPzvLXv8HUEDnyeNlJHdfHVaPKg94OV_hL-h4w4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOa-u3PyTNWse8YD6kcq33AFhpHeisfUcZCksPLhntFmZZuJm_UwDWqXg83lVP-3dVnIlTpSkqmBteON8Dpehxn8hxpqzzlPLg6p42uGT7ZS1J5NCU",
+   "width": 320,
+   "height": 251,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0355 Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipONu5CNhXDTOaL9o8xiz42TIxMCg6yefzyuU1k4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN_SVHxWZLqPEI2SMTn0wiJXa-QSNvKREvwBlu64l3Zmmf2ISZyASpmW8OVS45GsMFVbiXWzXMBHgGDaRKi7wl83nxxjFvO9jbRd_Ta8Q05TkMMuyk",
+   "width": 320,
+   "height": 253,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0356 Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipMtxd80Rvi5q3h9P-je6Z10vchPH-y7a6MP2GWq",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMPi_rU4wA89_K1g7MrbcnzrcD2K1gPCZb25nZwK53fqkxTtx26yMZ14X8PHVrUUO9kx6jG1FXPFQWsGzWqelySgaYUzKGWuQPd6FQns3yiEOM4Ebw",
+   "width": 320,
+   "height": 255,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0368b Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipMZ0OvFADqbUPNtAS-mTUZdtpNPiL7iSRJsmzwZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMcfmdbyTQizzDIiVcum5Qjzuz-GAQacDv9onGJsNP9QVcFrxT_5p8SYjJa4Bh7RJ0A45H4wOiCijC9qyG2_54I2dN31uhVAltFzDPiylhDmkq4jsU",
+   "width": 320,
+   "height": 211,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0370a Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipPgZaOcBPXnuX7p7KpB3HNA82MK_jgnTxykJjBw",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPMyWss0PrF-tsXwdsUE6u4-vTnur6kyRb1hg4YtlZjo6AOEC_Rko-egxoJgeKNIndy5JuSLzkPlnpruBvWHT4jDall4gUZ3rlp6uSfYmVWPn37-0o",
+   "width": 320,
+   "height": 257,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0371 Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipMVllmEqKJYqZJJ7a1NanBexoWhhvLZaUvxq7Vr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPqIJfzjfv6mz4pEfPbV75qgSg14NytQ0Q84b3Z8QIB2eTy29YGacAmu8iY1rpRA3AQ3CodwclpI-6UQ6HZ1e5f68JwgNeKZasWuSBT-_RluKvwNr0",
+   "width": 320,
+   "height": 253,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "0372b Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipORY74Z09FbOvqoitumKBH4ORxz01BT9Tra6QFa",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNo5yU5m1ufAth2m7uVvE626-K3Xx6tikEn_szr0x_uvKZv5LQE3NNOoJR51Hoo_ZVNu3vShSbkvYiINPrdygA1dRHIumh6wEabHKarJL8c-LIUtNY",
+   "width": 320,
+   "height": 256,
+   "lat": 37.46949722222222,
+   "lng": -122.18466666666667,
+   "description": "0808-1 Flood Mansion (ca 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipNpta2DxCuRxm4wlN2quXdgXGq-CaAAk8pDhDvt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM2rt9sv_hVesvL9vCPIjloBWWJJo1Sbgf0O2fL00k0Raeq4JvkABjKSedEPEZsksfYhXNKxZlhS_80cVhSNJjrAS3aUSyhN6a_t5OC99YjMUB-br0",
+   "width": 428,
+   "height": 640,
+   "lat": 37.46949722222222,
+   "lng": -122.18466666666667,
+   "description": "0371a Fountain (from Flood Estate?) at Gatehouse before renovation (ca 1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipNViynBya-d468eiYlIgc07Wn8I9VAxEatjwxU8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPKq0s_at-UdxD0mNFjKrqnZ3hqFQfKUqoJIix4BNHqv7HYWjo280C5YrVL5ogAu8WRJGysis-xAQFzTbXkhZTgGfoyN87MJ0oQS9ffUGJk1RM2icI",
+   "width": 630,
+   "height": 500,
+   "lat": 37.4506,
+   "lng": -122.188,
+   "description": "2974-1 Menlo Medical Center - Corner Santa Cruz Ave and University Dr looking west - stop light since removed - bank later built at corner - now (2013) most of this property belongs to and is used by MP Presbyterian Church.\nHayden #S-196-3b",
+   "date": "2013-01-01"
+  },
+  {
+   "id": "AF1QipPUgPQnaZVYiHMWNKu5KgkmrTzia8dCCQx-K-O5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPYTEkxm6u_hSZ4CyUsKXFDvX3DdgUe2c-G3PcUjFXJApubPS43KeApK4mNzsdIAFzFwM55uOBPUObYHFupQw7Bo-SwSpk0SqZGauOQrhb2eAQ_DX4",
+   "width": 640,
+   "height": 524,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "3932 Camp Fremont Hospital (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipP38N3OTojltE4TJzBfJMGiBZh4t9-j-kY53DvT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOQsu3gD0gVEgvjQ6nbrtdT3ry4raHeiH0YRC8PmjaVDlxByUImM6EHbNFXsMQ4llBxaZqVuZT0tOiFhZv9KXv6Lx51f_A88jdsmTlROcFASglccTI",
+   "width": 640,
+   "height": 522,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "3941 Camp Fremont Hospital (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNxpH7321GoykKmE8hDwnp5HdF7tZ0hYCKVbkb6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMORfja3rBTk7iRcYK8yzcOiE14smTCENUUCSBkIpvyimTM3jpzR2cu8gCisetQ355AcSu-ngJzva7jWyvEAplFq7xpSCIWayLrpD4cFfZ5z70xLVU",
+   "width": 640,
+   "height": 387,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "1323-7d Train Depot (ca 1920)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipPwFs3YOa-KUetlZWK7muQPhKNmlMQdfY3_ZHbO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMxoMfbP14S9XEjX4BmzG1J2t9DW6gaNYHzOPmRmx9d1phFaMiCHqSSw8-IarZ4juE6v9Q-C2bA8D4vdSy_kCUhNf3Gj5d_qXHqIlvIVru0G3-YHQU",
+   "width": 430,
+   "height": 640,
+   "lat": 37.4583,
+   "lng": -122.185,
+   "description": "1709-2 Sue Gale House, 417 Glenwood (1949)",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipNtsZpRCN84xpCblE67Xid70ke4d7ZDKC2pcG7I",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPq0hq8mRkVteaavHtzFGE589DojlVVnq6Lb_yO3IiFwgDMGOnmjJlwWrgLNCCJZwExeeR1WVPHlbYEChHSmIPw9n5wbnaZkkm2Wy9vylNRGNn2SQQ",
+   "width": 640,
+   "height": 427,
+   "lat": 37.4562,
+   "lng": -122.153,
+   "description": "1709 Dedication of Pope St Bridge (1949)",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipND3s0OiSS4LwdnR8RexynoRLhPNZbv2VZS2fx8",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOtusPQl8pW3MCS1i3RBPRCgqlVNg3EDgRXv_Rq02U5GjXAHvgk9Y5nuc1YH_xYzIWeAVGUyNM6lcrWAkGKpWx7qZ0MTy8OIMQnbB3-rmc8Ymt-8Co",
+   "width": 640,
+   "height": 423,
+   "lat": 37.4572,
+   "lng": -122.18466666666667,
+   "description": "1710-2 Crane House, 401 Oak Grove (1973)",
+   "date": "1973-01-01"
+  },
+  {
+   "id": "AF1QipM2o5zqTTdirbfOz6v6wfQn-jN-S9nUZG78CfcW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNCKP9_28y98mC3A3bLfYGQ7gfjOCXSJeq_H2bMJnYgzjXEO0k1FpiXg3EJsFH2S23PqUbrzBCO9sTYIbLFi60WWUyvgle6kVCKVcSHXUTezyJPTwc",
+   "width": 640,
+   "height": 492,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "1859 New Menlo Park Hardware (1951)",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipPsdfiq84znDMDK-L-7yx2n0fNNQoAhvAzMrjJt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOyYn0gLpLruXzagFX2AOyVL91EZXsvh5If1naaBn11dGHXuIeZNHo_eQpiCA7Fx6VzTces7payri2s5MC-GEc-z13XZ6EjC0V3RrMb9eWJKeAHCE0",
+   "width": 640,
+   "height": 453,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "1860 Kathleen, Dom, Bobby, Menlo Park Hardware (1951)",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipOCTa9dl91bAinlsoleA0_dXXgnzCmfMbldPoQB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPH07jCTbbhJYWQR99j-Lj3Dgmr3Zxr44ynBxDv7lqUORreuJS8W7Hch9dlE7rsrdFejOxu5yb4XeZ8FTz2Muh5T3meCsZ4ev-XDX9Pekc-p6nYetk",
+   "width": 640,
+   "height": 443,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "1865 Menlo Park Hardware: Main Entrance on Santa Cruz Ave (1954)",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipPclHq94dm2IhzK6oSBwriJwdeAh-9ahos5KltO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOF3PTdodIPIPS4mW1jB0WOEi40tvVJTr6EhpT9X1uZiZAMu7JKAOh-kn41_rFW2eGOSQtg1dR1MF9gtBAVlkfdq3kbPH2Cu8FGrsJLhSGaYus1wkk",
+   "width": 640,
+   "height": 480,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "3203 The \"Durant\" Mobile, Menlo Park Hardware (1929)",
+   "date": "1929-01-01"
+  },
+  {
+   "id": "AF1QipOSDuGVojQ29tq55o8f6emF8BrS_a1whuEIY1oZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczORSYZu-mt9vYCSHmx1Nd-4I1VQLcJbz7GwsawrDD-A3RbstHVVUhpJSBpwBKZ6XqfaQop45_ldbAMoHXLb_DZm3s6Z3lrEPJ8xaxsuJJ1PaX1959k",
+   "width": 640,
+   "height": 377,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1119 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPGmQPgNXMd4mbEMp0s15629UF9m25-PWLFkd8s",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNWO4nZAmC9PY-3AHedvMAm9QK1OI56xp42YehjnHHTprGZThoJEOVAUXZ47Z2pYdkAUrFr9_NicwoJrPNHK4V98q6giPRs8qZLYsV8IzF7Lohe6bI",
+   "width": 640,
+   "height": 372,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1121-1 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPQBP3sB2bj0LqTHcegcel5282nDU13arZZrUjo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM_E5HymjaINddIpHhC5TZd28EISk_lV5VD_s-gfRuvzUIb5n6roQAnzpt4ut9QrdI5rr-KYTtdP9FauEc3tw7WUdxuhjfvzoDI_OhPpIbCVCv1sHE",
+   "width": 640,
+   "height": 376,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1121-2 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMZlN2s4GPdZMblMdjcTh4IID3ENBT87dWE7mcy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPiRiXtesto9Jqoc9PrIS0buIMviZAd9spca45K5lbBUOjP0UR71RpkbRVevrg-u4x2sv50-mgFOQAgLEoE_CfRd5CBA6boxvaMKuIqNgmzSElnpis",
+   "width": 640,
+   "height": 382,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1121-3 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipN2_9ulKvudQiaTgghXF9fEGSa9aANrgG9QEH97",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO9n-BnUIjPNe1heZItC3RxmiTQ6qrmUbDeC5esJzflkY5PdukRDEjAzXFVtWbz-yO58Qs1H3qhd9cu1bHy_Wv9q_LNXRlg0lfgEI7LNqzVDb7R8vs",
+   "width": 640,
+   "height": 370,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1127 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNkhqW_ThJuVvIuu-8ZyEfNLJqw7yu_llhcB7ww",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNP1Vu-pjHCm88_6fB8ZF-HHH35UJEsZNUzlINU1BqUivc1Vv5n5QI9Mitf7FG_bhcjQQ5AcpxG0BsD-jOOlestP8fen9orBYzI6vAVNcNfWfwrpkM",
+   "width": 640,
+   "height": 372,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1128 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMIkE_VnjF2W85gBiD6dEvrUYFViZYK0KuOZHis",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPlbFARACme2-zqM9p4w5xg5Mf9jrExZxY9DzmuShV-cx__iayt89Dpg8TeA1agTY7_mHkkEOTn2qMYLHFZx-rz281DJdIViCPxqanXg9iUix1pYeU",
+   "width": 640,
+   "height": 378,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1129 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipOM90fOQr6CMdrufsKytCv2gOGe5EE59HT_YCpy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMB07G3waCObbByJXPilVYk44ORicGagFehzI8uYqdpb8up_3jhBtgrQ6eR1n3wK6I6sHDI70pCOZunOs1Ednc8hvMLovhdAGziSK_VTPtFkHqQH78",
+   "width": 640,
+   "height": 382,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1130 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMvLc5suorBNJrg04lgtWl6uFLo0xNgfoVCVw0T",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNlx-OBOSPnmIRqFZteRCQUe7VGKovauek8eg2CN1q-cjLVzz5fu12IAUbGS6QwJLgtXD5TnIpXq-3GzHxcyBCVyl74P-YGhtWty6Zn1cuunZJOsd0",
+   "width": 640,
+   "height": 382,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1131 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNUKhRU5x5edppB524Q5C3u27gJcPZf3YOW_rCP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOVSUc34UZ7kIeLy2WGOaEKLhDGVkvyHZoo27zNH8lN3_hdBu0_UVZDIvzQCqGqMrF9q8jX9MqDxZfG-V8KfX5AzSSxp9WheN03ur7s8qJ_o9OyvJg",
+   "width": 640,
+   "height": 377,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1132 Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipO9RlZsoTf5jjBwtBUjASYb4_LdmZAczpiXOQP6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNiqAEtULCQW6EE5wqbbGfgGU4u-MYTc9UKdk6NOQbI1qQfQ6rLPamlpndi89RFWFf2H2fpf-JaOC6QeTewqw006xpXC-zWuIj17L8mZ_lggr2mE6k",
+   "width": 640,
+   "height": 377,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1132(v2) Camp Fremont (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipOImhRk_t3Cc5vqtBWU7VumK90YjJNtS3WhnkC_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOGAP9m0ec6677unZaAXZNAtjghGmG50S0mT8OJzpeBhA8rT46s_s5dxMEs-slSWF-n-by5zfOYKvFpK4HnFKOtqpwDYuYNBJCI2r-YZCYBzaciMkE",
+   "width": 640,
+   "height": 517,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1319-1 Camp Fremont: Company F (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNV0ymqdI1X9CZmRyeYGAUTDxWSesDKmHXLIbzA",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPFzwKPA_u6m6VSeeC5iN8PQ2jkK1zOsYTE0eLTMYhOsaCaYEQAa5AuGeoRNrYqMA7OR1PqXF8l63btEyG4MSS2KN5WrfheVfY5NJ27gCig8xmUJqI",
+   "width": 640,
+   "height": 522,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1319-2 Camp Fremont: Company F (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipM_p2iWk6I1OvfRp_PMCg1tzneGMlpQRDwe3Cbf",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNDSsFL_c16Vd_ojpxgWYeoZvS2QzwkMLzTusTESA-15lLN9lnITYj8WRnbk3ZK3WA5EhcgFl3E_a_j9CgBOJ2E3684iDDhw37BNuGUNGPqH0PTNTs",
+   "width": 640,
+   "height": 374,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1550 Camp Fremont: Rifle Range at Mayfield (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNK1uSVxU3XMBbocD1uDRGqZhsC740K-9sIpQvT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPB-1mca3hTWvzEcShkOllFF1lWcDZ0t5itpAAjZTc_w504yVCPn8zSD4gNavDExI9Ph302uUoQoI8l4iJG2_kRpKhtrRkgK8vkb_hTcTJIyIO6xHE",
+   "width": 640,
+   "height": 370,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "1551 Camp Fremont: Rifle Range at Mayfield (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMSYFnKI_LRiSkIk7KQaRTWimKA58iTYjymSigr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPiVXpPmaDC2BudTw8cORjSzMlJ-q_TSgnzVINpQPYkBsq4BTeGkCiFYpYqXe33gTELwNGju6_YMyuZcHZxwKB9sFXhcKCYken6km8YdGePLmP72Hk",
+   "width": 640,
+   "height": 462,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "0678 Camp Fremont: Company Street (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipORY7YlzGP5aQigJXOYFCQ_EW786MlyLOE_vINH",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNHOVqVRy9qTS0LmxjZYuZWWLnPWIBSUFaQI7XS1s5ZGt7iSugWKV9kKbXUT9_uL1PV9LSuQjbiTjONj3y_mN35XpSX1olCWfvhLPtWNqnLUu219Jg",
+   "width": 640,
+   "height": 518,
+   "lat": 37.451,
+   "lng": -122.185,
+   "description": "0736 Aerial of downtown MP (1949)",
+   "date": "1949-01-01"
+  },
+  {
+   "id": "AF1QipPeseF8TSNfunPsIQ5OROQnrriczIwqkISQSzXS",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOIf9TUBeRg0LTRrmBKu1UGEyanCgsb_X-AMCRfM6nx1ki25c8PYhdnT-Xn9-jU3rQGrioKCjYtnDfvqpFdGlKGs335vAUJCyOc8o5w3e9JJPF-QII",
+   "width": 640,
+   "height": 473,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "1862 Menlo Park Hardware; widening of El Camino (1942)",
+   "date": "1942-01-01"
+  },
+  {
+   "id": "AF1QipMhFZyGSIQbBXbYtU9BZhooMpslrm1VuGx6Q8xn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP4GpHd7WH3L45MCrkp7CrIVx_23jnDjqR0hIgO_APplu6Wc0vXnLRLf9FOPqotI5DcGCITjOGrmZtQ6cpsh58wMR4cl2dtA9y6vB_JsSSuFAfdlcg",
+   "width": 640,
+   "height": 524,
+   "lat": 37.47253333333334,
+   "lng": -122.18666666666667,
+   "description": "0976a Nativity Hall Breakfast (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipNjF183Y-yLWT50rCiaiBk-3qJyu9hQ7wDBQ6y6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP97iqZCuE4iSaUFJZv4mwK-11EACC5LLG6o00fqF8aogvGhAd3uSA8X4cWheMQNU46nvBOhVp5vSZ2YhTVM1y0iZ5X8v6tt2lATeGBXV9EZzh4m6Q",
+   "width": 640,
+   "height": 502,
+   "lat": 37.47253333333334,
+   "lng": -122.18666666666667,
+   "description": "1178 Nativity Church Staff (1970)",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipO3q3GcDPJOxin_gfWfRI253bucR8uj77tDrMAr",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczODnr_LZXMEn5PkjdmWnC2v2sfN9BkiaZ3yVITlJiqnKkU_wyBIbgvtL4nXCHWpW2LUPa8HO5a32vBh1jHPW8sprdU9E6SduGoQboGKn_YycxO6_5E",
+   "width": 425,
+   "height": 640,
+   "lat": 37.47253333333334,
+   "lng": -122.18666666666667,
+   "description": "1711 Nativity Church (1920s)",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipMJ5mrdSPTKRR4P00tBU2pOU6dFNhDsDiR26Fhg",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMN8MD5H72YGn2HBJK2m0aVvyZBoNGz26s5ZOGS1ozU3bLsktjxmZ4Tvp--KJeMlomQ3HRpg_u5-nGQsnpa9kPDup7A-8uD3c9yq-FDdj86VMxdRws",
+   "width": 399,
+   "height": 640,
+   "lat": 37.47253333333334,
+   "lng": -122.18666666666667,
+   "description": "1771 Nativity Church (ca 1908)",
+   "date": "1908-01-01"
+  },
+  {
+   "id": "AF1QipPKcEYPyva0-MsBRZaEMMOgZv_ydN0Cbb11BjqR",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPhgc1Amq2eeOsZ95S_defMyB1sUHTasIha2QggPe4IVgKfrQli346ZE8TnCZsm3cKCl2cX_-DUeiZ4W2h2OJ9z_f9Ph6dZxA5xBWRQTEjVOgVAjTs",
+   "width": 640,
+   "height": 452,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "3157 Menlo Park School Oak Grove Ave (1883)",
+   "date": "1969-11-30"
+  },
+  {
+   "id": "AF1QipPsYrs01Sc8swcvkte8d0k0B5V88_0zhh37sDHb",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMxHkYS3EccGUNjwXi5ed_kQy_HLBZF4-HyTibkWJyec8mQQaESAJ6ynzqpoZd0Q-hxVoZnUpLG3YCsB1Fn9n_746OJGC4iUlNey6_ESBLMOcUJeEo",
+   "width": 640,
+   "height": 487,
+   "lat": 37.4551,
+   "lng": -122.185,
+   "description": "3286 Wo Sing Cleaners, Derry Ln (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipNHJ4rS2xC9Yw5ds7aHalqxeDYoa2XR5SgCEiCT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNaXzpQvPFDE4px7wUAT6fj88fi5Kg66m-VJW_eSe8c41LV5R_b7T587ps_IUIv05HT6pwRUBHh0nnMHYbyXlSqtfly5JD5gzvd843gwbAup2hVscA",
+   "width": 640,
+   "height": 439,
+   "lat": 37.455200000000005,
+   "lng": -122.185,
+   "description": "3287 Bill Mumford's Body Shop, Derry Ln (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipMHClDHP_wA1dUBdpAZXY19IZ5sMNCdbGKxCMU5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOc0Pc_8ebWow4xydgP2UCPqI9rQ9B1JYZexy_BCMFieBQSq5LgY-15HtR3FwBH82LhOqNOA_Ox16SgzUgIykSscIKwgDr9Ul_-a-WrIFZ6XCknRnY",
+   "width": 640,
+   "height": 408,
+   "lat": 37.455000000000005,
+   "lng": -122.184,
+   "description": "3289 MP Feed & Pet Supply, Oak Grove Ave (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipOMhcB8uB67z45RJAivKVK42ZJftuyqyCEfNoMd",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOppuIeQCpCplZcD12o9BZ3t_e74IgMODqtHoGJ_Uw2cHoLOvxDX6ragcxRJqpv8hEwDbvuX_emuKaNglMcNZjWDmwKx-Uabhg54dlO95tNwWe69bI",
+   "width": 640,
+   "height": 400,
+   "lat": 37.4517,
+   "lng": -122.186,
+   "description": "3290 Peninou Cleaners, Oak Grove Ave (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipNMIZP_jKptgMaydTqyhL00KnPDAIY8_lWr-00C",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMO45mJ8cglId0vaCBGSZTfthEwcebPvqirgKlLM_DmZRXVoW3qru7oy7BO3FG33JtNoe32SlQxVf1vJ6ixhRAL7viom7X99S1IGortTAr0Naw1Qno",
+   "width": 640,
+   "height": 480,
+   "lat": 37.454800000000006,
+   "lng": -122.184,
+   "description": "3292 Foster Freeze, Oak Grove Ave (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipMoWD7zBXsKtS2FgYyylUviGurcvGzt837S_gWp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP3BckKMQHMtB7Q4VUKHhFxeA9oE1YYjxf_RkE3oGyzDyd0PpgmymmbWsmV9oIeCW637xOEM9ehjGk0nHbAVOhJ5-o3Qp66acjcqKiUgEJ7L71CPb0",
+   "width": 640,
+   "height": 410,
+   "lat": 37.4517,
+   "lng": -122.186,
+   "description": "3293 Peninou Cleaners, Oak Grove Ave (2004)",
+   "date": "2004-01-01"
+  },
+  {
+   "id": "AF1QipNeSHutro6Qes81yflGT5V0WziutfHmgCR-ELLJ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMC27weL09ncOyT0a-JczC0tHdBhdDJTwRiReS3XtWLbQytOrWTD37OGyk0Yoqarg7SoGcwCL7U3GSFePUMrtZ0-tHXDoeto5Wplvy_n8hJ361Lotg",
+   "width": 640,
+   "height": 494,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "0859 Menlo Park School Oak Grove Ave (1875)",
+   "date": "1969-11-27"
+  },
+  {
+   "id": "AF1QipMBA7CQzkQG97j2ybR4PLdiLry0SDhhUYEiPPN0",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczORVhUqN3Tmo5WsuSQnA19xu5mqJrtr380w7WCyTQgUm5ZEfH-ospiDMwu2uZPHz36uly2wLiAmPrUXH4JPQARhS1eGhOA8OoxBVjwG_hQ5gIpFgUY",
+   "width": 640,
+   "height": 443,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0865a Central School (1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipM67a3a23BvglpxFW1LWfQs6_VCGZ1yKn11HK8w",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM6n_wf-JDNjQ3eUNTg1eZFCQM1sB4esICqRLjyuCdgNRFqyRKBYlDTvGwOsQcJwXFV7FSzHKGqQpLK4_fqcoIY0tYRM3QdyL6JwHSXNM6kDejdSVI",
+   "width": 640,
+   "height": 380,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "0865b Central School (1896)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipPScSl5UAJXdHTz_BBEMpjcnuE2c_KoSIGL9eOl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNeZ6QChTu9iBHkgTmPWQjWweZ9qHompfYN0fMvexw2fydPXw4JMZivOM7ITWmmP3992k54-wm9fDxNddx1lVJjGPY9qemmMSmQGHN1uwnTJuH6HWU",
+   "width": 640,
+   "height": 452,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "0876 Menlo Park School Oak Grove Ave 7th & 8th Grades (1893)",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipOli-e0Kws4rBbcoZ8g6KmtLwccXH_DfKy3fGjl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczONbPn9I5reCGApQK5fezbeleFZJgaMSCausvL_SPp4U_afOUL-B4ESPnwPg40NsED5oIxsRKEAjDNNi6iA_Z5YEy1WL6RDmqv0t5g_k1kOGpr6au4",
+   "width": 640,
+   "height": 502,
+   "lat": 37.5074,
+   "lng": -122.173,
+   "description": "2262 Menlo Park Dump/Bob Andres/Times Tribune (1981)",
+   "date": "1981-01-01"
+  },
+  {
+   "id": "AF1QipNCTsK7czekK5XV9MrlaiTeLZIiiDFWUHtx6Q6w",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMYZQ7FJQG8pu5OrVUaNbHUGPNDdQu7XOzP0oBPokceXKMaQcez3Jnrhlm24es-zECQtfK_MN7QtnbY1BEWrUMEfiOfO6gidxRaJ1so-js65jn6t8I",
+   "width": 640,
+   "height": 617,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0473 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipNT725-c_NvmtbaIREmy7w-4VH5QdaAcwYye3ne",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNrKiACTRgC04Wdtya7LrkFd4QYrFpwtpajTKLlCI6Wx95t6KbIllu0oi_DP6dvQmWSHH3h6k1uTLrgBN4bvfv6a1PUEfXCnsqs2dMCyh7yJs97lWk",
+   "width": 640,
+   "height": 617,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0474 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipMMxxeZtMlNmmlZIZ7tqPvnAFRC-SkdsF8lP08F",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNsoyFc4RWbQ9g9IWQNgx1S8aHpjdaSKBZ_gYJJbYkfJdPY5yDQzLuri2tlm178jpD0NI3cB_hXc5t1EEUvTSx-5vqUdLeMK_h_ZdnaC4XMpyHCFew",
+   "width": 640,
+   "height": 599,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0475 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipMwIjz9_03fecwC11BctkiiJNR3kxIhcx2AQqB9",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPhHal_VPTrN1gsOmovX9x3cZSx7ow9ec7NK5FLQRFQxno1ElmuH0jQ14-XT1tcQjt6sGP4DdnTY-Oy3kO1B2JyAkKGGgPAjUTecM9u4mEerhLd4Iw",
+   "width": 640,
+   "height": 605,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0476 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipPzhIIrHRHi-TUvFoPyrpbjzUCme1OXLKlpbkmt",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMD4YGj3XEgz4QwcYaUYV4klC1xxDxi556QXBaUCsEIPVNQmHt7io30e8mF-mrkx9C3A7nUTCI4xeXUR6bVCo4ehydBMKZtGXwxrXpyUVxuqyVb5pc",
+   "width": 640,
+   "height": 620,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0477 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipNcqaM3boKml60ddOcYYUkfKxZ3bFJsZbLaqtT6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNKkAbaHMnGXtW6CZZsfa1upZswryxL6aN1NdKN3vvd7c3ljsXUHbLRFhdVvmyPqFpqTE1g6TQ7B5evebaCFM8ZiDB8OeqD_APx-uAA8jsIo4S4fGE",
+   "width": 640,
+   "height": 613,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0478 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipN0ibTl9O3ogzxQkmCUYHoytVYk-DkrzLAn1Kvx",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPAuw8T3xLQME0q6NBz8RL4s2SbI85CK2oCjJOsLgtc4Z7saENAwuKwsxiRHZD-9g2ep9CL3YCy7OjFux2rS5xRSWvNivWYzGxk97Ix-MpoeysShrc",
+   "width": 640,
+   "height": 625,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "0482 Parade on Santa Cruz Ave (ca 1950)",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipOnrvYpDxc3Z5l_p6Dn8xU6GDk04bHvqRPVkQRP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPAHVbll6wi1lVt8q65xly1zuI8cRicC1CoP6vlYMjWh7nsi0EsPHV8UdWgmUHj9-PhRVa5b3pJHluW3zDkbKc4_s-DN2m0ctkqpm1MSUseD5GNaP4",
+   "width": 861,
+   "height": 500,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "2536 El Camino Real, Oak Grove to Santa Cruz (ca. 1935)\nHayden Collection",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipM1KqyicqEzhyjVh-G1sQXO6v8bHL6FA6Oq8eBL",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNVnSAarMufp0567KL8KFdS8baOEdMsa-a-z8cG1_szQykJX0DuVNyESCI312Ggz3Z3BuBBfp2ybwH5wI4_fq8eiBbnJG_oiJvuiBE0GFo2vhdQ0eU",
+   "width": 708,
+   "height": 500,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "2580 El Camino Real looking east from Oak Grove: Roos Bros., Duff and Doyle (ca 1919)\nHayden #S-157-4",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipPehQknG45axsCyU8j2XcO5MABQsYQ7C0ZpR3kK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPCbmiKO5qmS9p5tPaXoWEl1UJ-ML0sxt6qeJZGbWTbSfTAhjLPSvZBF3dXjOYUOMAvzWM-khlQjfbsG8JbelAhOCp9G9cMAGkoHHzN0YFiENB0r3I",
+   "width": 706,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.18366666666667,
+   "description": "2581 Santa Cruz Ave looking west from El Camino Real, The Walnut Tree (ca 1960)\nHayden Collection",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipNJIm-v6hL-8GGuZwQueIkiem3biRJ5DoC2JFh9",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPTvzLjL38C55JO-c2Q4hei15Izhd1MIW1WvxN8wEsBZrlOR37_vJRwVC8tf6DZTlaucjvd_fzSMGBcY2aSrSm8INzqF3FV0t88PQMXd_6QI8Z65vA",
+   "width": 631,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "2587 Santa Cruz Ave: Safeway, Bank of America, Searles Buffet, Consumers Mkt (ca 1950)\nHayden Collection",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipMfjmTgU_isgiRmFQCcvhTelYTl-0Q1j9CV8_Tp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOK20ctB2a1RksYKYzosXIDaDrS93gR7gGK8I8w7QVumsqlfrqklS-fzFufMi-_8Ks0clSXVnfIkrsWg9Ekw_f_Z_3iXY_tqjwO_z-PTkLnAGYVls8",
+   "width": 632,
+   "height": 500,
+   "lat": 37.455200000000005,
+   "lng": -122.184,
+   "description": "2595 560 Oak Grove Ave: U.S. Post Office, Johnny's Smoke Shop (c. 1951)\nHayden Collection",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipMQQQzhOWDrDpN9XIRPWKLimjSsRcsaFs4u3lvk",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNwjy4kLsu7XkJ9qBIDbX89nW0V6HTH43vj0vO20Oc-n9FuHb9Z3wNWrbVinDZcK6DclTz8UOK8QpRvp8Etq26uIUf49Aa9BOvdwYReVXCZQk3TVtk",
+   "width": 630,
+   "height": 500,
+   "lat": 37.4551,
+   "lng": -122.185,
+   "description": "2598 Wo Sing Laundry (c. 1951)\nHayden Collection",
+   "date": "1951-01-01"
+  },
+  {
+   "id": "AF1QipNv-DeDu6fv-uvAn-2KwAYuQG-vAzWxpfqmcNuW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO0h766SrkmDJ9WYr-hJP4POdlq_6g5gVkaQpQZ7Pl32xiDQpUQNAU9JzQPsRYpHGZH0i3wNRvT39qdAkE3kNlcOSjBcsP3NDcMd57PSbMcvdK1x6o",
+   "width": 629,
+   "height": 500,
+   "lat": 37.453100000000006,
+   "lng": -122.184,
+   "description": "2620 Looking NE from Chestnut St (today Parking Lot No. 1) (ca 1950)\nHayden Collection",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipOp8hjJmYT37F3GU4qwiqEMY6sFN0ROVKvZfRCs",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMdcBYV431GukO-Q5N1mxQB7XSIaRMfRpu-Gm0uNGH8k2Z1iN9OfUescFJBVWjkVfDlI290I-F0ZQ7f7Xn7lrSkx3sG1Vi7QcJYeuqmqpVYVXUJGaM",
+   "width": 712,
+   "height": 500,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "2980 El Camino Real looking south: Roos Bros. (l), Duff and Doyle (r) (ca. 1919)\nHayden #S-157-2",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipP9S567hO3mJdn76mwRNq5gmBKWtmfUfZ3s5qrT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNLgM0E4IJgsz2CVZ0ap9yjvRCGIChOH2OJq4CWq_p-3k4XUbpYmE3SLAP2paUvYUmEbpMDddUqM6_IwssrcVoZvnGEAjIlgL5wNSbR5MaSypKbhVI",
+   "width": 656,
+   "height": 500,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2981 Menlo Park Hotel (1899)\nHayden #S-121-1",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipN5NLFPxE2xBRqhbqARjEV1KzDwcOYDz1oXZE7v",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP3jTIsyYaB0qU4WqLu6mRbRLPkpy2YLGVMjJLvucA5MKTprcT_zyrEDzHx4vg1JA6gJ2K4STxCyTI1b9t2LYvv5mMlDoXz6tyOgH5ABYBb9mNKEsQ",
+   "width": 618,
+   "height": 500,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2982 Menlo Park Hotel (1899)\nHayden #S-121-2",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipNSbC2xnw8GONw5GiY4Vv85ShgqTWnpqYojzWb6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOfb_BDrIuWUTKRj0lKKjyrqpxeFEVxaIV9SIlIjiUGFhBlResPstfuyiOHq9yZp1TUzhMy2EcDY6aGcsb8m33UVbUTIPNMfy-XEcbpT7oeMnDtDt4",
+   "width": 622,
+   "height": 500,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2983 Menlo Park Hotel (1899)\nHayden #S-121-3",
+   "date": "2019-10-25"
+  },
+  {
+   "id": "AF1QipMPTHOUmYA6QQGb_bLL_UcUJacCUtz9o_ROiyaF",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPF44nhw8CyZPpZCid0CF4_8Ps9JHVoOwG9HKCj9Q72SsY2Q2JpKuY1kvtjUbJWV4JS0oOwH_pALT4VhbzmFK27kImVe6QkUmM098wxWZPGxLogH4w",
+   "width": 704,
+   "height": 500,
+   "lat": 37.45529722222223,
+   "lng": -122.184,
+   "description": "2984 Fire at Menlo Park Hotel (ca 1896)\nHayden #S-121-4",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipNUKClJw-izbq9UXwbjMYZFeKVgyKyUm08wdXAe",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNc26WsgThIBmSJ90bBPCS16h9c_L21z0EDw6b_8kc9XQgkzeU2-Tr8et-xEED0XiSZcxFVkIZICC1HFBuXN33ohe4HpCYO-mHyPSyrRprXgcL61c8",
+   "width": 628,
+   "height": 500,
+   "lat": 37.4557,
+   "lng": -122.18366666666667,
+   "description": "2989 Palm Hotel on Oak Grove Ave opposite Alma St (ca 1960)\nHayden #S-175-17",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipORXQNuKvUnstTUMwLgofOgVLpZ6rRcDQWN9jz_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPJEArKCiYnVEB2KTIb8g3Syik82voJvKsA46RTltstrWbWeNGHK_QoivMZyhzmOde02nDVAsHW_69kAqU9LMPo-gurfUjjphK-igS_DRvp0LcPLEQ",
+   "width": 628,
+   "height": 500,
+   "lat": 37.454597222222226,
+   "lng": -122.18466666666667,
+   "description": "2993 Loveland Post Office on Santa Cruz Ave between El Camino and RR (ca. 1900)\nHayden #S-175-14",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipN9kUnXhnF2IrB2nug5y2XlMjYYxwC84VCVtvRp",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNCyEscGNSyuybKz8VCyGh2cwkeEA0Z4a2RjdLFSIDfIv8X5jgvMW75N9NYpbTzmSfStFcbVxUEYW3aGvEZdgJ-XJA-r82pyb-ZIHMnz2rsdeYa_m0",
+   "width": 872,
+   "height": 500,
+   "lat": 37.454597222222226,
+   "lng": -122.18466666666667,
+   "description": "2994 Loveland Post Office (c. 1900)\nHayden #S-123-1",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipMYIxVoqmvlBuhietnX-L48DFT4Yev9XeiRiz1a",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO0VLSu-Yldoyte9iBdiXj_NkAFrvIp-7REix_uQ-41khQ1JtdT33tU2QE2EOuEaAoOJV2DTMsObMKxWMWgC2wyGS8UGCKtKTzFaLAbqCu9pKj34jM",
+   "width": 620,
+   "height": 500,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "3015 Old school on Oak Grove Ave (1893)\nHayden #S-175-39",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipPaCRV-6baQEHh4508ish26z2rNOqi5_Y0j19gf",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO5RLg3HKStASzDeXTEczlnjrj5qckx4hcp-hYievY8yemqK28LP63f5jCpGwOAxp0v64nFKbEtmfVcMVfHmIgNozY_uRdumNmR2yvPt-rbw5ZiytA",
+   "width": 819,
+   "height": 500,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "3016 Class picture, old school (1893)\nHayden #S-175-40",
+   "date": "1969-12-04"
+  },
+  {
+   "id": "AF1QipPWNlwr60MZrKaGkXcglIFZwevTnD7vaz2vW7Wx",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMHB3UKNnBjNkIVopIaFN3WVT6Khg9jXmgJCF6gXUYv7bPrvyf-kYCX9ShWAPj2nkparFO0LEurBLTC2hA7awH-16cN1id23vs4FVS8arLr9ib8yGk",
+   "width": 740,
+   "height": 500,
+   "lat": 37.43926666666666,
+   "lng": -122.17,
+   "description": "3024 Stanford University main quad (1902)\nHayden #S-142-1",
+   "date": "1902-01-01"
+  },
+  {
+   "id": "AF1QipMYX7ZQaqaCP8T8ZkO93Cpl-qlNLajW05u3E8cU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNZVGQiXVOmPudCnPsQ78PkbRrMRcSupCvmr5aawKGlbQLldfYugbptJwnbspupdpZLvHdP4eZ7bkatCCnN7HSajkqicmOx5E-sPGSG6jEN3O6gi3o",
+   "width": 402,
+   "height": 500,
+   "lat": 37.4562,
+   "lng": -122.18766666666667,
+   "description": "3029 Trinity Church Choir (1888)\nHayden #S-125-1",
+   "date": "1969-12-02"
+  },
+  {
+   "id": "AF1QipM-AMKxASP2sGmsGrr1IXLEu_4fwsGkUPMYxlEd",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNldoevwzK478lfQKv_zzY4PrxtkctPxCRAUzqNSxGt_MXlBL_uFG99PLIiyq_NRMSHzdD0-VaPMyXE6B1ePsxegX0_MHbNTtZJ5GUr5C9Q2jGrlcc",
+   "width": 621,
+   "height": 500,
+   "lat": 37.4547,
+   "lng": -122.184,
+   "description": "3031 Oak Grove Villa Hotel (ca. 1960)\nHayden #S-175-18",
+   "date": "1960-01-01"
+  },
+  {
+   "id": "AF1QipM_Y93_C7XLPI3U7xEr4LudNj9KKfRi7_L9csPZ",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPZFy10nw0YpgBfmdLb4Rpr2mzgQdf22EqcgMppVsBCaRhOKWo7HJSGLEL2BQsFMqLjY9fGmZUq5IOw6d8JPkV0MFoJr6Y8p-ftJDGSiLvcz4wjZJU",
+   "width": 862,
+   "height": 500,
+   "lat": 37.4508,
+   "lng": -122.185,
+   "description": "3034 Frank Wolfe residence on Santa Cruz Ave (c. 1919)\nHayden #S-201",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipPhC0o77kJ55CHnIAWMAKmePfo_vAiru-7Tzck2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPF6CGLhcUoH5sOd0MMfX3dj5bWntW1IsXBJE54FERMBBPyzXcoZetULw7RBn6mGMNARXJ0qNi0Fwj9EiT1QF19Nmu9ZzQz_ORZARinWd74psj-NUo",
+   "width": 651,
+   "height": 500,
+   "lat": 37.451,
+   "lng": -122.186,
+   "description": "3038-1 Company M, 62nd, Camp Fremont, in San Francisco (1918)\nMarched from Camp Fremont to San Francisco\rHayden #S-209-1",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipPsH76CvLybrWy9ftaW8l0up8Ipfo32M_8mKt44",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOcznnPtvW2pGuxx8aWyFd2bguZCqjvnSiwnEq1OI3uwdFFk2L0m2IxHnwWXgnBUzwn4x_PdBZXw6-ZQcOc-GREUeUai0hAGo4mbyrxKVYthmwku4g",
+   "width": 819,
+   "height": 500,
+   "lat": 37.4536,
+   "lng": -122.184,
+   "description": "3044 El Camino Real looking east: on left Busy Bee Grocerteria, Menlo Grocery, Menlo Meat Market; on right Safety Electric Works, Duff and Doyle (1920)\nHayden #S-116-1",
+   "date": "1920-01-01"
+  },
+  {
+   "id": "AF1QipPq0wwSEUbATzmBVddI1vzq9NHmj30zNmaYonsP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPVmKk3b_48lmp7uMjLy9l2UXVIqg64gfNzeu22_HbbEGrvVSFPgsqMKE8ZjntlorjmGb89hUWaIfHj_keqmbN9048Ex5wM-E9nxigCNfGGj5s8n1I",
+   "width": 622,
+   "height": 500,
+   "lat": 37.4547,
+   "lng": -122.184,
+   "description": "3083 Oak Grove Villa Hotel burning (1965)\nHayden Collection",
+   "date": "1965-01-01"
+  },
+  {
+   "id": "AF1QipOSPT1SIa3Ir2MeNe5Hlb6w-VkZSoMHUJWmH0ye",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPwlSot7aL-zLPiHFGgCXIbdMM4cx1JxsnKVfVgeUMcljXaBGhjdqdJh2NankThZLlgqstDxpv5idtZAaXw2DZmgnxZvWkB3i5UigTj1gg1wBS_Gdo",
+   "width": 1286,
+   "height": 500,
+   "lat": 37.453100000000006,
+   "lng": -122.184,
+   "description": "4931 Parking Plaza #1 NE of Chestnut St (1953)\nHayden Collection; SC 73",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipO5wpSOwCljHn_1bpsXAGzsk8_nevQx82e4CdI1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPS54-XhinpKbuMCKUWL0FotLf2PkaUy3_yQSU-s6QhrQXekmfpBJEoUjMTEU6WzK_QWWNp02AFOS4rMRXWlsNxvPt9gr7_C923jyEGUb8Dd-w2p9U",
+   "width": 610,
+   "height": 500,
+   "lat": 37.453100000000006,
+   "lng": -122.184,
+   "description": "4932 Parking plaza #1 (1953)\nHayden Collection, SC73",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipMV0Q-PASZQJKM7mSCQeuHFuWCWV7s9wf5aw6Qb",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNKk7sBmMDTkAIcagCB-lfCXB-u-FE1QZQntCV6IFY-5jG3qPfJzVqXG4o7fL9yCuG43XU7rWlfoOqp4NqkIbNHtrbJnFOk1IbRq92vNZarfHP-yqk",
+   "width": 741,
+   "height": 500,
+   "lat": 37.4517,
+   "lng": -122.185,
+   "description": "4935 Santa Cruz Ave, Wells Fargo Bank, Sunshine Mkt (1950s)\nHayden Collection",
+   "date": "1950-01-01"
+  },
+  {
+   "id": "AF1QipOXZUFwboCQlY_mwNG5NyzxuW_KVKRLFhltdUW4",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPCns0TqmH8LfbioaPcMCwkmRVkJeKmWxkJTKQwmLNnv2UmcOmoMj-vapNteH5ayZJGkunrmNxJgY1CaljnWqO95TCKaPJmQ7Fwm7tDsftkDLRHg6M",
+   "width": 320,
+   "height": 176,
+   "lat": 37.453100000000006,
+   "lng": -122.184,
+   "description": "4933 Parking lot #1 (1953)",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipPbQimNmLivBFoVTx2g4eRtFe3lX5XLmE71_saK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMWRPI9fQt-TgFvlEZzj_uJRNCRutX3Ai_pI_fmkwf0sZkR5eGr8l0YF4iRvRmKn01gHYcEFEXCsY5Gumn077hBM8bmOWkWMGqu4V7FE13nKFktjtE",
+   "width": 320,
+   "height": 252,
+   "lat": 37.453100000000006,
+   "lng": -122.184,
+   "description": "4932 Parking lot #1 (1953)",
+   "date": "1953-01-01"
+  },
+  {
+   "id": "AF1QipPwa-z8ScBRJdel0gZ3NBaKZ5CZO7tKdkPcjqX2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP2tcwzihJH6S3HiPORBJs42LZW2wv2eqNWC1HAzoErBxUEky90yP8rma73TaF2g54uKE6yjfqfJoHJUGae_lXID_z1eOOGE-UYSYHbZc_KQraYOLE",
+   "width": 640,
+   "height": 503,
+   "lat": 37.47253333333334,
+   "lng": -122.18666666666667,
+   "description": "0976a Breakfast for Italian Mission, Nativity Hall (1940?)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOEyea-kQ_rVor7J1prXr0tlF5IrodHIJwjCHey",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPNcz4T67oUusSV3r9ufAud9RJeCQbEgy2xNghS1LxA7wrpST-Dw8SgZAEkuuPPOGERYUgRKy2RwrmFXxmFowZSHuPtB8G1NjWrd6XB2Ci8uIoQiGg",
+   "width": 640,
+   "height": 368,
+   "lat": 37.4538,
+   "lng": -122.184,
+   "description": "1145-2 Week in Old Menlo Park in front of Post Office on El Camino Real (1939)",
+   "date": "1939-01-01"
+  },
+  {
+   "id": "AF1QipOsQTDmp2uEq6wNLTEvJheR2C5-iy9BCBStUjtS",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMivXEV5Em3kBEKM_3VnnRKqXb94tklc0kJ-ZaJbedyICIDSBha7SDz3jpLKigrlIspdGCqrLOwLVbGfWTeH3qFYzPIDiXpWVxj0ss58EKmyYR3tYA",
+   "width": 640,
+   "height": 410,
+   "lat": 37.4506,
+   "lng": -122.188,
+   "description": "2634 Presbyterian Church - Men's Bible Group (2001)",
+   "date": "2001-01-01"
+  },
+  {
+   "id": "AF1QipO4P2eYoVgDBkXT4t9sXDz1YCTIWk-p5Hsap63T",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNs6qv9Mc6GjBivx6cyinHVT82c_b1WsF4Pt9UBIMUui5ASnvfEd8QcrsJD8VK3eXYiiSdm-GhpimNXjb_b9-1Agxv2ibGIZxofGFY2ROr2I2zuu54",
+   "width": 640,
+   "height": 466,
+   "lat": 37.454597222222226,
+   "lng": -122.18466666666667,
+   "description": "0375-2 Golden Ln (now Santa Cruz Ave) (ca 1921)",
+   "date": "1921-01-01"
+  },
+  {
+   "id": "AF1QipNhWb0zlnAcDYzA0TQVZgUdXTvTih2uw2X6hHR-",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN8XbJ8AOfnp0eH9r9AbtG3bWBjnoL6v7oxdE66abL7fjPlpXM6xU3NaUqGAWBJuqd2JD5psYPsLxKVNGwtF1zrOFJ5m0Xaibsu5LY8xV_alio-JM4",
+   "width": 640,
+   "height": 376,
+   "lat": 37.4543,
+   "lng": -122.18466666666667,
+   "description": "1835 Post Office (ca 1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipP-Ns07Vb34qy_Gtty7CHaKnOHekTaZ-iqNXCH1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOEWJMGytSNsLIaK6p0QcZ4U-gmZmmVG8STogUDjkOQqnmLygMpvwvw_gxR2OHt3f6TBotfE0t9hHxx4Q3BQn_JI7-hRGew_Pz7nWE1ADY4qHrEg54",
+   "width": 436,
+   "height": 640,
+   "lat": 37.4547,
+   "lng": -122.17500000000001,
+   "description": "1608 Dibble General Hospital (1945)",
+   "date": "1945-01-01"
+  },
+  {
+   "id": "AF1QipNz4maaSfF7paXB9ROuu23HVK71K-lQ9q9ZvGGf",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP32FEAKktK0Qo-39QjPPfZBF8tb4OGJuhxqUvD54DLHN5lK5jwI6iyntRjfcL4ZJ2FrkVz-O08AZFDnOUcxaU1nr4B8pD2umpyPD44XcPDB4LZKyk",
+   "width": 430,
+   "height": 640,
+   "lat": 37.4547,
+   "lng": -122.17500000000001,
+   "description": "1610 Dibble General Hospital (1946)",
+   "date": "1946-01-01"
+  },
+  {
+   "id": "AF1QipPIpNQUNQdUFq91xthbnFZWDhWJDJy3NogHq-87",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPqyD1xr1lAD1wxZoYk8XcYi_GgME5g-JlUVLXEGEE4EzLDxAfKdrW27pmM1OrBTDxOOD6zkx_nrHWCKEzeZ7oWIkSwDbC39TrUYoymXt0yEH6x9fg",
+   "width": 640,
+   "height": 470,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "0055-3 Menlo Park Railroad Station (1855)",
+   "date": "1969-11-20"
+  },
+  {
+   "id": "AF1QipMLz-NBxVqFjZHBWWaY9gIX3t3Ptr6e5gfXQQFc",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP1PAneb5L4J0cRmKuTElpu6rTY6vK4CEEGX6Qn6Kj7DF3jUPsCTXtOrhMYUhVX0w7CkuMdIb4GqANW8hruu5fS8Jf-1BSHiLrGY6lP2vCxUqlM2Qk",
+   "width": 640,
+   "height": 434,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-7 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipMBYEbUefEQ-rjM2QqHr2oFhV40hz7HuTOtKQzO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOo_j_BxaWMNGBwKZt6sQ5EWII-fzRR9kAexKNbMJwTTn4ZwJh2jmKeIgCgqkMB9b1wN98rtaAbrwp3Hq3ICkw2DqPmVzhH6ky2qfAu8EdTjSYII6Y",
+   "width": 640,
+   "height": 436,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-8 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipP8YVlM9U-akMrWZ4ISgsQgzVvaRV3KxzANl0Au",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP4F7XM26l65NnUYu525qhfqVUzxbUA5GbPBW8Qpo5RbdEt1pKOxownrDLqb8LPTyTfvePkTTCONu1KyF_yhMvNDplk26iGfFVr0YDNUqNFlH-sz6M",
+   "width": 640,
+   "height": 487,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1791-1 Class Reunion, St. Joseph's (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipO0XiOkBEfCLuseQ9IWZmm1v4_nUmlni2L9WUCl",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMVip3mCCqeYNXhP6o5I5Pc9y7aRvJvPP7AFGuTbs6gwWuWp_DaJnmv3OrRLJ-23Vw-UhZuB9GC-gXkZRL8vpuleIeSYrVmVYGbf2VybjUPVMqU_5Q",
+   "width": 640,
+   "height": 432,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1786-2 May Day Fet, St. Joseph's (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipMD6r117wzzou53EhVCnE9v01ytrfaPwxtaVHDP",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPd-589hqZG2Q3cKn75wnRSOLnnoWHXCCMYlUbhpnd7WzkByYLn-Ac21kgqu6CJO2WfWhJoUzDWnTk8SyR-Da0U69gdyeCHKK3D_0BgZAWaUN6r38E",
+   "width": 640,
+   "height": 434,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-8 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipN32shMq9NBbd_du8N-p-gS5MmdtYXNTLYn5xuO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPvsBsWfwmITtcWTXrEdH_hDMNO9d7E8umwg2zpmLniPSnTD-9lt8jcZKpyqXh2VxcTW1bSvIabcVUQOoLGizDyRHzs2wA5nd1XUhvXVasT9VxQnbs",
+   "width": 640,
+   "height": 375,
+   "lat": 37.453300000000006,
+   "lng": -122.18366666666667,
+   "description": "3329 - Menlo Park Hardware: Madge Ryan (1936)",
+   "date": "1936-01-01"
+  },
+  {
+   "id": "AF1QipOydUOlXIga_ihfjNtMEWmIoc1vh5bP0jTEHoOi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOclRJscBaaV2flv9dQxSnjhgnDLWz4bHZyJ_BwoQ8PFV3DGzvfr5iPNdrWpNxiyVyGnp5k4cTDGUdaXBayGjqSbVV8MxAVHzXDdL01xLT73udGDeA",
+   "width": 437,
+   "height": 640,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-13 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOGQFuMH6EQyVwEY3j1wmfNuT-FaK_9Z5wTwjts",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNuqobae9iT68GMAjq486JNnhKVx2SqXl5H7gdImJmswm_dRqn0h0jRhx6mhFmI4xNH_qsh6gNB0ugXMfxcbpu8UmvcX4ZBdzakuwOKGuT4Z6vhYs0",
+   "width": 372,
+   "height": 640,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "0579 - Joe Weeden, F. Brady & D. Fearance at St. Joseph's (1925)",
+   "date": "1925-01-01"
+  },
+  {
+   "id": "AF1QipO1v1fyfgUwaI8EDIBomChpTuXMW_j_8IQzP0Yi",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNp_XOGCBw-JcFqMf3D8Gha8aG8E6WnVyD8hIHaCZ03i6qfqavuAP8tmf2JWpeAZHUn0lSBz2XnIIfpsFflOA2o6cxDXG-c5lvmy9tLSgHH5_X6pIw",
+   "width": 640,
+   "height": 424,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-12 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipMNx0RcitRh9u2W70QhB-Dy74cY20juCFewEor_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOujH4LFZ7U5xGLLffr-8TqaOfK6BZqcsr7KuQyyk1Y4p4ul9VGEE-1zrAWHEgkXhu3x9Q8QQ_JNTpG7AMgsVlXYgBWCMx5fwOEr74vXSxhMh_6zls",
+   "width": 640,
+   "height": 430,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-7 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipNRL0iTkAGKVNj3ccQF_8LqYkk6MipMei6lHufc",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMzdaLk8biFz6YrXc7YoJjFc7w5U01BjE04R8BbDC3qWtbaUnvmwvk86U37rAxklfVEx17qyNmzexMhwb32e9LsbUeNG_IYjPHWOnK3xYHDrEhNOcs",
+   "width": 640,
+   "height": 430,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-11 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipO5anHyC67_t5p6p9LDxCSx2Ga5cr4QTL3qyRzE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN_fo1WLi6yfYcuQW9yR5mGUsWMRtIpKwGevj7xTUK9DvxibwMCuKmcwsVdNjiAGk67O2TLlvAiEGk1QWVQQqivRdHfC2-rzf5I598GYZCURN6g4rM",
+   "width": 640,
+   "height": 487,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1791-2 Class Reunion, St. Joseph's (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOHJuXQl6OQ2piHdReX6wAyPqDXYUJJJTNQRR-g",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOZqDXz53kZACgkmjdLztBFWI1ciZFj26Xe-Uu9Ez36sNU1z15NDdA1XMq0KkYFimyu7_9GbMfyiWO7eDKeSDj8YMGidFM8zM60kIIuqxxUw-6XBbk",
+   "width": 640,
+   "height": 365,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1785-3 Easter Egg Hunt, St.Joseph's (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipNYLurIFj3Jnt48mu84pUkELQom10SEmnxflxlw",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN5PevNm4AaNOA9T_z01XwD5eh3_iYqBAkgeXaMNK9LCn-FGyrvkWCB5jKdt4Da9CnILOh5hhwQJJ4g3j9U1QBvUgBWaBzgxQdXhpFdFErxCqWIYvY",
+   "width": 640,
+   "height": 430,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-10 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipPqfQnQ2H2UoNEyCKp3Wr-crO07DF7dAyh7EhiG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMTmdcPdwfVQ18nB6fhiVseESmiCwJSmCSU7Mpdanh5v9oBlAEIlKacawBz5N4DZmRUqIvcjeFUyAqh3Y7N24sQ7u5agriaqmyRiXIe8h39qK6jIAc",
+   "width": 640,
+   "height": 436,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-9  - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipMj4Y7A8-Ns2Ikde_RgdWwNtCoLHiM0fZGtY6bU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNby_jjUbEyeC1mOgZv2_khcf2cq_iEGMm1Hnmha1uYDQNfN0PlIUxMWud3vfgqpOGqnpyvu9CNGScHBYu9UEanrUeFa3tEMq6nk3kn428ecD7YqlU",
+   "width": 640,
+   "height": 430,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-6 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipP0HGv6k6MLD-UJGB9RmdL7USndwhH07cp_IsSV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO-8jzleECVhyw-E5qVT5UQf35FiK4qHQDWvrjm8UxEZY4VHjgwj6r09x_vNr_EMSYp8K5JvVFnCuZy9ftghmxkt4ADnGU0ddk9tD7AE54kMHI0EoE",
+   "width": 640,
+   "height": 435,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1062 - St. Joseph's: graduating class (1921)",
+   "date": "1921-01-01"
+  },
+  {
+   "id": "AF1QipNi8LKeFoYU8TcYgMPE_oKRl84bAODwAL4L9bD7",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPAK6ZjZPYaDXMmsF13eHScCrAq_wH6Qw7yOfZcq0DdgANR5pgvUtommEcMZa2FnhBYYuuLX_O-rhZWs06wRF6klzqz_Z2HeZ84pXkISN0SADigkrM",
+   "width": 437,
+   "height": 640,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-14 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipMa3mrKioDlcdoFY2b8CEZXn3beo-UwcpH72Bf1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNZt2yXuDOsR-PYDwvdHdUfPDMhU-pdmay7dyd1LKctAqtAZbvjNKCWVKZaJw0H-q0Rm_cR3pmfNkzyusZGN6xss3vSHx0AZYjiVQDjPw8-HkuydXU",
+   "width": 640,
+   "height": 439,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1786-5 May Day Fet, St. Joseph's (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOX58L9iQ1Wf9tCdYwdMbbUVynFpibf7QKQOd7e",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNyYI7jhQ6n_IEHs5fT1hfaAJTm24ktCnjbzKZXcW4jnuaV5EPMFbuef91X2lDkeSOvQ98frd_Mlja_QYZ0tOoSQjPycOAJZf457gKsgoUp8hO8-zU",
+   "width": 640,
+   "height": 362,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1785-6 Easter Egg Hunt, St.Joseph's (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipMobQPFVlwUmRGr89SHbwKzlQdZPBWaO8aV-6Ks",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOKtWFxjuCRd_q7xQP3X1wXpLBotWNa1yhg3vlFleUBO3NdnBHKOpZdqXuZpw6JCL_i3FBhAsTAEf2XAr2lmXmO2wQsbJwOSgTm5LCoOxJMOIEmUfg",
+   "width": 640,
+   "height": 427,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-2 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipPdDzoZi36G037enG6pgeLbF-S2DFnTuLTy683q",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMeekkuvsnuOrZxqciyejzFHIYrTjFoEMoGyg0U_sX-aPtmtlccRROEZf_0wDqbz9MISVyCKLWVBax8abG-MfkXA3u0D0LCdPDaDyW6A50GPmUjiMY",
+   "width": 640,
+   "height": 448,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "0580b - St. Joseph's 8th Grade (1919)",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipMkxCw-FdA6dWzVlJzc3BWqR5RqqRkAbDYweafC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPKndjKJ6_hMqdledvWqh8nT84tFl9Akq90o4vjlmQ3PaMR6dOJkJXqQf4I2pVbhjtT_RGque9OXSrd7Tdo5jVo26pYN7toM0R4X2m_f1xUrqVkGxU",
+   "width": 640,
+   "height": 430,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-5  - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipMO1sj9AkMyFnS2uTNrSKp6PTQVScwHTjAAozGC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPmjp8vFB4C0Ud58f5NpkgZl7UZ9r6IA0bSOFawo_ERWPUqo1nv23dLoVJaNbjIYZLxz8a5scp8pGGg4gXZ4Hgy2zX-9ds0dpV80ffpyYV9TAHU3qw",
+   "width": 640,
+   "height": 429,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-9 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipPmwZoiwtyYorUS9asoKBGje_v3iFIv-scaadWR",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOyeeCLSzonhUaQq5pPjg9AFgyZDZMPQ7Y03flQRyZCQuVcqFLqqiYfxgFYNM_mQySPoOZT4QI5uDGjl11PjriogIH-pWJ3deieatiKSdpN6VgHwNg",
+   "width": 640,
+   "height": 432,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-3 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipPP9NAR-6kZmYiaJni5ZvHOMlVp6om3VFtIG0zI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNhoATcfgvM2frW46rK-XwVYG1E0I22yoM8emg2rOnShQePpz9Kwkfoq1nKmJkTJECOwuwsUYek6Q5tczLuBBJUBGSuXdCnXVOjQ6NoaqzfV6chGOE",
+   "width": 640,
+   "height": 374,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "0580a - St. Joseph's 8th Grade (1919)",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipMHaCQNnzSbzDPLAD7kEP2R1q5L89LlwLRRRIZ2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNG-m9rhnI9NtQcrWj4Q0ZxtTDgk5DubFLVXig80vvv205SJZqIfTW5ifj0aqlxn6AgAF2uL9w-PdcGK8CNzzqcgkPsps6WbQLmDllJkDc9p5PP4gE",
+   "width": 640,
+   "height": 376,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1616 - St. Joseph's (1919)",
+   "date": "1919-01-01"
+  },
+  {
+   "id": "AF1QipNf1a_oZwukjd45YKv2X_Z0lReTwZIQukuCuYYM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP8M_KtZ7V4kXmJKMy1V79skg_-dvXq1G-auB1b5O2w5PMmirwgDfBzZayARQUBv3KS9PbZ_kXyigmNQdv-hj8B-rrhvkToKSfPWI0AcMWdnsBjZ6w",
+   "width": 433,
+   "height": 640,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-4 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipMeLF72SW3C1CuAFu4f_EACMJuR6xecr3YRVBua",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNSABmDp2b1O3c-1e0mdatJLHgezlMy4z75zkDe_ceQcE68VQWWokyKjA3HQnO4V6v83JwasHLG18JyBtaAmGOHUFOMYG6Pgg2654Jj8yFCYQuCpiE",
+   "width": 640,
+   "height": 434,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-5 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipO7rF1fKvbvXVRE26UX0uFabdicPia4Jhnj3auw",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMFSZ40OKJsP9ORoeMomDxZ_3LS1ypOL5t2jvuR7NB-5jLYlxHkCbLcA5LS6J_hbyGMdgAbOQ1-IKlc3ed94QMRy4kCnBDSev6HhCUCsHR3ISrbH-8",
+   "width": 437,
+   "height": 640,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-1 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOYgT54gKQwI5jQesYofNvAyzLuNJ2fZtLzFwX6",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQlQ6ZwycRfKgCpFfls9GipGbvBMfaO2CFOqKyjLAbuUtqx0mSPZwyiJAweoBhS5Bi-bZTpg97CVPnmslk-5lIF-dRZHPiDhZcSFBvcY2JjN1kIt8",
+   "width": 640,
+   "height": 440,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-3 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOc_bVsu2SLSy0z4fAAayzGVaYqOxvQUHwexCFT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOl4Rd4I8-bcVcVmAKC0MdAyI-YWXAmUSPlPIQxtHLL2O14yv4BLBdTOKRedmp-hxxU5jxO4dlRRExLg0iLvJ_13rL26DK67ZyBDMOvu2HAuA50K9Q",
+   "width": 640,
+   "height": 372,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1785-4 Easter Egg Hunt, St. Joseph's (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipOlhax-gS7apokZNO9VzZb5orCQ6weK3aMxq378",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPRC78adVlXnD6K0ZwCxGES-OYGjVSDvYsr9dli0Qy8JWktdHYMrjCi-DTBt0ucbuLWsPtaJzdkjCw30CwF94M77ez6vkZHArGS53E1eRmbecDxAAY",
+   "width": 640,
+   "height": 432,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1786-1 May Day Fet, St. Joseph's (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOeKcdDUOHBJQzl-rsIqbcsHbXv8SaGtTNf5wff",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP_iXVLWtuuylmcKMEvzFd_lMB2MOZlZJ5-4RpX3S5XHT6F36UwHN_A32X32ZmRgVapfXMESgoYmWaYytXXycdasWaZB024SGIurwl9PzQfUv8THmY",
+   "width": 640,
+   "height": 362,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1785-5 Easter Egg Hunt, St.Joseph's (1941)",
+   "date": "1941-01-01"
+  },
+  {
+   "id": "AF1QipNCjH04QV9nkUeZ2jbdifVh11JOU-bHBrI2yUHn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOhGsaUye1t9cMs8oBWadDiPGVxdMd7260HfESh0LFD2UcJJGIl6mY-2ojDRMBy3fgdl5tN2B-CZexly_dvfmvMpxsScoCUL77gJWcBimHBV66iIVk",
+   "width": 640,
+   "height": 440,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-4 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipNiD15XSmUc0lR2LUBFlqueCoHRUckcDw0fXJkC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN43GXFefPo04pyH2teVABY1JiCa7RV3vLv8wvALT_540sfL0pYkrbCLJNkTZWsRzz4e8uextLsXE1SJ_sqkGSo9gw6Mo-RfXxcWdcapF188NwvYKo",
+   "width": 640,
+   "height": 487,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1791-4 Class Reunion, St. Joseph's (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOPrLNLkp5TSCRnvd5x0JxX-XlhjE9d1vBapvGN",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMPSNzTVFW0nory8gdoV3zBp0Jnez2dof3eXP8A8nORmoeWyZMJVLMbuK_wMaDrXN1_KOBa-LRK-GnaFK8XKYhS_sm7CB9JxOnxaxhCzDpwRAPcrjY",
+   "width": 437,
+   "height": 640,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-2 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOuEfEoHvmaTnEuXPDcZtAOR5S5Sxw8XuGGw_QY",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPy7Xx3k6OM4aTnzO5k5x4K37E_MPwLRJYrfn_LtbKS0iLvNhTnjQUS1T15Ve41epv1Fm6s9uj_GuDjRpk2SPsVbyjcLa3Eg9FRLNsa40MYFOg2Bio",
+   "width": 433,
+   "height": 640,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-15 - Railroad Station restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipNA0VNIw1d-jfM4m0K8mTehfyF9B5HqZPFVKdvB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNadIhqxomS3t64jdNw_HRoflUcrPWhy7-BwKKj8JK_f_U89d4cyKFH9auYoWxLHkNckaKORKVcfUL170mtLzkU0W1wnALX-_SxS7am6ScVUpMGiRs",
+   "width": 640,
+   "height": 487,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1791-3Class Reunion, St. Joseph's (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipOmCjvN8TonoSwOcfaRdfZWukE7FNOrgu1uM74E",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP2FUY-J75ZqvG1IK3z-3Q7he-jee00z29F7UX7AKt0h-bs2UAwz-XsExX4Qh4cwLWKwbxEGe_aZWGQpAJCm2QC1NcjoivZMxJGRo73poGtmc6zHKI",
+   "width": 640,
+   "height": 418,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1786-3 May Day Fet, St. Joseph's (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipOyPkH3PrBQHP0GFmtXP3Wd6qeomZ0CijaVPbrV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNNG7EGtiK6cqL9obfEGISRkDRS-YenZ6_oXjf-R5YCosTmSxn1MA5p5f4201WM8TPbKDK8nFXAH2NMx74AQGRNnMtcvJ70h4MgLSg552QvrAcNieY",
+   "width": 640,
+   "height": 432,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1786-4 May Day Fet, St. Joseph's (1940)",
+   "date": "1940-01-01"
+  },
+  {
+   "id": "AF1QipM_Z5Ylq59BnaiDzpw9XxVC9GMwyKooxSUbsRMT",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMbQ86y8LkWI-7AjwQijdt5spPFHC0CSD2a6TSHtpG1ZRftOvHRE7xzWgyPO5BKrRWEtqQVcOslDSIArV3YsW_muhJyxevqS1Kj8fU-p9xBfziRyvE",
+   "width": 446,
+   "height": 640,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1792-1 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipN28SDax2qIZbO2jO_mEdxRl7dhGWObaj2NoqdI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczO8NxYgM2WevLMxMe--3GYQgMTrlgfKE5PxvGRO5q69Tbo8rLVydzNv-DnP6Oh0vVB4T0mkWG3q1EwcsWmPwHNFTlqhols1WByIhbccMJYV9htzgZU",
+   "width": 640,
+   "height": 486,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3163 St. Joseph's: 5th Grade Girls (1954)",
+   "date": "1954-01-01"
+  },
+  {
+   "id": "AF1QipNwSZCEkwUERyam2-y8D4OybgyukaMoMl1H24bH",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNp7WZuivPELxSDAJbb7M0zKtnEJY5wE3hvpzEjMYcyKTbA7VK3wjatY3ahee5KpjO519nycMinTCAXdrxMzFktCJMC94_5OdrO07RFqPZQt0FF4iM",
+   "width": 505,
+   "height": 640,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "2059 St. Patrick's: Central Hallway (1898)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipNcD1MoCHlETMb_d68XsepNAegI0BRrewjJivqX",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPBziHclFZTrSBfnJsqCte2hJDc1-vDVTcDwPG-UDTBMje9ExtsRd-m_rNqR7q88AEL1QUT_4iTx0q2tTrJlt_Y1oJNcem3sDXEVO-nre5VRPF9vOI",
+   "width": 640,
+   "height": 484,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3166 St. Joseph's: 6th Grade Boys (1955)",
+   "date": "1955-01-01"
+  },
+  {
+   "id": "AF1QipOLXX53DaiEmLLirN2p3TZC85iFqSOpGo4R_hYO",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMvr-VYy8jb7VVxLA8oqTajwrMz76Bs21WS57NdAOg5uYTN0Oehkk7ZPexheyBBTofAEZroGUYHq-ePUc4-hqg8H7mwTRkKUjGsLoXDc1U7SoSp9Mk",
+   "width": 480,
+   "height": 640,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "0663 St. Patrick's (c. 1900)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipMbvv4ysp9-96Sw2SPwtEiS4y0x7ugjWiIWvnNM",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNmRpUNLJmAz40in0t1hy9-vCbqQzpTNbPPhe5vh32WQJtm5ZS7Rrf0fSLf2gWWvKiJWvoJxmiAlopj3rqV0qz_XNrX5cqvRTCDDJysTEJ6bH_8GBQ",
+   "width": 640,
+   "height": 489,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3164 St. Joseph's: 6th Grade Girls (1955)",
+   "date": "1955-01-01"
+  },
+  {
+   "id": "AF1QipMf7r-neeeCOiUEsBVu0l6GDBjlOHkY_A6iPGqv",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOUWUVhYEuNnsnh66fAxfQmz09yQifCNo6ZMrFnG02oHFcUvK0R5HLlRmz52atvGm6G-5WYCKz9KYY1x-_wQSz9sPkfvEmrxGIjlOljdXqHJGiddec",
+   "width": 640,
+   "height": 484,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3167 St. Joseph's: 7th Grade Boys (1956)",
+   "date": "1956-01-01"
+  },
+  {
+   "id": "AF1QipNoLoR1ysY2hwtplNFlzt5Nv3CWOCMRkBVwel2V",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOESyUrv7Y4CueZdFvZohiP8oakDYpwpzYwJ4TbJ6c_1jhUwJoReSzJUiPpY-oEzY5jLpkNJrcxgRYWVkCcfBnRjZY0UVZZd3gYtQfyUno6KtcimBI",
+   "width": 501,
+   "height": 640,
+   "lat": 37.456700000000005,
+   "lng": -122.168,
+   "description": "2060 St. Patrick's: The Chapel (1898)",
+   "date": "1969-12-06"
+  },
+  {
+   "id": "AF1QipPnNiGITapHDMuoRFdyYLC9XVit1kQs22gXQpcE",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMGJ6FTn2k0QDcQMv0zXE4o523Ok4IDgbfl3uw73mcVAu_opvfGDyrD24RpnBr7tG_m1lvreh1hTtkpVlnU9F4NhBmZ6xZbKNrMUiUFyTFc-VSUKkA",
+   "width": 640,
+   "height": 442,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "1303 Class Reunion, St. Joseph's (1995)",
+   "date": "1995-01-01"
+  },
+  {
+   "id": "AF1QipMuwK_En-jr2eb7svbesn_AwWpVnSdGntPAU_VU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMF6F2mQdEv1yEXH2KZMj2t5xNhykr2GM_pH0jKQYtSpFXzvTeiSnpXVm7wYbNXDNylN6TQe_j7etM0YRNj-HlH5nxPjINk_YnFvO0LcUCu35iH32Y",
+   "width": 640,
+   "height": 484,
+   "lat": 37.4508,
+   "lng": -122.20400000000001,
+   "description": "3165 St. Joseph's: 7th Grade Girls (1956)",
+   "date": "1956-01-01"
+  },
+  {
+   "id": "AF1QipMjTIxQcGvU9Y25z6vzmBzoCSieP_SpsABVNf6a",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOMXRqZ9hdW_oxG_uZdK4V75Qtl3DFhHEI7jgDKIho1ykmnxlyUJ9p5tACE4IZE6plzsP29eO-TALpMctWdzAm5luloIbT4L9ef0foLWnFrTUki6Lw",
+   "width": 640,
+   "height": 405,
+   "lat": 37.4532,
+   "lng": -122.18899722222223,
+   "description": "2456 St. Raymond former stables and grounds (c. 1998)",
+   "date": "1998-01-01"
+  },
+  {
+   "id": "AF1QipOTmvh93z0vXuqCT1np0ZLRV4gNL8oJs9SmJh5B",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM72K1z7hhosVKOpVY0JEXOoaR2DMyroMPk2i-S6VkLUummFYr6TOyKg_0zflx5C9aGOPbah-T4Rs4CwUjnc_iiuamgvUP8olZstm2dPZTTiJUmOEU",
+   "width": 511,
+   "height": 640,
+   "lat": 37.454,
+   "lng": -122.184,
+   "description": "1545-1 Sanborn Maps: downtown (1897)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipNLYPOPqm_UaogGg70v7MDCbFgdABjBCDwpQ8tc",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOowbGj5tBVmfDggt9Vs0c6M2B9ymCqFgh90d_GIWUb_COMdzs6K-UCvb2OTKEtQ2F93lm2fmGx4WREACBm5HRyk9Rc74eKVRmawQDsIVFkmGD2Sdk",
+   "width": 640,
+   "height": 489,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-2 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipMP2UzY_okZec4yN7f5XO5KMO6R-j5XQare2rgU",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMeMS20Wgqbr5heHaXYiGZHNMwc-vg__ciYPukJJfBnnZWDSuAn7yTfMoJCBe5mKkZiCJf12Xyv7__mv3Uzclp7sqXRyaMNXPI4nQ5ukdFs08kHrps",
+   "width": 640,
+   "height": 415,
+   "lat": 37.43966666666666,
+   "lng": -122.22233055555556,
+   "description": "2516 Sharon Estate looking NW (1962)",
+   "date": "1962-01-01"
+  },
+  {
+   "id": "AF1QipPcp26aim4S-Yo02c2k9NYd7YgjtiAHeIcrl5c_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM9HvkoyY9s__I6a22p4mWbOwzqC50To3a4kF21xHFJkBQpV0uBjMPoIeaQ4mQ6uAg6q6XmgZ_X4Hd-aArLlWV5IlCLN1sLYyzP4QMksjYO4du_jbE",
+   "width": 510,
+   "height": 640,
+   "lat": 37.450300000000006,
+   "lng": -122.185,
+   "description": "1545-2 Sanborn Maps: downtown (1897)",
+   "date": "1969-12-05"
+  },
+  {
+   "id": "AF1QipPICKNSxU1zx4ZkbU0uBo1YVPI1b1IFBN4-jXTI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPQW06oDJrNs9TzuZbR1QtjmbkH7kJyVgbnusFyzoE46DwdeqZkd4-gQaMB_hDEckXIEyyhWtHq1DZwesDrs4wyJyuupMbWG7zGEsL7zM_P6hRM7Mc",
+   "width": 640,
+   "height": 472,
+   "lat": 37.43966666666666,
+   "lng": -122.22233055555556,
+   "description": "5165 Sharon Estate (1964)",
+   "date": "1964-01-01"
+  },
+  {
+   "id": "AF1QipNWZlamS_ELzod8KnR2HA63z_cVRw2WhUr_lDyj",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNdQ-LLsvfWC3qGr3Gfqq-1Ynv-5tWZcaCtxcs8c6Gfbr0kZeq3DlYstL1LNpttwsuSEWSSuYLMfMSPi5P6wQlimqRYcwNoHUn4TWFloEBIBv-qxYg",
+   "width": 640,
+   "height": 380,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "2344 MP School on Oak Grove (1880s)",
+   "date": "1969-11-29"
+  },
+  {
+   "id": "AF1QipPzhTF7288oTyXWqbNgugiwXdcJbdNAP9uKLipd",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPIplcZSBBGaib_piwbAEywlnQEkpL9OIFedSArdsyet2EQFvwk75EVhNeRW7qpOJOq5jaordIws605ca4UxZ3a62ziO5x11wrZLQWHJv09RkoDCbo",
+   "width": 640,
+   "height": 415,
+   "lat": 37.4532,
+   "lng": -122.18899722222223,
+   "description": "2455 St. Raymond Rectory (c. 1998)",
+   "date": "1998-01-01"
+  },
+  {
+   "id": "AF1QipMZSgoFKlu-7zyE9e81sLpc2YPM12liQtiYkoMy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPyBNeysvCBltAD737wNjiKTDFBYXxgyjUFcHHUIE79e29ktUjlaTjJCk4CYY3DZhQzwcnNAJMPCwc-Kv00E2CrjV9WkxrhMNTT4FKjrGStDDO7kYM",
+   "width": 640,
+   "height": 460,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-3 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipOZJDe8ycHPZPlSChCh1kZr5gNRWim7Lkw3ERb2",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOA-MsCb93K6huVFXz_P0hxqux861v2rZtUL5QAKYP0KNie8nmsLB92ETmZDffr9gjORednYAEyn0_drcQNPWPRxzrCEJpe6vD6E_v6bR1Oy335Njg",
+   "width": 640,
+   "height": 392,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-1 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipM-u6NUOl2Xitgi53rmU_HrQaAradgFHoVwa5fV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczM7QFeGvnOgSWHJuRZYp-AobjTRAtYCBIpmftpgS4zwTw0NanN3tTOwLjoN7BAzlkhu7POp0LvtwDKhIffl6JroD4O6NpKA2uSaHuc54OoePMoEAVk",
+   "width": 640,
+   "height": 368,
+   "lat": 37.451800000000006,
+   "lng": -122.186,
+   "description": "2344 MP School on Oak Grove (1880s)",
+   "date": "1969-11-29"
+  },
+  {
+   "id": "AF1QipPaQVeO7yARG_zqdJqmsBdkq282Kq99dVmFAGgh",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMuCZFr77jgFNl7_DKQ9DVy8StgxLntFobcqGUXblsmADC9t0aUOd5MEs6xhfrZDXGdgck3YAKCgWp5AXBztTtP3ijtQSjnvI22_hwfZPUM0ifnK1c",
+   "width": 640,
+   "height": 396,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-4 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipOJ3op3QW0tjadQ1HTSFsv_8KvYDBvO2CJveChK",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPDzsV0MFAOYrkRCkjMu1xJ7-32tsBaZN5Frykpl6Ax9BDiXu42yRQszaUkI6kCTTewgFFFwr7ueascUasxbWq6rwQwFjdc5UIdHnihLsUtuCMcz7Q",
+   "width": 640,
+   "height": 420,
+   "lat": 37.4532,
+   "lng": -122.18899722222223,
+   "description": "2457 St. Raymond playground (c. 1998)",
+   "date": "1998-01-01"
+  },
+  {
+   "id": "AF1QipP_-M8DaNKf1CvgHTTvZd7s_TqVhdrwgMHS_6FG",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOre-yQQXFSpEAECMr3EOGTVNuNktjsJfLt8WRlAlPHlWO2u-8R5sLvgKIyIYDpF-8HxG9UwHWU_jFBYj3vicpxFkcpcewc3ePHXaJxGvc83_gC3bk",
+   "width": 640,
+   "height": 497,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-5 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipN0xNVTFvX3SJTmKkw4y_D-ISwsPwV-MynHsRID",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOvDUUzButX90sN665bZzHhsHvqQ2EL4Vh_b7QKMrUeixOIiUYP5ueVsEJtIkjQG4JQM8NIdRCdr9KS-wxHV4wAO5ddLqYPEOln31f2g_ji0IMQMHQ",
+   "width": 640,
+   "height": 538,
+   "lat": 37.4843,
+   "lng": -122.237,
+   "description": "1008-6 Sequoia HS (1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipOnNQ9-QxPYKt2DNNvFEpQ2wRWtfrSQCI8KTzAI",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOaRTqsrfhfGEzRSFVY_FMZoVe79GivgkDtCEtC-Wv1df78pp1-baOrdgjarvypqnEAIyg6KXraJ0-nTdLS61fhDgwBbHSiNmJxn1cdgfal6aC6p-s",
+   "width": 640,
+   "height": 463,
+   "lat": 37.434866666666665,
+   "lng": -122.202,
+   "description": "3295 Alameda at Avy (2002)",
+   "date": "2002-01-01"
+  },
+  {
+   "id": "AF1QipPgA7lUmv4W0bOJoAFCaag5wKUCgDrM-WR0pGC5",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMvpd72-hooQ7VBXwDv9pVj2pEeceiBYLbEXHGA-HvhNbTMkJk8h2K8vWSSUzXhKG9la1tSHXCy3dmJCYGQeyLrxeJlwP_0baHlfX9aaAUZJqkID5Y",
+   "width": 640,
+   "height": 491,
+   "lat": 37.43856666666667,
+   "lng": -122.19,
+   "description": "61-2496 Bertha Berna House, Sand Hill Rd at Santa Cruz Ave (1968)",
+   "date": "1968-01-01"
+  },
+  {
+   "id": "AF1QipNJiwAbEBVZdMyFpMmPpxVqFcJ_bQzhJdjwjIr_",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOTq4gVP7-aNSLHfV6bfSvOn2abcvq3XFmPsZXpo5jX_DBaWoB_Ux-bgeqtLndPvzYoQ_-I86CluNalIssFkbjSIVO8eZV-w_XRHp-50CpVGQ6wYz0",
+   "width": 640,
+   "height": 462,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "2112 Thurlow Mansion - SW corner (1874)",
+   "date": "1969-11-27"
+  },
+  {
+   "id": "AF1QipMkJnbFC3CV1bAYQyl3gY0ajdQ9Rv29VAktwA6h",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMw00IHKvJPkb45QKPvKL1XRAcmKaanmE8taV_FrkASCl_MONDjzraMcPQjQfYRTckz2k6eh-N7rxFlrSaaWwCWwUuv5QVaTZtsy8v3-5dOUVRMhRY",
+   "width": 640,
+   "height": 437,
+   "lat": 37.453300000000006,
+   "lng": -122.191,
+   "description": "2878h Menlo School 4th Grade (1929)",
+   "date": "1929-01-01"
+  },
+  {
+   "id": "AF1QipPUjYwFgJNGc4b6YPn1ykXk6VlDfjsTw7Vq9iCz",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOLWXk-9Uep26Ds6FzjhSkt6S4wn5LuuXsHg9-lKUwQUwR2ubRZXCgKZXovXyHHH82-Fi3I4ryLbBmhE8sG3EKBFqFvNf1J2wjPg9mThrApUeJkO_E",
+   "width": 640,
+   "height": 477,
+   "lat": 37.4551,
+   "lng": -122.18766666666667,
+   "description": "2115 Thurlow Mansion - SW corner - fountain (1874)",
+   "date": "1969-11-27"
+  },
+  {
+   "id": "AF1QipOPXOVwDkgyR89zMJpIEipC8O72aRAty81O50Zy",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMYyhvMn4jV9fumr7M1YtYJG6WMH0RgEV71n20yfDkJPc0d4kl_Ce0ZOvP6hvEQo3zN5DkfAJ81jEn26IDsw-TlSfHuAWUpIPG9ls7PqIO7r0Csu7g",
+   "width": 640,
+   "height": 504,
+   "lat": 37.43856666666667,
+   "lng": -122.19,
+   "description": "0036 Sand Hill Rd (1904)",
+   "date": "1904-01-01"
+  },
+  {
+   "id": "AF1QipPZexQwZLPg0kHxtdAscmwHIXNTLVCm9oP0Iwzs",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNn6zHP5jSj5upj7-oKMbIkJ3OnS62LNratvU-JmN1Wp00LZo2LpyX2iFlHH4WNk1ssMyruHBz0FzO1Ofc4MTMw_azd8vCERAXTC82c24IiyYnrMZ8",
+   "width": 640,
+   "height": 337,
+   "lat": 37.43366666666666,
+   "lng": -122.23866666666667,
+   "description": "2878f Beal Gulch Picnic (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipMrQbpxKQ8a30AJEkpeAeh2feslj68jW0jnTCAq",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMVXAFfRNqcqwJM5S2rIo34fMOBjq2hLY9_lufqUzkMmcdHKA0i3oWeeyhB1daMhHc-NtkHWbypM5Stbdak7TZBbMZj3yatXLJmPrFtgey_4PLo0t4",
+   "width": 640,
+   "height": 506,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2426 Train (1982)",
+   "date": "1982-01-01"
+  },
+  {
+   "id": "AF1QipNCf3ry-mc6xwBQ4eN9QbQ-HpvTXyd_MGD6RPvW",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMRaaSc5URhieNR1EQ16iM74dLhXVpuMouVFmQmIrARGcMuBa_u67UPXaSf35xX67r8vTspEv7HxZo0wnN9LJxEOvyrH9xK17fzo4MG_wGc-oTOe5g",
+   "width": 640,
+   "height": 451,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2424-16 RR Station Restoration (1987)",
+   "date": "1987-01-01"
+  },
+  {
+   "id": "AF1QipPnBxZ8H1jMkNu662y7yh9dtE10zVWp9-tquTjo",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczN6Dxu4bY1-bxXRuOD6Cf7UTBkiGKgeIYPq63knYqaEDVnT7YHTCmvkZK36WYqaaWuAULrAvVNrvLg-4Icfi7hxud8zHiNwmUPd6ftaRp_TugAKQZg",
+   "width": 640,
+   "height": 477,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2428 Train accident (1990)",
+   "date": "1990-01-01"
+  },
+  {
+   "id": "AF1QipOkGEXfvMoENnmPx2K2Dg5G8Y5KEBNkDKKAkwUS",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNay67X4x87VPb6NZxjw9KTmWHmzs0FvebY7wcCGZukk0zSCt0zGlVzut3gsKiDgKS_NuEnBMUlcwLAokT5GSHJnMzlZyf7zJMhNoozLO0J636-6AQ",
+   "width": 640,
+   "height": 483,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2427 Train 145 (1980)",
+   "date": "1980-01-01"
+  },
+  {
+   "id": "AF1QipMMlOOfaVagiR8ZJqpjqUVJPngrh1zeKPtxRgVX",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczMO7TYFFHG-_af3AouFbufQ8WULE7lkuEKjWbb5uFzHOG7ACggkAw43R7ycG9T0_d96wWKB_w01zEILM3j3gCpeZtTiy-P_cSHXRGl2HuKjxP5J9Ls",
+   "width": 640,
+   "height": 498,
+   "lat": 37.4536,
+   "lng": -122.18566666666668,
+   "description": "2432 Commuters at train station (1989)",
+   "date": "1989-01-01"
+  },
+  {
+   "id": "AF1QipOk8mkzk3CrrCt1W6y1sQtH0Cjo7jL9HYuaDSLn",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczP8XG9LIU0ID4DV6csrsFnEXICwTVA7_EJ9auj-gox8MrZGczn3SRAN_WN4Qg_JX2Wh4-iYuw0ku4Qe8PSs0hzT0uKjxv3a3fPtYfPchPZqiezjOyU",
+   "width": 640,
+   "height": 512,
+   "lat": 37.3872,
+   "lng": -122.08699999999999,
+   "description": "2758 Martin & Joe McCarthy's Store in Duff & Doyle Bldg (ca 1935)",
+   "date": "1935-01-01"
+  },
+  {
+   "id": "AF1QipMpejrTXEzw5DFvwJRzZqI9M9N0ecSaK2m_gdU1",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNcmu4mJXz8tDvgSKCGDPU988LIu2aagSArF-D3bzMNN4hAGAJ7iETv48cfuxwTVDVSvlOiPjM0KyXTwhnsnC1iwqcaSSEbIzWZKXxzPTur43cX2vE",
+   "width": 300,
+   "height": 500,
+   "lat": 37.487766666666666,
+   "lng": -122.168,
+   "description": "4939-233 Civic Center: Raul Wallenberg (1984)",
+   "date": "1984-01-01"
+  },
+  {
+   "id": "AF1QipMmp2IA5Dbsunh47oIDIXvkTjqXx7G2-Os6scZY",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNWLQkexTCw-r-GveTyqxrENZO3X8UuAFKMQx9NhVH9QUWA-PD3xvguBIzHUcuuVgjjDvLcqV1CLDZFYiZy1Vkso8mKBAhG_goZuD8mvtb6heVOGIg",
+   "width": 592,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3160 Central School: 4th Grade (1909)",
+   "date": "1909-01-01"
+  },
+  {
+   "id": "AF1QipOtYlY2HPvEuLwjqxF20co_FbLK_ZDWxFuRl1UV",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczPlazlQ6XGTtASdifpR58jr8r8UaWYgo3kZDd3lZnn0K_lDAW8onNw1aRhsOLQ1BVzKZuoYFxkS-VdHvfzN6ZZZLQRfay1eBqdIWJKqwcBXDe7B3LM",
+   "width": 567,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3161 Central School: 5th Grade (1910)",
+   "date": "1910-01-01"
+  },
+  {
+   "id": "AF1QipPo8W0Y_9lfSWcb2G91XL_RP1q2VhJdAQe8MqnB",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNLpggMc7ZPNocKgq1w5rJl3gdVpub4SumHDXhAjVtfJYMKzruV91cilkBKfZj5AmYsnMo8kB-YIpqolCHmrEb8NUZnDyDTw5Yx22No4nMPWOpw_cM",
+   "width": 556,
+   "height": 400,
+   "lat": 37.3886,
+   "lng": -122.08899722222222,
+   "description": "3169 Central School: 3rd Grade (1918)",
+   "date": "1918-01-01"
+  },
+  {
+   "id": "AF1QipNbA2Imzzj2OVbDWVBUgx960e6DhA1gEl38dh5A",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczNDEZHUNCYONBO1xlzzd4EpbREmY0JPvrq1epw4Y8sPsTLYFY2ci5zzI-tkQkw32IJVdRFYXN1nArgnELkbAeDBMcvjlaWI3dKNuZcdJtm95xg48i0",
+   "width": 1280,
+   "height": 1600,
+   "lat": 37.43856666666667,
+   "lng": -122.206,
+   "description": "img211 - Google Map of the area south of SLAC overlayed with the map of Searsville from Drothy F. Regnery, The History of Jasper Ridge (c. 1991), p. 97. The scaling is dominated by matching the Mayfield-Searsville Road on Regnery\u2019s map to Sand Hill Road on the Google map. Dennis Martin\u2019s Lane (sometimes called Church Lane), which is seen to cut through SLAC at Sector 16, conforms to today\u2019s Ansel Lane. The old Jane Goodale Primate Center is on Ansel Lane near what is marked on the map as House 2. There is still a gate at the SLAC perimeter fence where Ansel Lane meets the SLAC Klystron Gallery south road. Nothing remains of Dennis Martin\u2019s Lane north of SLAC.",
+   "date": "1991-01-01"
+  },
+  {
+   "id": "AF1QipPZC-RbR2D0PCWS_8uBwDabdDRw8Yb82f3G74KC",
+   "url": "https://lh3.googleusercontent.com/pw/AP1GczOwvrZ7TfRHMWuIJfpPTaB5-2ESmqFZXdfy1TZuy3y91ZrEPBPnXxdszQf_RlAKs7jSKWl7nwzKriUOsVnlOsDuE5T9dKXfVCI2G_3kO67Z24h-BUc",
+   "width": 2291,
+   "height": 3467,
+   "lat": 37.43856666666667,
+   "lng": -122.206,
+   "description": "",
+   "date": "2019-10-25"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+body { display: flex; flex-direction: column; }
+header {
+  display: flex; align-items: baseline; gap: 1rem; padding: .6rem 1rem;
+  background: #1f2328; color: #fff;
+}
+header h1 { margin: 0; font-size: 1.15rem; font-weight: 600; }
+#stats { color: #aab; font-size: .85rem; }
+#map { flex: 1; }
+
+/* Info window content */
+.iw { width: 300px; max-width: 70vw; }
+.iw img { width: 100%; height: auto; display: block; border-radius: 4px; cursor: zoom-in; background: #eee; }
+.iw .cap { white-space: pre-line; margin: .45rem 0 0; font-size: .85rem; line-height: 1.3; color: #222; }
+.iw .meta { margin-top: .25rem; font-size: .75rem; color: #666; }
+.iw .nav { display: flex; justify-content: space-between; align-items: center; margin-top: .4rem; font-size: .8rem; }
+.iw .nav button { border: 1px solid #ccc; background: #fff; border-radius: 4px; padding: .15rem .6rem; cursor: pointer; }
+.iw .nav button:disabled { opacity: .4; cursor: default; }
+
+/* Lightbox */
+#lightbox {
+  position: fixed; inset: 0; background: rgba(0,0,0,.92); z-index: 1000;
+  display: flex; align-items: center; justify-content: center;
+}
+#lightbox[hidden] { display: none; }
+#lightbox figure { margin: 0; max-width: 90vw; max-height: 92vh; display: flex; flex-direction: column; align-items: center; }
+#lb-img { max-width: 90vw; max-height: 84vh; object-fit: contain; }
+#lb-cap { white-space: pre-line; color: #ddd; margin-top: .6rem; text-align: center; font-size: .95rem; max-width: 80ch; }
+.lb-close, .lb-nav { position: absolute; background: none; border: 0; color: #fff; cursor: pointer; opacity: .8; }
+.lb-close:hover, .lb-nav:hover { opacity: 1; }
+.lb-close { top: .5rem; right: 1rem; font-size: 2.5rem; }
+.lb-nav { top: 50%; transform: translateY(-50%); font-size: 4rem; padding: 0 1rem; }
+.lb-prev { left: 0; } .lb-next { right: 0; }
+.lb-nav[hidden] { display: none; }
+
+/* Count badge for pins that hold several photos */
+.pin { position: relative; }
+.pin .badge {
+  position: absolute; top: -6px; right: -8px; background: #1a73e8; color: #fff;
+  font: 600 11px/1 system-ui; padding: 3px 5px; border-radius: 9px; border: 1.5px solid #fff;
+}
