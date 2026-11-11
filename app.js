@@ -19,10 +19,10 @@
   }
 
   await loadMaps(window.GOOGLE_MAPS_API_KEY);
-  const { Map, InfoWindow } = await google.maps.importLibrary("maps");
+  const { Map: GoogleMap, InfoWindow } = await google.maps.importLibrary("maps");
   const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
-  const map = new Map(document.getElementById("map"), {
+  const map = new GoogleMap(document.getElementById("map"), {
     mapId: "DEMO_MAP_ID",
     center: { lat: 37.45, lng: -122.18 },
     zoom: 13,
