@@ -1,0 +1,39 @@
+name: Update Album Data
+
+on:
+  schedule:
+    # Runs once per day at 08:00 UTC (midnight PST / 01:00 AM PDT)
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-photos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies and fetch album data
+        run: |
+          pip install exifread
+          python3 scripts/fetch_album.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet data/photos.json; then
+            git add data/photos.json
+            git commit -m "Update album photo data"
+            git push
+          else
+            echo "No changes to data/photos.json"
+          fi
