@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-"""Fetch a public Google Photos shared album and extract geotagged photos.
+"""Fetch public Google Photos shared albums and extract geotagged photos.
 
 Queries Google Photos' per-item metadata RPC (fDcn4b) first so any location
-or description set/edited in Google Photos is always preferred, and falls back
+or description/info set in Google Photos is always preferred, and falls back
 to reading EXIF GPS + ImageDescription from the original image file only when
 Google Photos does not provide a location.
 
-Usage:  pip install exifread && python3 scripts/fetch_album.py [ALBUM_URL]
+If a photo's info/description field in Google Photos is a JSON object, it is
+parsed and stored under `info` so the frontend can display its structured fields.
+
+Usage:  pip install exifread && python3 scripts/fetch_album.py [ALBUM_URL ...]
 """
 import io
 import json
@@ -20,7 +23,10 @@ from pathlib import Path
 
 import exifread
 
-ALBUM_URL = "https://photos.app.goo.gl/jRkKPneBYiDHSSpYA"
+ALBUM_URLS = [
+    "https://photos.app.goo.gl/jRkKPneBYiDHSSpYA",
+    "https://photos.app.goo.gl/XmBhLr6D7ck8fCUu6",
+]
 OUT = Path(__file__).resolve().parent.parent / "data" / "photos.json"
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
 
@@ -97,8 +103,11 @@ def dms(vals, ref):
 
 def read_exif(base_url):
     """Download the first 128 KB of the original photo and parse EXIF GPS + description."""
-    _, head = http(base_url + "=d", headers={"Range": "bytes=0-131071"})
-    tags = exifread.process_file(io.BytesIO(head), details=False)
+    try:
+        _, head = http(base_url + "=d", headers={"Range": "bytes=0-131071"})
+        tags = exifread.process_file(io.BytesIO(head), details=False)
+    except Exception:
+        return None, None, ""
     lat = lng = None
     if "GPS GPSLatitude" in tags and "GPS GPSLongitude" in tags:
         lat = dms(tags["GPS GPSLatitude"], tags.get("GPS GPSLatitudeRef", "N"))
@@ -109,13 +118,31 @@ def read_exif(base_url):
     return lat, lng, desc
 
 
-def build_photo(item, gp_info):
+def parse_info_blob(raw_text):
+    """If raw_text is a JSON object blob, return (parsed_dict, summary_caption)."""
+    if not raw_text:
+        return None, ""
+    stripped = raw_text.strip()
+    if stripped.startswith("{") and stripped.endswith("}"):
+        try:
+            obj = json.loads(stripped)
+            if isinstance(obj, dict):
+                title = str(obj.get("title") or "").strip()
+                desc = str(obj.get("description") or "").strip()
+                summary = title or desc
+                return obj, summary
+        except Exception:
+            pass
+    return None, raw_text.replace("\\n", "\n").strip()
+
+
+def build_photo(item, gp_info, album_title):
     pid, info = item[0], item[1]
     base, w, h = info[0], info[1], info[2]
 
     # 1. Always prefer the location from Google Photos if it exists.
     lat, lng = parse_gp_location(gp_info)
-    gp_desc = (gp_info[1] or "").replace("\\n", "\n").strip() if (gp_info and len(gp_info) > 1) else ""
+    gp_raw_desc = (gp_info[1] or "") if (gp_info and len(gp_info) > 1) else ""
 
     # 2. Only fall back to EXIF location if Google Photos did not provide one.
     exif_desc = ""
@@ -123,36 +150,67 @@ def build_photo(item, gp_info):
         exif_lat, exif_lng, exif_desc = read_exif(base)
         lat, lng = exif_lat, exif_lng
 
-    desc = gp_desc or exif_desc
+    raw_desc = gp_raw_desc or exif_desc
+    info_obj, desc = parse_info_blob(raw_desc)
+
     ts = item[2]
     try:
         date = datetime(1970, 1, 1, tzinfo=timezone.utc).fromtimestamp(ts / 1000, timezone.utc).date().isoformat()
     except Exception:
         date = None
-    return {
+
+    rec = {
         "id": pid,
+        "album": album_title,
         "url": base,
         "width": w,
         "height": h,
         "lat": lat,
         "lng": lng,
         "description": desc,
-        "date": date,
+        "date": (info_obj.get("date") if info_obj and info_obj.get("date") else date),
     }
+    if info_obj:
+        rec["info"] = info_obj
+    return rec
 
 
 def main():
-    url = sys.argv[1] if len(sys.argv) > 1 else ALBUM_URL
-    title, key, items = load_album(url)
-    print(f"Album '{title}': {len(items)} items")
-    gp_meta = fetch_google_photos_meta(items, key)
-    with ThreadPoolExecutor(12) as ex:
-        photos = list(ex.map(lambda it: build_photo(it, gp_meta.get(it[0])), items))
-    geo = [p for p in photos if p["lat"] is not None and p["lng"] is not None]
-    print(f"{len(geo)} of {len(photos)} photos have GPS coordinates")
+    urls = sys.argv[1:] if len(sys.argv) > 1 else ALBUM_URLS
+    all_geo = []
+    albums_summary = []
+    total_photos = 0
+
+    for url in urls:
+        title, key, items = load_album(url)
+        print(f"Album '{title}': {len(items)} items")
+        gp_meta = fetch_google_photos_meta(items, key)
+        with ThreadPoolExecutor(12) as ex:
+            photos = list(ex.map(lambda it: build_photo(it, gp_meta.get(it[0]), title), items))
+        geo = [p for p in photos if p["lat"] is not None and p["lng"] is not None]
+        print(f"  -> {len(geo)} of {len(photos)} photos have GPS coordinates")
+        total_photos += len(photos)
+        all_geo.extend(geo)
+        albums_summary.append({
+            "title": title,
+            "url": url,
+            "total": len(photos),
+            "geotagged": len(geo),
+        })
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"album": title, "albumUrl": url, "total": len(photos), "photos": geo}, indent=1))
-    print(f"Wrote {OUT}")
+    OUT.write_text(
+        json.dumps(
+            {
+                "album": " / ".join(a["title"] for a in albums_summary),
+                "albums": albums_summary,
+                "total": total_photos,
+                "photos": all_geo,
+            },
+            indent=1,
+        )
+    )
+    print(f"Wrote {OUT} ({len(all_geo)} of {total_photos} total photos have coordinates)")
 
 
 if __name__ == "__main__":

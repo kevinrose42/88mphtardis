@@ -7,8 +7,106 @@
 
   // Google Photos image URLs accept size suffixes (=w800, =w2048-h2048, ...).
   const sized = (p, w) => `${p.url}=w${w}`;
-  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const caption = (p) => p.description || "";
+  const esc = (s) =>
+    String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const caption = (p) => (p.info && p.info.title) || p.description || "";
+
+  // Format structured JSON info blob if present on a photo.
+  function renderInfoDetails(p) {
+    const info = p.info;
+    if (!info || typeof info !== "object") {
+      return caption(p) ? `<p class="cap">${esc(caption(p))}</p>` : "";
+    }
+
+    const parts = [];
+    if (info.title) {
+      parts.push(`<h3 class="info-title">${esc(info.title)}</h3>`);
+    }
+    if (info.description) {
+      parts.push(`<p class="cap">${esc(info.description)}</p>`);
+    }
+
+    // Ordered human-friendly fields to display from the JSON blob
+    const fieldOrder = [
+      ["date", "Date"],
+      ["coverage", "Coverage"],
+      ["creator", "Creator"],
+      ["collection", "Collection"],
+      ["subjects", "Subjects"],
+      ["tags", "Tags"],
+      ["relation", "Relation"],
+      ["source", "Source"],
+      ["publisher", "Publisher"],
+      ["citation", "Citation"],
+      ["type", "Type"],
+      ["item_type", "Item Type"],
+      ["original_format", "Original Format"],
+      ["physical_dimensions", "Physical Dimensions"],
+      ["dimensions", "Image Dimensions"],
+      ["identifier", "Identifier"],
+      ["item_id", "Item ID"],
+      ["page", "Page"],
+      ["location_confidence", "Location Confidence"],
+      ["how_location_was_determined", "How Location Was Determined"],
+      ["year_confidence", "Year Confidence"],
+      ["how_year_was_determined", "How Year Was Determined"],
+      ["rights", "Rights"],
+    ];
+
+    const shownKeys = new Set([
+      "title",
+      "description",
+      "item_page_url",
+      "original_image_url",
+      "square_thumbnail_url",
+      ...fieldOrder.map(([k]) => k),
+    ]);
+
+    const rows = [];
+    const formatVal = (val) => {
+      if (val === null || val === undefined || val === "") return "";
+      if (Array.isArray(val)) return esc(val.join(", "));
+      if (typeof val === "object") {
+        if (val.display) return esc(val.display);
+        return esc(JSON.stringify(val));
+      }
+      return esc(String(val));
+    };
+
+    for (const [key, label] of fieldOrder) {
+      const formatted = formatVal(info[key]);
+      if (formatted) {
+        rows.push(`<div class="info-row"><dt>${esc(label)}</dt><dd>${formatted}</dd></div>`);
+      }
+    }
+
+    // Include any additional unexpected keys in the JSON blob so nothing is hidden
+    for (const [key, val] of Object.entries(info)) {
+      if (shownKeys.has(key)) continue;
+      const formatted = formatVal(val);
+      if (formatted) {
+        const label = key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+        rows.push(`<div class="info-row"><dt>${esc(label)}</dt><dd>${formatted}</dd></div>`);
+      }
+    }
+
+    if (rows.length) {
+      parts.push(`<dl class="info-dl">${rows.join("")}</dl>`);
+    }
+
+    const links = [];
+    if (info.item_page_url) {
+      links.push(`<a href="${esc(info.item_page_url)}" target="_blank" rel="noopener">Library Record &#8599;</a>`);
+    }
+    if (info.original_image_url) {
+      links.push(`<a href="${esc(info.original_image_url)}" target="_blank" rel="noopener">Original Image &#8599;</a>`);
+    }
+    if (links.length) {
+      parts.push(`<div class="info-links">${links.join(" &middot; ")}</div>`);
+    }
+
+    return parts.join("");
+  }
 
   // Group photos that share the exact same coordinates into one pin.
   const groups = new Map();
@@ -24,8 +122,8 @@
 
   const map = new GoogleMap(document.getElementById("map"), {
     mapId: "DEMO_MAP_ID",
-    center: { lat: 37.45, lng: -122.18 },
-    zoom: 13,
+    center: { lat: 37.2, lng: -122.1 },
+    zoom: 10,
     gestureHandling: "greedy",
   });
   const info = new InfoWindow();
@@ -49,15 +147,15 @@
     markers.push(marker);
   }
   new markerClusterer.MarkerClusterer({ map, markers });
-  // Fit to the main cluster (pins within ~50 km of the median) so a few far-away
-  // photos don't force a whole-world view. They're still on the map.
+  // Fit to the main California/Bay Area + Santa Cruz region (pins within ~1.5 deg of the median)
+  // so a few far-away photos (like Ireland) don't force a whole-world view. They're still on the map.
   const med = (a) => a.slice().sort((x, y) => x - y)[Math.floor(a.length / 2)];
   const mLat = med(data.photos.map((p) => p.lat)), mLng = med(data.photos.map((p) => p.lng));
   const core = new google.maps.LatLngBounds();
   for (const m of markers) {
     const { lat, lng } = m.position;
     const la = typeof lat === "function" ? lat() : lat, ln = typeof lng === "function" ? lng() : lng;
-    if (Math.abs(la - mLat) < 0.5 && Math.abs(ln - mLng) < 0.5) core.extend({ lat: la, lng: ln });
+    if (Math.abs(la - mLat) < 1.5 && Math.abs(ln - mLng) < 1.5) core.extend({ lat: la, lng: ln });
   }
   const fit = core.isEmpty() ? bounds : core;
   if (!fit.isEmpty()) map.fitBounds(fit, 40);
@@ -65,14 +163,16 @@
   function openInfo(marker, photos, i) {
     const p = photos[i];
     const box = document.createElement("div");
-    box.className = "iw";
+    box.className = p.info ? "iw iw-rich" : "iw";
     box.innerHTML = `
-      <img src="${sized(p, 600)}" alt="${esc(caption(p))}" />
-      ${caption(p) ? `<p class="cap">${esc(caption(p))}</p>` : ""}
-      <div class="meta">${p.lat.toFixed(5)}, ${p.lng.toFixed(5)}</div>
-      ${photos.length > 1 ? `<div class="nav"><button data-d="-1" ${i === 0 ? "disabled" : ""}>&lsaquo; Prev</button>
-        <span>${i + 1} / ${photos.length}</span>
-        <button data-d="1" ${i === photos.length - 1 ? "disabled" : ""}>Next &rsaquo;</button></div>` : ""}`;
+      ${photos.length > 1 ? `<div class="nav nav-top"><button data-d="-1" ${i === 0 ? "disabled" : ""}>&lsaquo; Prev</button>
+        <span>${i + 1} / ${photos.length} at this spot</span>
+        <button data-d="1" ${i === photos.length - 1 ? "disabled" : ""}>Next &rsaquo;</button></div>` : ""}
+      <img src="${sized(p, 600)}" alt="${esc(caption(p))}" title="Click to view full size" />
+      <div class="iw-body">
+        ${renderInfoDetails(p)}
+        <div class="meta">${p.album ? `${esc(p.album)} &middot; ` : ""}${p.lat.toFixed(5)}, ${p.lng.toFixed(5)}</div>
+      </div>`;
     box.querySelector("img").addEventListener("click", () => openLightbox(photos, i));
     box.querySelectorAll("button[data-d]").forEach((b) =>
       b.addEventListener("click", () => openInfo(marker, photos, i + Number(b.dataset.d))));
@@ -89,7 +189,11 @@
   function showLb() {
     const p = lbList[lbIdx];
     lbImg.src = `${p.url}=w2048-h2048`;
-    lbCap.textContent = caption(p);
+    if (p.info && (p.info.title || p.info.description)) {
+      lbCap.textContent = [p.info.title, p.info.description].filter(Boolean).join(" — ");
+    } else {
+      lbCap.textContent = caption(p);
+    }
     prev.hidden = lbIdx === 0;
     next.hidden = lbIdx === lbList.length - 1;
   }

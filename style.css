@@ -3,18 +3,35 @@ html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, Seg
 body { display: flex; flex-direction: column; }
 header {
   display: flex; align-items: baseline; gap: 1rem; padding: .6rem 1rem;
-  background: #1f2328; color: #fff;
+  background: #1f2328; color: #fff; flex-wrap: wrap;
 }
 header h1 { margin: 0; font-size: 1.15rem; font-weight: 600; }
 #stats { color: #aab; font-size: .85rem; }
 #map { flex: 1; }
 
 /* Info window content */
-.iw { width: 300px; max-width: 70vw; }
-.iw img { width: 100%; height: auto; display: block; border-radius: 4px; cursor: zoom-in; background: #eee; }
-.iw .cap { white-space: pre-line; margin: .45rem 0 0; font-size: .85rem; line-height: 1.3; color: #222; }
-.iw .meta { margin-top: .25rem; font-size: .75rem; color: #666; }
+.iw { width: 320px; max-width: 75vw; }
+.iw.iw-rich { width: 380px; max-width: 82vw; }
+.iw img {
+  width: 100%; max-height: 260px; object-fit: contain;
+  display: block; border-radius: 4px; cursor: zoom-in; background: #111;
+}
+.iw-body { max-height: 45vh; overflow-y: auto; padding-right: 4px; margin-top: .5rem; }
+.iw .info-title { margin: 0 0 .3rem; font-size: .95rem; font-weight: 600; color: #111; }
+.iw .cap { white-space: pre-line; margin: 0 0 .5rem; font-size: .84rem; line-height: 1.38; color: #222; }
+.iw .info-dl {
+  margin: .4rem 0; padding: .4rem 0; border-top: 1px solid #e5e7eb; border-bottom: 1px solid #e5e7eb;
+  font-size: .78rem; line-height: 1.35;
+}
+.iw .info-row { display: grid; grid-template-columns: 115px 1fr; gap: .35rem; padding: .18rem 0; }
+.iw .info-row dt { font-weight: 600; color: #555; }
+.iw .info-row dd { margin: 0; color: #222; white-space: pre-line; word-break: break-word; }
+.iw .info-links { margin: .4rem 0 .2rem; font-size: .8rem; font-weight: 500; }
+.iw .info-links a { color: #1a73e8; text-decoration: none; }
+.iw .info-links a:hover { text-decoration: underline; }
+.iw .meta { margin-top: .35rem; font-size: .74rem; color: #666; }
 .iw .nav { display: flex; justify-content: space-between; align-items: center; margin-top: .4rem; font-size: .8rem; }
+.iw .nav.nav-top { margin-top: 0; margin-bottom: .45rem; }
 .iw .nav button { border: 1px solid #ccc; background: #fff; border-radius: 4px; padding: .15rem .6rem; cursor: pointer; }
 .iw .nav button:disabled { opacity: .4; cursor: default; }
 
@@ -25,8 +42,8 @@ header h1 { margin: 0; font-size: 1.15rem; font-weight: 600; }
 }
 #lightbox[hidden] { display: none; }
 #lightbox figure { margin: 0; max-width: 90vw; max-height: 92vh; display: flex; flex-direction: column; align-items: center; }
-#lb-img { max-width: 90vw; max-height: 84vh; object-fit: contain; }
-#lb-cap { white-space: pre-line; color: #ddd; margin-top: .6rem; text-align: center; font-size: .95rem; max-width: 80ch; }
+#lb-img { max-width: 90vw; max-height: 82vh; object-fit: contain; }
+#lb-cap { white-space: pre-line; color: #ddd; margin-top: .6rem; text-align: center; font-size: .92rem; max-width: 85ch; max-height: 12vh; overflow-y: auto; }
 .lb-close, .lb-nav { position: absolute; background: none; border: 0; color: #fff; cursor: pointer; opacity: .8; }
 .lb-close:hover, .lb-nav:hover { opacity: 1; }
 .lb-close { top: .5rem; right: 1rem; font-size: 2.5rem; }
