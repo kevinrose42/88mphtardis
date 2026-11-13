@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 37,
+  "count": 38,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1000,6 +1000,33 @@
       "inliers": 35,
       "reprojErrorPx": 1.46,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=42Tk_qMamvWWG_Cc6oWC2w&heading=28.4&pitch=1.0&fov=88.0"
+    },
+    "AF1QipMUHNow788SmGtwI9_T5zSBMwtBP0lW6LaaVBF7": {
+      "photoId": "AF1QipMUHNow788SmGtwI9_T5zSBMwtBP0lW6LaaVBF7",
+      "catalogId": "PC-V2-152",
+      "landmarkTitle": "Catholic Church",
+      "historicalLabel": "c. 1957",
+      "modernLabel": "Boulder Creek Street View",
+      "album": "scpl-postcards",
+      "svImage": "assets/alignments/pc_pc_v2_152_sv.jpg",
+      "insetImage": "assets/alignments/pc_pc_v2_152_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 38.5455,
+        "top": 31.9444,
+        "width": 27.8182,
+        "height": 36.5741
+      },
+      "panoId": "UMeQh57lo_hqAuodbMUvtQ",
+      "panoLat": 37.12246,
+      "panoLng": -122.12213,
+      "heading": 203.2,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 89,
+      "reprojErrorPx": 1.17,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=UMeQh57lo_hqAuodbMUvtQ&heading=203.2&pitch=1.0&fov=88.0"
     }
   }
 }
