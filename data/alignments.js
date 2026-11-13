@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 35,
+  "count": 37,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -947,6 +947,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 129,
       "reprojErrorPx": 2.05,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pvxZLc7Wg9ddBvubwfjXHw&heading=89.9&pitch=3.8&fov=88.0"
+    },
+    "AF1QipPWnK6rppHpoerRIqCsfV3PI5Tb_LTWPLi4HVTa": {
+      "photoId": "AF1QipPWnK6rppHpoerRIqCsfV3PI5Tb_LTWPLi4HVTa",
+      "catalogId": "LH-scpl-541",
+      "landmarkTitle": "Lighthouse Point",
+      "historicalLabel": "Circa 1960s",
+      "modernLabel": "Santa Cruz; 1960s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl_541_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl_541_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 18.9697,
+        "top": 22.6852,
+        "width": 45.5758,
+        "height": 55.0
+      },
+      "panoId": "LgJX78xisDoZN40tgIo2DA",
+      "panoLat": 36.95168,
+      "panoLng": -122.02677,
+      "heading": 172.9,
+      "pitch": 11.2,
+      "fov": 88.0,
+      "inliers": 23,
+      "reprojErrorPx": 1.51,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=LgJX78xisDoZN40tgIo2DA&heading=172.9&pitch=11.2&fov=88.0"
+    },
+    "AF1QipOTKapAXvRoxRJb-At4FjgpwSW2nuAtAx6X1Yi7": {
+      "photoId": "AF1QipOTKapAXvRoxRJb-At4FjgpwSW2nuAtAx6X1Yi7",
+      "catalogId": "LH-cov-031",
+      "landmarkTitle": "Oldest building at Salz Tannery",
+      "historicalLabel": "1955",
+      "modernLabel": "Santa Cruz; 1950s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_cov_031_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_cov_031_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 23.7576,
+        "top": 21.2963,
+        "width": 60.6061,
+        "height": 54.1667
+      },
+      "panoId": "42Tk_qMamvWWG_Cc6oWC2w",
+      "panoLat": 36.98739,
+      "panoLng": -122.0303,
+      "heading": 28.4,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 35,
+      "reprojErrorPx": 1.46,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=42Tk_qMamvWWG_Cc6oWC2w&heading=28.4&pitch=1.0&fov=88.0"
     }
   }
 };
