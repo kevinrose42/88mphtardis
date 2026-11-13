@@ -7,17 +7,19 @@
 
   const rawAlignments = (window.STREETVIEW_ALIGNMENTS && window.STREETVIEW_ALIGNMENTS.byPhotoId) || {};
   const alignmentByPhotoId = new Map(Object.entries(rawAlignments));
+  const photoIdSet = new Set(data.photos.map((p) => p.id));
   const alignmentByCatalogId = new Map(
     Object.values(rawAlignments)
-      .filter((a) => a && a.catalogId)
+      .filter((a) => a && a.catalogId && (!a.photoId || !photoIdSet.has(a.photoId)))
       .map((a) => [String(a.catalogId), a])
   );
 
   for (const p of data.photos) {
     const ident = p.info && p.info.identifier ? String(p.info.identifier) : null;
+    const isSecondarySide = Boolean(p.info && Number(p.info.file_index) > 1);
     p._alignment =
       alignmentByPhotoId.get(p.id) ||
-      (ident ? alignmentByCatalogId.get(ident) : null) ||
+      (!isSecondarySide && ident ? alignmentByCatalogId.get(ident) : null) ||
       null;
   }
 
