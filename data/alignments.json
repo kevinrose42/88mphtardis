@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 29,
+  "count": 31,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -784,6 +784,60 @@
       "inliers": 144,
       "reprojErrorPx": 1.79,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=zw2NkNY7JJwW7wZxGuztZA&heading=42.8&pitch=10.5&fov=108.0"
+    },
+    "AF1QipOsipRv-tfLLrKtNPwabKcIKIIV7IeR7Nyo2rae": {
+      "photoId": "AF1QipOsipRv-tfLLrKtNPwabKcIKIIV7IeR7Nyo2rae",
+      "catalogId": "LH-Im-69615-10",
+      "landmarkTitle": "Adolph's Restaurant",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69615_10_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69615_10_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 29.9394,
+        "top": 21.1111,
+        "width": 50.2424,
+        "height": 52.8704
+      },
+      "panoId": "-mrodvT1q7nsiYcRr0d5bg",
+      "panoLat": 36.98032,
+      "panoLng": -122.01921,
+      "heading": 302.1,
+      "pitch": 5.5,
+      "fov": 88.0,
+      "inliers": 123,
+      "reprojErrorPx": 1.67,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-mrodvT1q7nsiYcRr0d5bg&heading=302.1&pitch=5.5&fov=88.0"
+    },
+    "AF1QipMBYD5ZMzBMDtrLqUkwlJn30sNamOk65P45MUTs": {
+      "photoId": "AF1QipMBYD5ZMzBMDtrLqUkwlJn30sNamOk65P45MUTs",
+      "catalogId": "LH-Im-69616-14",
+      "landmarkTitle": "Marini's Candies - Downtown",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69616_14_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69616_14_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 24.0,
+        "top": 41.2963,
+        "width": 56.4242,
+        "height": 29.7222
+      },
+      "panoId": "jS6gZGx-1IuLMgT0BSFbZQ",
+      "panoLat": 36.97377,
+      "panoLng": -122.02607,
+      "heading": 81.2,
+      "pitch": 6.9,
+      "fov": 88.0,
+      "inliers": 137,
+      "reprojErrorPx": 1.86,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jS6gZGx-1IuLMgT0BSFbZQ&heading=81.2&pitch=6.9&fov=88.0"
     }
   }
 }
