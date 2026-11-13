@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 20,
+  "count": 21,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -541,6 +541,33 @@
       "inliers": 248,
       "reprojErrorPx": 2.13,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=8gLuJW7qYhWi-7YfoUMHNg&heading=357.0&pitch=11.2&fov=88.0"
+    },
+    "AF1QipOyVNrIjw59tJcNNRJ-D1WHA_Ro-MihDCUagTyy": {
+      "photoId": "AF1QipOyVNrIjw59tJcNNRJ-D1WHA_Ro-MihDCUagTyy",
+      "catalogId": "LH-scm-1002",
+      "landmarkTitle": "American Legion Auxiliary Post No. 64 Parade Float",
+      "historicalLabel": "early 1930's",
+      "modernLabel": "Santa Cruz, CA Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scm_1002_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scm_1002_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 5.3333,
+        "top": 31.9444,
+        "width": 77.0909,
+        "height": 47.4074
+      },
+      "panoId": "wMeGjWitBo3g_dA1L_w7fg",
+      "panoLat": 36.97652,
+      "panoLng": -122.02667,
+      "heading": 44.0,
+      "pitch": 5.1,
+      "fov": 88.0,
+      "inliers": 52,
+      "reprojErrorPx": 1.42,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wMeGjWitBo3g_dA1L_w7fg&heading=44.0&pitch=5.1&fov=88.0"
     }
   }
 }
