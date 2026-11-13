@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 19,
+  "count": 20,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -515,6 +515,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 83,
       "reprojErrorPx": 2.28,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=UFQGK9SNURFJbadKWvmhcA&heading=46.7&pitch=8.9&fov=98.0"
+    },
+    "AF1QipMPFRwpk0PQHtt4MHQJqpmXdDIOPLPKbRZ6n-jH": {
+      "photoId": "AF1QipMPFRwpk0PQHtt4MHQJqpmXdDIOPLPKbRZ6n-jH",
+      "catalogId": "LH-scpl-462",
+      "landmarkTitle": "Lincoln Street Row Houses",
+      "historicalLabel": "c. 1968",
+      "modernLabel": "Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl_462_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl_462_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 16.8485,
+        "top": 16.1111,
+        "width": 73.8182,
+        "height": 59.3519
+      },
+      "panoId": "8gLuJW7qYhWi-7YfoUMHNg",
+      "panoLat": 36.97188,
+      "panoLng": -122.03017,
+      "heading": 357.0,
+      "pitch": 11.2,
+      "fov": 88.0,
+      "inliers": 248,
+      "reprojErrorPx": 2.13,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=8gLuJW7qYhWi-7YfoUMHNg&heading=357.0&pitch=11.2&fov=88.0"
     }
   }
 };
