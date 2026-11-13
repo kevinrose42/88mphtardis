@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 17,
+  "count": 19,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -461,6 +461,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 163,
       "reprojErrorPx": 1.88,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=N7fT07viGZKBhgVfwq6Hyw&heading=59.5&pitch=4.9&fov=88.0"
+    },
+    "AF1QipOhEIvlnFC52_ct3E3k3uZYhWgcft6NUzyvyl-P": {
+      "photoId": "AF1QipOhEIvlnFC52_ct3E3k3uZYhWgcft6NUzyvyl-P",
+      "catalogId": "LH-lm-69603-19",
+      "landmarkTitle": "Aldo's Bakery",
+      "historicalLabel": "May 2001",
+      "modernLabel": "2000s; Soquel Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69603_19_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69603_19_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 22.303,
+        "top": 31.2037,
+        "width": 58.0,
+        "height": 37.8704
+      },
+      "panoId": "wHB_73fklcdUXyayxeMCKA",
+      "panoLat": 36.98804,
+      "panoLng": -121.95783,
+      "heading": 170.2,
+      "pitch": 10.5,
+      "fov": 88.0,
+      "inliers": 449,
+      "reprojErrorPx": 2.34,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wHB_73fklcdUXyayxeMCKA&heading=170.2&pitch=10.5&fov=88.0"
+    },
+    "AF1QipPl7ISclawWc7cAlCyaoOypxqvUOgpNThxDQ5C_": {
+      "photoId": "AF1QipPl7ISclawWc7cAlCyaoOypxqvUOgpNThxDQ5C_",
+      "catalogId": "LH-lm-84113-18",
+      "landmarkTitle": "Mansion House Restaurant",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Watsonville Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_18_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_18_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 17.7576,
+        "top": 28.9815,
+        "width": 59.3939,
+        "height": 41.2963
+      },
+      "panoId": "UFQGK9SNURFJbadKWvmhcA",
+      "panoLat": 36.91058,
+      "panoLng": -121.75738,
+      "heading": 46.7,
+      "pitch": 8.9,
+      "fov": 98.0,
+      "inliers": 83,
+      "reprojErrorPx": 2.28,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=UFQGK9SNURFJbadKWvmhcA&heading=46.7&pitch=8.9&fov=98.0"
     }
   }
 };
