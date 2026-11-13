@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 33,
+  "count": 35,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -892,6 +892,60 @@
       "inliers": 29,
       "reprojErrorPx": 1.91,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=alKAPBEaqOr5IysHGnPbdw&heading=204.9&pitch=11.2&fov=88.0"
+    },
+    "AF1QipP9eOCfbOcT9u-lPZ_WJ8hKPkf4vyzA1GkIKvxp": {
+      "photoId": "AF1QipP9eOCfbOcT9u-lPZ_WJ8hKPkf4vyzA1GkIKvxp",
+      "catalogId": "LH-Im-69617-16",
+      "landmarkTitle": "Harts Fabric",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69617_16_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69617_16_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 4.9091,
+        "top": 11.6667,
+        "width": 87.8788,
+        "height": 63.9815
+      },
+      "panoId": "d4co7qfSSWB15a-7MnlXbQ",
+      "panoLat": 36.97921,
+      "panoLng": -122.01009,
+      "heading": 58.4,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 37,
+      "reprojErrorPx": 1.01,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=d4co7qfSSWB15a-7MnlXbQ&heading=58.4&pitch=1.0&fov=88.0"
+    },
+    "AF1QipOu-NR3WQp9dUQWU-qCRIJzDotu-DJVjaQgbXzU": {
+      "photoId": "AF1QipOu-NR3WQp9dUQWU-qCRIJzDotu-DJVjaQgbXzU",
+      "catalogId": "LH-0204",
+      "landmarkTitle": "The Santa Cruz Mission replica",
+      "historicalLabel": "Early 1960s",
+      "modernLabel": "Santa Cruz; 1960s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0204_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0204_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 1.2121,
+        "top": 1.8519,
+        "width": 75.5152,
+        "height": 77.3148
+      },
+      "panoId": "pvxZLc7Wg9ddBvubwfjXHw",
+      "panoLat": 36.97806,
+      "panoLng": -122.02969,
+      "heading": 89.9,
+      "pitch": 3.8,
+      "fov": 88.0,
+      "inliers": 129,
+      "reprojErrorPx": 2.05,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pvxZLc7Wg9ddBvubwfjXHw&heading=89.9&pitch=3.8&fov=88.0"
     }
   }
 }
