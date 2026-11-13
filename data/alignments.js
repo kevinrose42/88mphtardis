@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 21,
+  "count": 23,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -569,6 +569,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 52,
       "reprojErrorPx": 1.42,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wMeGjWitBo3g_dA1L_w7fg&heading=44.0&pitch=5.1&fov=88.0"
+    },
+    "AF1QipMbE0KcwvOu7saJjbPvr8TCrYbXQbZvkZ6bO0Z-": {
+      "photoId": "AF1QipMbE0KcwvOu7saJjbPvr8TCrYbXQbZvkZ6bO0Z-",
+      "catalogId": "LH-lm-69604-10",
+      "landmarkTitle": "Jensen's Apple Barn",
+      "historicalLabel": "May 2001",
+      "modernLabel": "2000s; Corralitos Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69604_10_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69604_10_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 48.3636,
+        "top": 26.1111,
+        "width": 28.4848,
+        "height": 39.7222
+      },
+      "panoId": "6OstePa84eSEpk4lp1bkjQ",
+      "panoLat": 36.98263,
+      "panoLng": -121.80605,
+      "heading": 216.2,
+      "pitch": 1.0,
+      "fov": 118.0,
+      "inliers": 19,
+      "reprojErrorPx": 0.82,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=6OstePa84eSEpk4lp1bkjQ&heading=216.2&pitch=1.0&fov=118.0"
+    },
+    "AF1QipOmmAl8bGhQYMF6qQtwmKxb2b6Q0h-p-m55kq6z": {
+      "photoId": "AF1QipOmmAl8bGhQYMF6qQtwmKxb2b6Q0h-p-m55kq6z",
+      "catalogId": "LH-lm-69607-04",
+      "landmarkTitle": "Salz Leathers",
+      "historicalLabel": "May 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69607_04_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69607_04_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 30.1212,
+        "top": 34.4444,
+        "width": 30.0,
+        "height": 29.6296
+      },
+      "panoId": "42Tk_qMamvWWG_Cc6oWC2w",
+      "panoLat": 36.98739,
+      "panoLng": -122.0303,
+      "heading": 42.3,
+      "pitch": 1.7,
+      "fov": 88.0,
+      "inliers": 74,
+      "reprojErrorPx": 1.96,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=42Tk_qMamvWWG_Cc6oWC2w&heading=42.3&pitch=1.7&fov=88.0"
     }
   }
 };
