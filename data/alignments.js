@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 31,
+  "count": 33,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -839,6 +839,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 137,
       "reprojErrorPx": 1.86,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jS6gZGx-1IuLMgT0BSFbZQ&heading=81.2&pitch=6.9&fov=88.0"
+    },
+    "AF1QipNnN9klkBZNIxdARIA610L-BE9YelZL1KiX5Q4W": {
+      "photoId": "AF1QipNnN9klkBZNIxdARIA610L-BE9YelZL1KiX5Q4W",
+      "catalogId": "LH-scpl-521",
+      "landmarkTitle": "Western Mountaineering and Clark's Cyclery and Blue Lagoon",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz; 1980s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl_521_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl_521_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 18.2424,
+        "top": 1.8519,
+        "width": 66.0606,
+        "height": 67.1296
+      },
+      "panoId": "jv_N1k_uWoHwFssIGiyyRw",
+      "panoLat": 36.97063,
+      "panoLng": -122.02522,
+      "heading": 243.2,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 74,
+      "reprojErrorPx": 1.36,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jv_N1k_uWoHwFssIGiyyRw&heading=243.2&pitch=1.0&fov=88.0"
+    },
+    "AF1QipP80XnYUwtgY3yWJvdX9AqtebtXSuYYbvDhA1Rr": {
+      "photoId": "AF1QipP80XnYUwtgY3yWJvdX9AqtebtXSuYYbvDhA1Rr",
+      "catalogId": "LH-scpl053",
+      "landmarkTitle": "Corner of Church Street and Center Street after the 1989 earthquake",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz; 1980s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl053_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl053_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 5.5758,
+        "top": 35.7407,
+        "width": 55.0909,
+        "height": 50.463
+      },
+      "panoId": "alKAPBEaqOr5IysHGnPbdw",
+      "panoLat": 36.97417,
+      "panoLng": -122.02881,
+      "heading": 204.9,
+      "pitch": 11.2,
+      "fov": 88.0,
+      "inliers": 29,
+      "reprojErrorPx": 1.91,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=alKAPBEaqOr5IysHGnPbdw&heading=204.9&pitch=11.2&fov=88.0"
     }
   }
 };
