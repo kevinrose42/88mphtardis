@@ -3,28 +3,104 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    name="description"
+    content="Interactive Google Maps explorer for Menlo Park and Santa Cruz Public Libraries historical photographs with Past-in-Present Google Street View alignment."
+  />
   <title>Photo Map</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1 id="title">Photo Map</h1>
-    <span id="stats"></span>
+    <div class="hdr-brand">
+      <h1 id="title">Photo Map</h1>
+      <span id="stats"></span>
+    </div>
+    <div class="hdr-actions">
+      <button id="filter-aligned-btn" class="hdr-btn" type="button" aria-pressed="false" title="Filter map pins to Street View aligned landmarks">
+        Then &amp; Now Pins (<span id="aligned-count">0</span>)
+      </button>
+      <button id="open-showcase-btn" class="hdr-btn hdr-btn-accent" type="button" title="Launch interactive Past-in-Present Street View slider">
+        Compare Street View
+      </button>
+    </div>
   </header>
   <div id="map"></div>
 
   <div id="lightbox" hidden>
-    <button class="lb-close" aria-label="Close">&times;</button>
-    <button class="lb-nav lb-prev" aria-label="Previous">&#8249;</button>
+    <div id="lb-topbar" class="lb-topbar" hidden>
+      <div id="lb-mode-tabs" class="lb-mode-tabs" role="tablist" aria-label="Comparison mode">
+        <button id="lb-mode-pip" class="lb-mode-btn active" data-mode="pip" type="button" role="tab" aria-selected="true">
+          Past-in-Present
+        </button>
+        <button id="lb-mode-wipe" class="lb-mode-btn" data-mode="wipe" type="button" role="tab" aria-selected="false">
+          Split Wipe
+        </button>
+        <button id="lb-mode-orig" class="lb-mode-btn" data-mode="original" type="button" role="tab" aria-selected="false">
+          Original Photo
+        </button>
+      </div>
+      <a id="lb-pano-link" class="lb-pano-link" href="#" target="_blank" rel="noopener noreferrer">
+        360° Street View &#8599;
+      </a>
+    </div>
+
+    <button class="lb-close" type="button" aria-label="Close">&times;</button>
+    <button class="lb-nav lb-prev" type="button" aria-label="Previous">&#8249;</button>
+
     <figure>
+      <div id="lb-pip-stage" class="lb-pip-stage" hidden>
+        <div id="lb-pip-canvas" class="lb-pip-canvas">
+          <img id="lb-sv-img" class="lb-sv-img" src="" alt="Modern Google Street View" draggable="false" />
+          <div id="lb-inset-frame" class="lb-inset-frame">
+            <img id="lb-inset-img" class="lb-inset-img" src="" alt="Aligned archival photograph" draggable="false" />
+          </div>
+          <div
+            id="lb-wipe-divider"
+            class="lb-wipe-divider"
+            role="slider"
+            aria-label="Split curtain position"
+            aria-valuemin="0"
+            aria-valuemax="100"
+            aria-valuenow="50"
+            tabindex="0"
+            hidden
+          >
+            <span class="lb-wipe-knob" aria-hidden="true">&#8596;</span>
+          </div>
+          <span id="lb-tag-past" class="lb-corner-tag past">Then</span>
+          <span id="lb-tag-now" class="lb-corner-tag now">Street View</span>
+        </div>
+      </div>
+
       <img id="lb-img" alt="" />
+
+      <div id="lb-pip-dock" class="lb-pip-dock" hidden>
+        <button id="lb-preset-now" class="lb-dock-btn" type="button">Now</button>
+        <input
+          id="lb-pip-slider"
+          class="lb-pip-slider"
+          type="range"
+          min="0"
+          max="100"
+          value="100"
+          aria-label="Historical overlay opacity or split position"
+        />
+        <span id="lb-pip-val" class="lb-pip-val">100%</span>
+        <button id="lb-preset-ghost" class="lb-dock-btn" type="button">55%</button>
+        <button id="lb-preset-then" class="lb-dock-btn active" type="button">Then</button>
+        <button id="lb-frame-btn" class="lb-dock-btn" type="button" aria-pressed="false">Border</button>
+      </div>
+
       <figcaption id="lb-cap"></figcaption>
     </figure>
-    <button class="lb-nav lb-next" aria-label="Next">&#8250;</button>
+
+    <button class="lb-nav lb-next" type="button" aria-label="Next">&#8250;</button>
   </div>
 
   <script src="config.js"></script>
   <script src="https://unpkg.com/@googlemaps/markerclusterer@2.5.3/dist/index.min.js"></script>
+  <script src="data/alignments.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
