@@ -65,7 +65,13 @@
     const rows = [];
     const formatVal = (val) => {
       if (val === null || val === undefined || val === "") return "";
-      if (Array.isArray(val)) return esc(val.join(", "));
+      if (Array.isArray(val)) {
+        return esc(
+          val
+            .map((v) => (v && typeof v === "object" ? v.display || JSON.stringify(v) : String(v)))
+            .join(", ")
+        );
+      }
       if (typeof val === "object") {
         if (val.display) return esc(val.display);
         return esc(JSON.stringify(val));

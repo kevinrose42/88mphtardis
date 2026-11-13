@@ -26,6 +26,7 @@ import exifread
 ALBUM_URLS = [
     "https://photos.app.goo.gl/jRkKPneBYiDHSSpYA",
     "https://photos.app.goo.gl/XmBhLr6D7ck8fCUu6",
+    "https://photos.app.goo.gl/KVwZhnmEhSdExCZWA",
 ]
 OUT = Path(__file__).resolve().parent.parent / "data" / "photos.json"
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
