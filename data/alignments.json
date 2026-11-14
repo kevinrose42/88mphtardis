@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 42,
+  "count": 44,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1135,6 +1135,60 @@
       "inliers": 54,
       "reprojErrorPx": 1.08,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ChuKWfZoPJz5XgiStfHT9Q&heading=209.2&pitch=1.0&fov=88.0"
+    },
+    "AF1QipM5lBHC_XSIW6rLHBmqOiqN4dDOfCL4fNjOrQCw": {
+      "photoId": "AF1QipM5lBHC_XSIW6rLHBmqOiqN4dDOfCL4fNjOrQCw",
+      "catalogId": "LH-lm-84114-20",
+      "landmarkTitle": "Riverside Lighting & Electric",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84114_20_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84114_20_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 29.5758,
+        "top": 38.7037,
+        "width": 28.1818,
+        "height": 33.3333
+      },
+      "panoId": "kCo1-8cdiC9Rs4Ac9UrnTg",
+      "panoLat": 36.97373,
+      "panoLng": -122.02142,
+      "heading": 66.1,
+      "pitch": 3.7,
+      "fov": 88.0,
+      "inliers": 52,
+      "reprojErrorPx": 1.26,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=kCo1-8cdiC9Rs4Ac9UrnTg&heading=66.1&pitch=3.7&fov=88.0"
+    },
+    "AF1QipN5kpDPtxuAhfU99D09dPfr5cqTG6Tn8Lz4wjEv": {
+      "photoId": "AF1QipN5kpDPtxuAhfU99D09dPfr5cqTG6Tn8Lz4wjEv",
+      "catalogId": "LH-lm-84117-03",
+      "landmarkTitle": "Cayuga Vault",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84117_03_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84117_03_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 35.6364,
+        "top": 31.6667,
+        "width": 50.6667,
+        "height": 40.8333
+      },
+      "panoId": "V-CY-rwQdTRrl4LgYUeOKQ",
+      "panoLat": 36.97919,
+      "panoLng": -122.01186,
+      "heading": 131.5,
+      "pitch": 3.7,
+      "fov": 88.0,
+      "inliers": 126,
+      "reprojErrorPx": 1.68,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=V-CY-rwQdTRrl4LgYUeOKQ&heading=131.5&pitch=3.7&fov=88.0"
     }
   }
 }
