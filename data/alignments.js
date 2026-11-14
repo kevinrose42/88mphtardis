@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 46,
+  "count": 49,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1244,6 +1244,87 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 38,
       "reprojErrorPx": 1.29,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=drnbAcQyFAXXvs0Sbdj3pA&heading=172.6&pitch=3.4&fov=88.0"
+    },
+    "AF1QipMK6uBGfFHlps59kBBt9WqiK1N-gFo7TrNBxm7q": {
+      "photoId": "AF1QipMK6uBGfFHlps59kBBt9WqiK1N-gFo7TrNBxm7q",
+      "catalogId": "LH-Im-69616-7",
+      "landmarkTitle": "Borders Bookstore",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69616_7_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69616_7_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 6.8485,
+        "top": 1.8519,
+        "width": 86.3636,
+        "height": 74.1667
+      },
+      "panoId": "G4zIVkRnNC92dENlEvuuyg",
+      "panoLat": 36.97299,
+      "panoLng": -122.02576,
+      "heading": 26.4,
+      "pitch": 11.2,
+      "fov": 88.0,
+      "inliers": 117,
+      "reprojErrorPx": 1.63,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=G4zIVkRnNC92dENlEvuuyg&heading=26.4&pitch=11.2&fov=88.0"
+    },
+    "AF1QipOVRi375qrPzGn13h4bDsbOI0A_Ix4g_kCYrMdE": {
+      "photoId": "AF1QipOVRi375qrPzGn13h4bDsbOI0A_Ix4g_kCYrMdE",
+      "catalogId": "LH-Im-69617-5",
+      "landmarkTitle": "Java Junction, Pacific Harbor Travel, Santa Cruz Physical Therapy",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69617_5_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69617_5_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.5152,
+        "top": 17.7778,
+        "width": 71.2727,
+        "height": 66.4815
+      },
+      "panoId": "T-nIp-FAA6ACWAGxP3bDrg",
+      "panoLat": 36.96757,
+      "panoLng": -122.00787,
+      "heading": 247.7,
+      "pitch": 4.5,
+      "fov": 88.0,
+      "inliers": 126,
+      "reprojErrorPx": 1.52,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=T-nIp-FAA6ACWAGxP3bDrg&heading=247.7&pitch=4.5&fov=88.0"
+    },
+    "AF1QipNEwSt4YkJC3B-2qy3IH73rx7Y7jNw1UqObtSuB": {
+      "photoId": "AF1QipNEwSt4YkJC3B-2qy3IH73rx7Y7jNw1UqObtSuB",
+      "catalogId": "LH-lm-84113-23",
+      "landmarkTitle": "Taylor's Office Supply",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Watsonville Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_23_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_23_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 42.7273,
+        "top": 30.0,
+        "width": 19.0303,
+        "height": 35.7407
+      },
+      "panoId": "Z6AEUZLIj4f8K0vFuNlogg",
+      "panoLat": 36.91078,
+      "panoLng": -121.7576,
+      "heading": 356.4,
+      "pitch": 4.2,
+      "fov": 88.0,
+      "inliers": 110,
+      "reprojErrorPx": 1.71,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Z6AEUZLIj4f8K0vFuNlogg&heading=356.4&pitch=4.2&fov=88.0"
     }
   }
 };
