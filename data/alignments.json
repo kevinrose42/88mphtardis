@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 40,
+  "count": 42,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1081,6 +1081,60 @@
       "inliers": 34,
       "reprojErrorPx": 1.61,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=5VfgloBQ6xjeBe8qJtSOFA&heading=204.0&pitch=1.0&fov=88.0"
+    },
+    "AF1QipOnPhKGjo4iq3iTUJyxvOm-cfhMUd20r6qDBGPP": {
+      "photoId": "AF1QipOnPhKGjo4iq3iTUJyxvOm-cfhMUd20r6qDBGPP",
+      "catalogId": "LH-Im-69457-20",
+      "landmarkTitle": "Bayview Hotel Bed & Breakfast",
+      "historicalLabel": "2001",
+      "modernLabel": "Aptos; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69457_20_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69457_20_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 13.5758,
+        "top": 1.8519,
+        "width": 71.4545,
+        "height": 74.537
+      },
+      "panoId": "_u59y_EcsF-x62wghjKnEg",
+      "panoLat": 36.97723,
+      "panoLng": -121.90049,
+      "heading": 355.9,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 65,
+      "reprojErrorPx": 1.32,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=_u59y_EcsF-x62wghjKnEg&heading=355.9&pitch=1.0&fov=88.0"
+    },
+    "AF1QipPp6oV3gbNvMgn5yBYkztO9xwV-qybejL3hf0Ov": {
+      "photoId": "AF1QipPp6oV3gbNvMgn5yBYkztO9xwV-qybejL3hf0Ov",
+      "catalogId": "LH-Im-84112-07; LH-lm-69605-01",
+      "landmarkTitle": "Alladin Nursery",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_84112_07_lh_lm_69605_01_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_84112_07_lh_lm_69605_01_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 45.2727,
+        "top": 21.8519,
+        "width": 43.1515,
+        "height": 46.2037
+      },
+      "panoId": "ChuKWfZoPJz5XgiStfHT9Q",
+      "panoLat": 36.96377,
+      "panoLng": -121.80974,
+      "heading": 209.2,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 54,
+      "reprojErrorPx": 1.08,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ChuKWfZoPJz5XgiStfHT9Q&heading=209.2&pitch=1.0&fov=88.0"
     }
   }
 }
