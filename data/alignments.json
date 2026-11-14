@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 44,
+  "count": 46,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1189,6 +1189,60 @@
       "inliers": 126,
       "reprojErrorPx": 1.68,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=V-CY-rwQdTRrl4LgYUeOKQ&heading=131.5&pitch=3.7&fov=88.0"
+    },
+    "AF1QipPKXiJIUx9TEuDjD978Rm5fxUtjC1OjpTy5lm-9": {
+      "photoId": "AF1QipPKXiJIUx9TEuDjD978Rm5fxUtjC1OjpTy5lm-9",
+      "catalogId": "LH-lm-69606-18",
+      "landmarkTitle": "Santa Cruz Harley-Davidson",
+      "historicalLabel": "May 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69606_18_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69606_18_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.9697,
+        "top": 17.8704,
+        "width": 38.3636,
+        "height": 68.2407
+      },
+      "panoId": "nvLVLBa_N6J5CR5IglYaHw",
+      "panoLat": 36.97973,
+      "panoLng": -122.0103,
+      "heading": 275.3,
+      "pitch": 10.4,
+      "fov": 88.0,
+      "inliers": 164,
+      "reprojErrorPx": 1.74,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=nvLVLBa_N6J5CR5IglYaHw&heading=275.3&pitch=10.4&fov=88.0"
+    },
+    "AF1QipM3p6iRa-1xVcJAPLgQSeeQg8eunb-AVB1_WOKI": {
+      "photoId": "AF1QipM3p6iRa-1xVcJAPLgQSeeQg8eunb-AVB1_WOKI",
+      "catalogId": "LH-lm-84117-08",
+      "landmarkTitle": "The Crepe Place",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84117_08_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84117_08_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.9091,
+        "top": 21.2963,
+        "width": 43.4545,
+        "height": 47.3148
+      },
+      "panoId": "drnbAcQyFAXXvs0Sbdj3pA",
+      "panoLat": 36.97966,
+      "panoLng": -122.01097,
+      "heading": 172.6,
+      "pitch": 3.4,
+      "fov": 88.0,
+      "inliers": 38,
+      "reprojErrorPx": 1.29,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=drnbAcQyFAXXvs0Sbdj3pA&heading=172.6&pitch=3.4&fov=88.0"
     }
   }
 }
