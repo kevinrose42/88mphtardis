@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 50,
+  "count": 52,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1351,6 +1351,60 @@
       "inliers": 36,
       "reprojErrorPx": 1.18,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=BodzzfGH7uq11eFMXCMn6w&heading=306.3&pitch=1.0&fov=88.0"
+    },
+    "AF1QipNp4W--60Ikx9K4jheQ5skGb06_JukPYqlqTnWn": {
+      "photoId": "AF1QipNp4W--60Ikx9K4jheQ5skGb06_JukPYqlqTnWn",
+      "catalogId": "LH-Im-69459-5",
+      "landmarkTitle": "Yacht Harbor Businesses-Beach Side",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69459_5_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69459_5_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 23.8788,
+        "top": 34.4444,
+        "width": 56.7273,
+        "height": 53.8889
+      },
+      "panoId": "AK_0Ei-fdIqyYBd5rPMWfw",
+      "panoLat": 36.96287,
+      "panoLng": -122.00102,
+      "heading": 64.9,
+      "pitch": 2.7,
+      "fov": 88.0,
+      "inliers": 37,
+      "reprojErrorPx": 1.87,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=AK_0Ei-fdIqyYBd5rPMWfw&heading=64.9&pitch=2.7&fov=88.0"
+    },
+    "AF1QipOCFK3m6OK9PJyvGeIi3RGSl5_1God9iolNARlx": {
+      "photoId": "AF1QipOCFK3m6OK9PJyvGeIi3RGSl5_1God9iolNARlx",
+      "catalogId": "LH-Im-84112-24",
+      "landmarkTitle": "Scopazzi's Restaurant and Lounge",
+      "historicalLabel": "2001",
+      "modernLabel": "Boulder Creek; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_84112_24_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_84112_24_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 24.303,
+        "top": 26.8519,
+        "width": 43.8182,
+        "height": 40.1852
+      },
+      "panoId": "wwb7NzSML1Hcy8cCB4_Pgw",
+      "panoLat": 37.125,
+      "panoLng": -122.12412,
+      "heading": 298.6,
+      "pitch": 3.8,
+      "fov": 88.0,
+      "inliers": 217,
+      "reprojErrorPx": 1.66,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wwb7NzSML1Hcy8cCB4_Pgw&heading=298.6&pitch=3.8&fov=88.0"
     }
   }
 }
