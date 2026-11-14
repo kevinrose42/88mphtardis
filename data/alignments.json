@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 53,
+  "count": 54,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1432,6 +1432,33 @@
       "inliers": 53,
       "reprojErrorPx": 1.69,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=iM47uVJH6hh6DxN0jaK-gA&heading=30.4&pitch=5.7&fov=88.0"
+    },
+    "AF1QipPDQ9AobsXiBwOE7ueFleHGmbTthUvfsdbBwp20": {
+      "photoId": "AF1QipPDQ9AobsXiBwOE7ueFleHGmbTthUvfsdbBwp20",
+      "catalogId": "LH-scpl075",
+      "landmarkTitle": "Marquee on The Catalyst",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz; 1980s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl075_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl075_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 22.6667,
+        "top": 11.6667,
+        "width": 56.4848,
+        "height": 86.4815
+      },
+      "panoId": "T0yP81HLSEKjfbDqO6P1Qg",
+      "panoLat": 36.97135,
+      "panoLng": -122.02542,
+      "heading": 259.2,
+      "pitch": 11.2,
+      "fov": 88.0,
+      "inliers": 94,
+      "reprojErrorPx": 1.65,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=T0yP81HLSEKjfbDqO6P1Qg&heading=259.2&pitch=11.2&fov=88.0"
     }
   }
 }
