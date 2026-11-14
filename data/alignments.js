@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 38,
+  "count": 40,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1028,6 +1028,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 89,
       "reprojErrorPx": 1.17,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=UMeQh57lo_hqAuodbMUvtQ&heading=203.2&pitch=1.0&fov=88.0"
+    },
+    "AF1QipORpxzctIOqSV-p-B2aH7A6RuShtimd_OTxn568": {
+      "photoId": "AF1QipORpxzctIOqSV-p-B2aH7A6RuShtimd_OTxn568",
+      "catalogId": "LH-Im-69455-17",
+      "landmarkTitle": "O'Neill Surf Shop",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz; 2000s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69455_17_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69455_17_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 36.2424,
+        "top": 34.6296,
+        "width": 27.8788,
+        "height": 29.2593
+      },
+      "panoId": "QBL7BU6Iu5rT6zMboUuO0g",
+      "panoLat": 36.96863,
+      "panoLng": -121.96498,
+      "heading": 210.2,
+      "pitch": 4.2,
+      "fov": 88.0,
+      "inliers": 134,
+      "reprojErrorPx": 1.48,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=QBL7BU6Iu5rT6zMboUuO0g&heading=210.2&pitch=4.2&fov=88.0"
+    },
+    "AF1QipPfrcXq1DCl2lPH2Y3F0vmPBdkg20AQnn8nuqaw": {
+      "photoId": "AF1QipPfrcXq1DCl2lPH2Y3F0vmPBdkg20AQnn8nuqaw",
+      "catalogId": "LH-lm-69606-12",
+      "landmarkTitle": "MacKenzies Kandy Kitchen",
+      "historicalLabel": "May 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69606_12_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69606_12_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 5.2727,
+        "top": 16.6667,
+        "width": 67.0909,
+        "height": 68.4259
+      },
+      "panoId": "5VfgloBQ6xjeBe8qJtSOFA",
+      "panoLat": 36.9815,
+      "panoLng": -122.0051,
+      "heading": 204.0,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 34,
+      "reprojErrorPx": 1.61,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=5VfgloBQ6xjeBe8qJtSOFA&heading=204.0&pitch=1.0&fov=88.0"
     }
   }
 };
