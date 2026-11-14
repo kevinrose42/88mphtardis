@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 52,
+  "count": 53,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1405,6 +1405,33 @@
       "inliers": 217,
       "reprojErrorPx": 1.66,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wwb7NzSML1Hcy8cCB4_Pgw&heading=298.6&pitch=3.8&fov=88.0"
+    },
+    "AF1QipM_n9Kt5RLOvL3oRUms_QHbf0HPCW3A7dXjsPuL": {
+      "photoId": "AF1QipM_n9Kt5RLOvL3oRUms_QHbf0HPCW3A7dXjsPuL",
+      "catalogId": "LH-scpl-529",
+      "landmarkTitle": "St. Vincent de Paul Catholic Church",
+      "historicalLabel": "1987",
+      "modernLabel": "Davenport; 1980s Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl_529_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl_529_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 43.697,
+        "top": 34.4444,
+        "width": 24.3636,
+        "height": 22.5926
+      },
+      "panoId": "iM47uVJH6hh6DxN0jaK-gA",
+      "panoLat": 37.01199,
+      "panoLng": -122.19289,
+      "heading": 30.4,
+      "pitch": 5.7,
+      "fov": 88.0,
+      "inliers": 53,
+      "reprojErrorPx": 1.69,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=iM47uVJH6hh6DxN0jaK-gA&heading=30.4&pitch=5.7&fov=88.0"
     }
   }
 }
