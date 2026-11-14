@@ -1225,8 +1225,8 @@ window.STREETVIEW_ALIGNMENTS = {
       "historicalLabel": "Jun 2001",
       "modernLabel": "1134 Soquel Ave Street View",
       "album": "santa-cruz",
-      "svImage": "assets/alignments/sc_lh_lm_84117_08_sv.jpg",
-      "insetImage": "assets/alignments/sc_lh_lm_84117_08_inset.jpg",
+      "svImage": "assets/alignments/sc_lh_lm_84117_08_v2_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84117_08_v2_inset.jpg",
       "canvasWidth": 1650,
       "canvasHeight": 1080,
       "rectPct": {
