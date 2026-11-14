@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 49,
+  "count": 50,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1325,6 +1325,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 110,
       "reprojErrorPx": 1.71,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Z6AEUZLIj4f8K0vFuNlogg&heading=356.4&pitch=4.2&fov=88.0"
+    },
+    "AF1QipPkVjumhviP4IogBeY2P7z1lgvA-Lbddoy0x3Ye": {
+      "photoId": "AF1QipPkVjumhviP4IogBeY2P7z1lgvA-Lbddoy0x3Ye",
+      "catalogId": "LH-lm-84114-05",
+      "landmarkTitle": "Santa Cruz Hotel-Planet Fresh",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "2000s; Santa Cruz Street View",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84114_05_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84114_05_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.0606,
+        "top": 7.037,
+        "width": 48.8485,
+        "height": 62.4074
+      },
+      "panoId": "BodzzfGH7uq11eFMXCMn6w",
+      "panoLat": 36.97508,
+      "panoLng": -122.0278,
+      "heading": 306.3,
+      "pitch": 1.0,
+      "fov": 88.0,
+      "inliers": 36,
+      "reprojErrorPx": 1.18,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=BodzzfGH7uq11eFMXCMn6w&heading=306.3&pitch=1.0&fov=88.0"
     }
   }
 };
