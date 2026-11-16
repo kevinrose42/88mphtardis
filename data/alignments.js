@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 63,
+  "count": 64,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1703,6 +1703,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 80,
       "reprojErrorPx": 2.35,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-MJaKpmx8Zmz_-TRLbjOgA&heading=106.1&pitch=2.6&fov=74.0"
+    },
+    "AF1QipNeXvyowhuAV5RmDEJZZk0DWoL7fr5t5oU6j_XA": {
+      "photoId": "AF1QipNeXvyowhuAV5RmDEJZZk0DWoL7fr5t5oU6j_XA",
+      "catalogId": "LH-lm-84113-14",
+      "landmarkTitle": "Gottschalks",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_14_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_14_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 29.8182,
+        "top": 28.3333,
+        "width": 53.2121,
+        "height": 47.6852
+      },
+      "panoId": "_o7yqm8YHFu-Qzcp74bnug",
+      "panoLat": 36.91069,
+      "panoLng": -121.75733,
+      "heading": 193.0,
+      "pitch": 8.7,
+      "fov": 88.0,
+      "inliers": 190,
+      "reprojErrorPx": 2.92,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=_o7yqm8YHFu-Qzcp74bnug&heading=193.0&pitch=8.7&fov=88.0"
     }
   }
 };
