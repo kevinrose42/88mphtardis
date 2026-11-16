@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 55,
+  "count": 57,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1486,6 +1486,60 @@
       "inliers": 411,
       "reprojErrorPx": 1.96,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Zv8n3ZaU8xG1NCleE4Vl0Q&heading=4.5&pitch=6.7&fov=96.0"
+    },
+    "AF1QipPkQUSmCbNn8w98od8MAXS_GtCy2j6bAy7Mqp55": {
+      "photoId": "AF1QipPkQUSmCbNn8w98od8MAXS_GtCy2j6bAy7Mqp55",
+      "catalogId": "LH-Im-69616-2",
+      "landmarkTitle": "Nickelodeon Theatre",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69616_2_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69616_2_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 14.1818,
+        "top": 35.9259,
+        "width": 57.8182,
+        "height": 36.6667
+      },
+      "panoId": "XLJX9fIbf-WjVYu-G18_Hw",
+      "panoLat": 36.97238,
+      "panoLng": -122.02756,
+      "heading": 2.0,
+      "pitch": 4.9,
+      "fov": 114.0,
+      "inliers": 67,
+      "reprojErrorPx": 2.54,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=XLJX9fIbf-WjVYu-G18_Hw&heading=2.0&pitch=4.9&fov=114.0"
+    },
+    "AF1QipNi0kqDKXxqFs6MxbC_bFXuL0c-7srT7r1kfwcK": {
+      "photoId": "AF1QipNi0kqDKXxqFs6MxbC_bFXuL0c-7srT7r1kfwcK",
+      "catalogId": "LH-Im-69616-16",
+      "landmarkTitle": "Neary Business Center, Artisans Gallery, Shen's Gallery",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69616_16_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69616_16_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.3636,
+        "top": 30.9259,
+        "width": 49.9394,
+        "height": 40.0926
+      },
+      "panoId": "GGkm9XWsxBALwJ392ga3Hg",
+      "panoLat": 36.97425,
+      "panoLng": -122.02622,
+      "heading": 32.1,
+      "pitch": 1.1,
+      "fov": 80.0,
+      "inliers": 18,
+      "reprojErrorPx": 2.03,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=GGkm9XWsxBALwJ392ga3Hg&heading=32.1&pitch=1.1&fov=80.0"
     }
   }
 }
