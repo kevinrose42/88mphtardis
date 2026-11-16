@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 58,
+  "count": 60,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1567,6 +1567,60 @@
       "inliers": 23,
       "reprojErrorPx": 3.24,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Q083Od_XcZw3CZ4vKYAvdg&heading=38.1&pitch=6.8&fov=80.0"
+    },
+    "AF1QipOBrZkExbMUyKh1OnvXCqaw3Jq6F5DDp7o5Cgqm": {
+      "photoId": "AF1QipOBrZkExbMUyKh1OnvXCqaw3Jq6F5DDp7o5Cgqm",
+      "catalogId": "LH-Im-69458-18",
+      "landmarkTitle": "Gottschalks",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69458_18_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69458_18_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 28.0606,
+        "top": 32.5,
+        "width": 49.8182,
+        "height": 44.4444
+      },
+      "panoId": "O_TKGbHL5bDKjwgDwtRCrg",
+      "panoLat": 36.91065,
+      "panoLng": -121.75729,
+      "heading": 186.9,
+      "pitch": 5.9,
+      "fov": 96.0,
+      "inliers": 204,
+      "reprojErrorPx": 2.56,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=O_TKGbHL5bDKjwgDwtRCrg&heading=186.9&pitch=5.9&fov=96.0"
+    },
+    "AF1QipNPQXOPux3o-FsjzfZJ7RGrq8Ba9LXFrkWYdEQc": {
+      "photoId": "AF1QipNPQXOPux3o-FsjzfZJ7RGrq8Ba9LXFrkWYdEQc",
+      "catalogId": "LH-Im-69458-8",
+      "landmarkTitle": "John's Shoe Store; 99\u00a2 Store",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville Street View (2020)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69458_8_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69458_8_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 16.4242,
+        "top": 25.3704,
+        "width": 48.303,
+        "height": 49.7222
+      },
+      "panoId": "RHVndAx-2WbHV4v5XO9TfQ",
+      "panoLat": 36.91105,
+      "panoLng": -121.75789,
+      "heading": 22.8,
+      "pitch": 6.7,
+      "fov": 96.0,
+      "inliers": 417,
+      "reprojErrorPx": 2.49,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=RHVndAx-2WbHV4v5XO9TfQ&heading=22.8&pitch=6.7&fov=96.0"
     }
   }
 }
