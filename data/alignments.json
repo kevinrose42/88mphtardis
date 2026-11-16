@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 68,
+  "count": 69,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1837,6 +1837,33 @@
       "inliers": 65,
       "reprojErrorPx": 1.36,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=heE82DkmWBG3k3urP6NmUg&heading=71.5&pitch=13.5&fov=114.0"
+    },
+    "AF1QipPRjzwcnI49rKvPfbaQUmvaY_RHfIcAgr9dzPiH": {
+      "photoId": "AF1QipPRjzwcnI49rKvPfbaQUmvaY_RHfIcAgr9dzPiH",
+      "catalogId": "LH-lm-69606-23",
+      "landmarkTitle": "Rio Theatre",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69606_23_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69606_23_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 26.4242,
+        "top": 23.0556,
+        "width": 48.9091,
+        "height": 49.8148
+      },
+      "panoId": "g2c-eVjgyqbLuO-0ILbo0w",
+      "panoLat": 36.98001,
+      "panoLng": -122.01005,
+      "heading": 278.2,
+      "pitch": 1.9,
+      "fov": 80.0,
+      "inliers": 151,
+      "reprojErrorPx": 2.63,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=g2c-eVjgyqbLuO-0ILbo0w&heading=278.2&pitch=1.9&fov=80.0"
     }
   }
 }
