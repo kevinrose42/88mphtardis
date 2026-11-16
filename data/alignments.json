@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 54,
+  "count": 55,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1459,6 +1459,33 @@
       "inliers": 263,
       "reprojErrorPx": 1.36,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=GZXg6QlFQOi69PUy87RdNg&heading=236.2&pitch=9.9&fov=114.0"
+    },
+    "AF1QipOB4iNvKbDPPrNdyH9ehsBJdNoZ4L8F5BVbQF4j": {
+      "photoId": "AF1QipOB4iNvKbDPPrNdyH9ehsBJdNoZ4L8F5BVbQF4j",
+      "catalogId": "LH-lm-84113-19",
+      "landmarkTitle": "Lettunich Building (Main Street and East Lake)",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Watsonville Street View (2021)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_19_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_19_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.4848,
+        "top": 26.2037,
+        "width": 46.9697,
+        "height": 37.3148
+      },
+      "panoId": "Zv8n3ZaU8xG1NCleE4Vl0Q",
+      "panoLat": 36.91015,
+      "panoLng": -121.757,
+      "heading": 4.5,
+      "pitch": 6.7,
+      "fov": 96.0,
+      "inliers": 411,
+      "reprojErrorPx": 1.96,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Zv8n3ZaU8xG1NCleE4Vl0Q&heading=4.5&pitch=6.7&fov=96.0"
     }
   }
 }
