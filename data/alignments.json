@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 60,
+  "count": 61,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1621,6 +1621,33 @@
       "inliers": 417,
       "reprojErrorPx": 2.49,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=RHVndAx-2WbHV4v5XO9TfQ&heading=22.8&pitch=6.7&fov=96.0"
+    },
+    "AF1QipOMInGYBwaLsR-yzha4RTVpb_oYK9w4cMeYQhQm": {
+      "photoId": "AF1QipOMInGYBwaLsR-yzha4RTVpb_oYK9w4cMeYQhQm",
+      "catalogId": "LH-lm-09617-6",
+      "landmarkTitle": "Seabright Building",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_09617_6_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_09617_6_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.0303,
+        "top": 25.5556,
+        "width": 48.6061,
+        "height": 51.6667
+      },
+      "panoId": "Nh-iwogpXzmQjxvDvHHTAg",
+      "panoLat": 36.96771,
+      "panoLng": -122.00789,
+      "heading": 223.5,
+      "pitch": 4.2,
+      "fov": 74.0,
+      "inliers": 105,
+      "reprojErrorPx": 3.02,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Nh-iwogpXzmQjxvDvHHTAg&heading=223.5&pitch=4.2&fov=74.0"
     }
   }
 }
