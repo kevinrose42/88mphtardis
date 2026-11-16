@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 64,
+  "count": 66,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1730,6 +1730,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 190,
       "reprojErrorPx": 2.92,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=_o7yqm8YHFu-Qzcp74bnug&heading=193.0&pitch=8.7&fov=88.0"
+    },
+    "AF1QipOkOLIyjZEmlWGRs2jNEsulgBPvscr_1FWnYzI5": {
+      "photoId": "AF1QipOkOLIyjZEmlWGRs2jNEsulgBPvscr_1FWnYzI5",
+      "catalogId": "LH-lm-84113-09",
+      "landmarkTitle": "Resetar Residential Hotel",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_09_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_09_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 41.7576,
+        "top": 28.7037,
+        "width": 41.0909,
+        "height": 42.6852
+      },
+      "panoId": "dZcObxcznfr2GqZfGAG3lg",
+      "panoLat": 36.91147,
+      "panoLng": -121.75866,
+      "heading": 166.6,
+      "pitch": 1.0,
+      "fov": 74.0,
+      "inliers": 32,
+      "reprojErrorPx": 1.54,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=dZcObxcznfr2GqZfGAG3lg&heading=166.6&pitch=1.0&fov=74.0"
+    },
+    "AF1QipMcUNUE57mzewR6icZ4EePVPulnZLJ0xsvGY2dI": {
+      "photoId": "AF1QipMcUNUE57mzewR6icZ4EePVPulnZLJ0xsvGY2dI",
+      "catalogId": "LH-lm-69372-17",
+      "landmarkTitle": "Craft Gallery",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Capitola Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69372_17_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69372_17_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 31.7576,
+        "top": 20.5556,
+        "width": 56.4848,
+        "height": 50.1852
+      },
+      "panoId": "QABxGtd4o19O3YRoW5Rrhg",
+      "panoLat": 36.97297,
+      "panoLng": -121.9512,
+      "heading": 196.1,
+      "pitch": 1.8,
+      "fov": 96.0,
+      "inliers": 49,
+      "reprojErrorPx": 2.73,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=QABxGtd4o19O3YRoW5Rrhg&heading=196.1&pitch=1.8&fov=96.0"
     }
   }
 };
