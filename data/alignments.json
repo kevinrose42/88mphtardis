@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 57,
+  "count": 58,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1540,6 +1540,33 @@
       "inliers": 18,
       "reprojErrorPx": 2.03,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=GGkm9XWsxBALwJ392ga3Hg&heading=32.1&pitch=1.1&fov=80.0"
+    },
+    "AF1QipPRpC6flYw1BgE-aG2MqeGKZSybqaxMc1aRMZgE": {
+      "photoId": "AF1QipPRpC6flYw1BgE-aG2MqeGKZSybqaxMc1aRMZgE",
+      "catalogId": "LH-scpl058",
+      "landmarkTitle": "Earthquake damage to the Hinds House",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl058_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl058_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 30.7273,
+        "top": 26.9444,
+        "width": 46.7273,
+        "height": 52.3148
+      },
+      "panoId": "Q083Od_XcZw3CZ4vKYAvdg",
+      "panoLat": 36.97307,
+      "panoLng": -122.03076,
+      "heading": 38.1,
+      "pitch": 6.8,
+      "fov": 80.0,
+      "inliers": 23,
+      "reprojErrorPx": 3.24,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Q083Od_XcZw3CZ4vKYAvdg&heading=38.1&pitch=6.8&fov=80.0"
     }
   }
 }
