@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 61,
+  "count": 63,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1649,6 +1649,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 105,
       "reprojErrorPx": 3.02,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Nh-iwogpXzmQjxvDvHHTAg&heading=223.5&pitch=4.2&fov=74.0"
+    },
+    "AF1QipPcA9mlF3BSR6MexJW3diJTeeq42FK0yDwiNsz5": {
+      "photoId": "AF1QipPcA9mlF3BSR6MexJW3diJTeeq42FK0yDwiNsz5",
+      "catalogId": "LH-Im-69615-2",
+      "landmarkTitle": "Mission Printers",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69615_2_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69615_2_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 32.6667,
+        "top": 43.6111,
+        "width": 36.4242,
+        "height": 36.6667
+      },
+      "panoId": "OuFNiox-uPQzX74l8kqG0g",
+      "panoLat": 36.97556,
+      "panoLng": -122.01768,
+      "heading": 98.9,
+      "pitch": 1.0,
+      "fov": 74.0,
+      "inliers": 95,
+      "reprojErrorPx": 2.45,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=OuFNiox-uPQzX74l8kqG0g&heading=98.9&pitch=1.0&fov=74.0"
+    },
+    "AF1QipND_wwmdBq4qJO1GREy4a5W-DAY-TnjCcvdbvw_": {
+      "photoId": "AF1QipND_wwmdBq4qJO1GREy4a5W-DAY-TnjCcvdbvw_",
+      "catalogId": "LH-Im-69615-9",
+      "landmarkTitle": "Bariteau's Cleaners",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69615_9_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69615_9_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 36.1212,
+        "top": 24.7222,
+        "width": 37.4545,
+        "height": 39.4444
+      },
+      "panoId": "-MJaKpmx8Zmz_-TRLbjOgA",
+      "panoLat": 36.98046,
+      "panoLng": -122.01864,
+      "heading": 106.1,
+      "pitch": 2.6,
+      "fov": 74.0,
+      "inliers": 80,
+      "reprojErrorPx": 2.35,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-MJaKpmx8Zmz_-TRLbjOgA&heading=106.1&pitch=2.6&fov=74.0"
     }
   }
 };
