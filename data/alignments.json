@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 66,
+  "count": 67,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1783,6 +1783,33 @@
       "inliers": 49,
       "reprojErrorPx": 2.73,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=QABxGtd4o19O3YRoW5Rrhg&heading=196.1&pitch=1.8&fov=96.0"
+    },
+    "AF1QipOSLQ1u_ivfy8HN57Z68BjhCUxUpNVBe9BK9Gzn": {
+      "photoId": "AF1QipOSLQ1u_ivfy8HN57Z68BjhCUxUpNVBe9BK9Gzn",
+      "catalogId": "LH-0538",
+      "landmarkTitle": "House at 104 King Street",
+      "historicalLabel": "1889",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0538_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0538_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 40.4848,
+        "top": 29.9074,
+        "width": 27.8788,
+        "height": 35.0
+      },
+      "panoId": "-nj7RmUzmcXSRDR4lwdvIQ",
+      "panoLat": 36.97581,
+      "panoLng": -122.03297,
+      "heading": 301.4,
+      "pitch": 4.8,
+      "fov": 74.0,
+      "inliers": 21,
+      "reprojErrorPx": 3.18,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-nj7RmUzmcXSRDR4lwdvIQ&heading=301.4&pitch=4.8&fov=74.0"
     }
   }
 }
