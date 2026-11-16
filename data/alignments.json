@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 67,
+  "count": 68,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1810,6 +1810,33 @@
       "inliers": 21,
       "reprojErrorPx": 3.18,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-nj7RmUzmcXSRDR4lwdvIQ&heading=301.4&pitch=4.8&fov=74.0"
+    },
+    "AF1QipN19ry05mp1OBaaNW0KjOKj1ieR-P1M-myQAlGv": {
+      "photoId": "AF1QipN19ry05mp1OBaaNW0KjOKj1ieR-P1M-myQAlGv",
+      "catalogId": "LH-lm-69608-05",
+      "landmarkTitle": "The Bagelry",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69608_05_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69608_05_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 38.7273,
+        "top": 38.7037,
+        "width": 54.5455,
+        "height": 53.0556
+      },
+      "panoId": "heE82DkmWBG3k3urP6NmUg",
+      "panoLat": 36.96979,
+      "panoLng": -122.02643,
+      "heading": 71.5,
+      "pitch": 13.5,
+      "fov": 114.0,
+      "inliers": 65,
+      "reprojErrorPx": 1.36,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=heE82DkmWBG3k3urP6NmUg&heading=71.5&pitch=13.5&fov=114.0"
     }
   }
 }
