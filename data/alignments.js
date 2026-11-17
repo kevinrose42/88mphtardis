@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 107,
+  "count": 110,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2891,6 +2891,87 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 135,
       "reprojErrorPx": 2.13,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=SvK4S4GQm2jsLRHnLbCKfA&heading=25.1&pitch=3.6&fov=66.0"
+    },
+    "AF1QipNVDXQBlp_l8sVwTY_tKMIJwo13VFNvCC6IyupC": {
+      "photoId": "AF1QipNVDXQBlp_l8sVwTY_tKMIJwo13VFNvCC6IyupC",
+      "catalogId": "LH-lm-69605-03",
+      "landmarkTitle": "Five Mile House",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Corralitos Street View (2019)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69605_03_af1qip_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69605_03_af1qip_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 13.697,
+        "top": 22.8704,
+        "width": 51.8182,
+        "height": 50.0926
+      },
+      "panoId": "ufqdMBgx-ms3qAGc-5pkqw",
+      "panoLat": 36.96358,
+      "panoLng": -121.80928,
+      "heading": 334.4,
+      "pitch": -1.0,
+      "fov": 106.0,
+      "inliers": 44,
+      "reprojErrorPx": 1.89,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ufqdMBgx-ms3qAGc-5pkqw&heading=334.4&pitch=-1.0&fov=106.0"
+    },
+    "AF1QipMU_UjFcQkncmnt7Gy9p-cCRzizB6ryrdYGw6pk": {
+      "photoId": "AF1QipMU_UjFcQkncmnt7Gy9p-cCRzizB6ryrdYGw6pk",
+      "catalogId": "LH-Im-69454-9; LH-lm-69454-7",
+      "landmarkTitle": "Oliver Realty",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69454_9_lh_lm_69454_7_af1qip_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69454_9_lh_lm_69454_7_af1qip_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 29.7576,
+        "top": 27.4074,
+        "width": 33.5152,
+        "height": 47.963
+      },
+      "panoId": "lpEwBmFfYr5ts3ESGjlLBQ",
+      "panoLat": 36.92115,
+      "panoLng": -121.74729,
+      "heading": 311.4,
+      "pitch": 4.9,
+      "fov": 74.0,
+      "inliers": 49,
+      "reprojErrorPx": 2.04,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=lpEwBmFfYr5ts3ESGjlLBQ&heading=311.4&pitch=4.9&fov=74.0"
+    },
+    "AF1QipOjp0b-frBJ5GimgUg7rIoDNgKTiWdf7zCZIfJ9": {
+      "photoId": "AF1QipOjp0b-frBJ5GimgUg7rIoDNgKTiWdf7zCZIfJ9",
+      "catalogId": "LH-Im-84112-07; LH-lm-69605-01",
+      "landmarkTitle": "Alladin Nursery",
+      "historicalLabel": "2001",
+      "modernLabel": "Corralitos Street View (2011)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_84112_07_lh_lm_69605_01_af1qip_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_84112_07_lh_lm_69605_01_af1qip_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.4848,
+        "top": 33.7037,
+        "width": 49.3939,
+        "height": 40.0926
+      },
+      "panoId": "abUiEBDam8NhYGFDCUGq7Q",
+      "panoLat": 36.96365,
+      "panoLng": -121.8096,
+      "heading": 264.6,
+      "pitch": -0.6,
+      "fov": 114.0,
+      "inliers": 54,
+      "reprojErrorPx": 1.32,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=abUiEBDam8NhYGFDCUGq7Q&heading=264.6&pitch=-0.6&fov=114.0"
     }
   }
 };
