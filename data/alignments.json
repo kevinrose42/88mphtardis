@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 112,
+  "count": 113,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -3025,6 +3025,33 @@
       "inliers": 106,
       "reprojErrorPx": 1.3,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=TxP7JoOU1g7cVCl-nf827Q&heading=37.3&pitch=0.4&fov=96.0"
+    },
+    "AF1QipMHLyHL0wRT5AntYWc5VDwnueiw6EDTDubdlOAF": {
+      "photoId": "AF1QipMHLyHL0wRT5AntYWc5VDwnueiw6EDTDubdlOAF",
+      "catalogId": "LH-lm-84115-16",
+      "landmarkTitle": "Mountain Playhouse",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Ben Lomond Street View (2014)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84115_16_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84115_16_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 43.8182,
+        "top": 20.0926,
+        "width": 18.1212,
+        "height": 48.8889
+      },
+      "panoId": "aeSwbX-Nr7D4FnqjbqZ4Tg",
+      "panoLat": 37.0889,
+      "panoLng": -122.08952,
+      "heading": 294.1,
+      "pitch": 0.9,
+      "fov": 74.0,
+      "inliers": 162,
+      "reprojErrorPx": 1.8,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=aeSwbX-Nr7D4FnqjbqZ4Tg&heading=294.1&pitch=0.9&fov=74.0"
     }
   }
 }
