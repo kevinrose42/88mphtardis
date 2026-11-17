@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 113,
+  "count": 115,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -3052,6 +3052,60 @@
       "inliers": 162,
       "reprojErrorPx": 1.8,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=aeSwbX-Nr7D4FnqjbqZ4Tg&heading=294.1&pitch=0.9&fov=74.0"
+    },
+    "AF1QipPZ9xED5nSYgSfX5aObA2XaC6DXpIPj2NHppPbF": {
+      "photoId": "AF1QipPZ9xED5nSYgSfX5aObA2XaC6DXpIPj2NHppPbF",
+      "catalogId": "LH-lm-84114-17",
+      "landmarkTitle": "Ideal Bar & Grill",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Santa Cruz Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84114_17_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84114_17_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 41.0909,
+        "top": 24.537,
+        "width": 46.0606,
+        "height": 48.2407
+      },
+      "panoId": "w6WqRjWO15WI4_lh6gSuww",
+      "panoLat": 36.96253,
+      "panoLng": -122.02341,
+      "heading": 26.6,
+      "pitch": -0.0,
+      "fov": 106.0,
+      "inliers": 80,
+      "reprojErrorPx": 1.42,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=w6WqRjWO15WI4_lh6gSuww&heading=26.6&pitch=-0.0&fov=106.0"
+    },
+    "AF1QipOJpOgCSeNbuR7ZOmX5ozD1kQYrmxQ8f2ol4jT8": {
+      "photoId": "AF1QipOJpOgCSeNbuR7ZOmX5ozD1kQYrmxQ8f2ol4jT8",
+      "catalogId": "2644",
+      "landmarkTitle": "BBC (2001)",
+      "historicalLabel": "2001",
+      "modernLabel": "Menlo Park Street View (2017)",
+      "album": "menlo-park",
+      "svImage": "assets/alignments/mp_2644_sv.jpg",
+      "insetImage": "assets/alignments/mp_2644_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 26.4242,
+        "top": 41.3889,
+        "width": 45.0303,
+        "height": 32.6852
+      },
+      "panoId": "kjhiKVLZcWWTneHCrhQafQ",
+      "panoLat": 37.45346,
+      "panoLng": -122.18292,
+      "heading": 34.7,
+      "pitch": 6.9,
+      "fov": 74.0,
+      "inliers": 69,
+      "reprojErrorPx": 1.97,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=kjhiKVLZcWWTneHCrhQafQ&heading=34.7&pitch=6.9&fov=74.0"
     }
   }
 }
