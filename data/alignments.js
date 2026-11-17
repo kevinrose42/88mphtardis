@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 115,
+  "count": 116,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -3107,6 +3107,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 69,
       "reprojErrorPx": 1.97,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=kjhiKVLZcWWTneHCrhQafQ&heading=34.7&pitch=6.9&fov=74.0"
+    },
+    "AF1QipNpEMzmASt50BotqbMQ-A40Sa00S3bcg_FukMzQ": {
+      "photoId": "AF1QipNpEMzmASt50BotqbMQ-A40Sa00S3bcg_FukMzQ",
+      "catalogId": "LH-Im-69615-12",
+      "landmarkTitle": "Vapor Dry Cleaners",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2019)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69615_12_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69615_12_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 25.5758,
+        "top": 36.3889,
+        "width": 44.9091,
+        "height": 41.9444
+      },
+      "panoId": "a_Yf_DgbddzrdS1_wS_rUw",
+      "panoLat": 36.97918,
+      "panoLng": -122.02288,
+      "heading": 11.2,
+      "pitch": 3.6,
+      "fov": 74.0,
+      "inliers": 128,
+      "reprojErrorPx": 2.01,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=a_Yf_DgbddzrdS1_wS_rUw&heading=11.2&pitch=3.6&fov=74.0"
     }
   }
 };
