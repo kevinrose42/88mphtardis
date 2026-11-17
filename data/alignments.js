@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 105,
+  "count": 106,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2837,6 +2837,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 145,
       "reprojErrorPx": 1.7,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=JEPHuaPmA1mGn5OuqZijcQ&heading=21.1&pitch=0.5&fov=80.0"
+    },
+    "AF1QipPPAZl4uS6WxmxkR3hbCC2OJ6Kc8ymgnpjUuOyg": {
+      "photoId": "AF1QipPPAZl4uS6WxmxkR3hbCC2OJ6Kc8ymgnpjUuOyg",
+      "catalogId": "LH-0593",
+      "landmarkTitle": "Calvary Episcopal Church",
+      "historicalLabel": "1864",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0593_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0593_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 40.4242,
+        "top": 24.8148,
+        "width": 40.7273,
+        "height": 46.3889
+      },
+      "panoId": "2FF3NWFeJ3L7mTHBslk8Rw",
+      "panoLat": 36.97173,
+      "panoLng": -122.02796,
+      "heading": 18.1,
+      "pitch": 6.2,
+      "fov": 66.0,
+      "inliers": 26,
+      "reprojErrorPx": 1.71,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2FF3NWFeJ3L7mTHBslk8Rw&heading=18.1&pitch=6.2&fov=66.0"
     }
   }
 };
