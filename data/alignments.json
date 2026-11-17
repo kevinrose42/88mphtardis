@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 86,
+  "count": 88,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2323,6 +2323,60 @@
       "inliers": 50,
       "reprojErrorPx": 2.27,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=eol70Vgd_MrXZNbJZYj8eg&heading=52.9&pitch=6.9&fov=106.0"
+    },
+    "AF1QipP9oGS3OaQqgeo7S6F1qyC0PzgQx-UWmk4mFr9f": {
+      "photoId": "AF1QipP9oGS3OaQqgeo7S6F1qyC0PzgQx-UWmk4mFr9f",
+      "catalogId": "LH-0128",
+      "landmarkTitle": "Four Palms Apartments at 319 Laurel Street",
+      "historicalLabel": "1887",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0128_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0128_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 29.4545,
+        "top": 32.1296,
+        "width": 45.8182,
+        "height": 49.537
+      },
+      "panoId": "bQ-NQCPnwKhUyDTmrlTngQ",
+      "panoLat": 36.96897,
+      "panoLng": -122.02707,
+      "heading": 174.9,
+      "pitch": 10.0,
+      "fov": 88.0,
+      "inliers": 178,
+      "reprojErrorPx": 1.94,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=bQ-NQCPnwKhUyDTmrlTngQ&heading=174.9&pitch=10.0&fov=88.0"
+    },
+    "AF1QipMjB8dIBMvqeJ8LkX0jQJSIXdhtaAzkWgxeIlKU": {
+      "photoId": "AF1QipMjB8dIBMvqeJ8LkX0jQJSIXdhtaAzkWgxeIlKU",
+      "catalogId": "LH-scpl042",
+      "landmarkTitle": "Town clock stopped at 5:04 p.m.",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl042_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl042_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 36.7273,
+        "top": 22.3148,
+        "width": 21.697,
+        "height": 48.6111
+      },
+      "panoId": "jGl89sUgsWJXH8GCfnNiyg",
+      "panoLat": 36.97692,
+      "panoLng": -122.02684,
+      "heading": 342.1,
+      "pitch": 7.7,
+      "fov": 114.0,
+      "inliers": 80,
+      "reprojErrorPx": 1.84,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jGl89sUgsWJXH8GCfnNiyg&heading=342.1&pitch=7.7&fov=114.0"
     }
   }
 }
