@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 69,
+  "count": 70,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1865,6 +1865,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 151,
       "reprojErrorPx": 2.63,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=g2c-eVjgyqbLuO-0ILbo0w&heading=278.2&pitch=1.9&fov=80.0"
+    },
+    "AF1QipPLF09HDKHUJxRd_4mo0S6RZJvp5BzsdDO4knDi": {
+      "photoId": "AF1QipPLF09HDKHUJxRd_4mo0S6RZJvp5BzsdDO4knDi",
+      "catalogId": "LH-Im-69616-5",
+      "landmarkTitle": "Good Times Building",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69616_5_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69616_5_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 42.4848,
+        "top": 42.7778,
+        "width": 47.5152,
+        "height": 33.8889
+      },
+      "panoId": "fJYqWfsP3iGNWgJmF0zg6Q",
+      "panoLat": 36.97274,
+      "panoLng": -122.02668,
+      "heading": 75.0,
+      "pitch": 13.5,
+      "fov": 96.0,
+      "inliers": 58,
+      "reprojErrorPx": 2.32,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=fJYqWfsP3iGNWgJmF0zg6Q&heading=75.0&pitch=13.5&fov=96.0"
     }
   }
 };
