@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 73,
+  "count": 75,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1973,6 +1973,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 223,
       "reprojErrorPx": 1.66,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wqpwMim7wKn2jtZVcon7pA&heading=305.2&pitch=4.8&fov=122.0"
+    },
+    "AF1QipPdkdRrwOc94SRfnTx8gYA2RvjUAXpHhwWJUXx6": {
+      "photoId": "AF1QipPdkdRrwOc94SRfnTx8gYA2RvjUAXpHhwWJUXx6",
+      "catalogId": "LH-Im-69457-24",
+      "landmarkTitle": "Aptos Garage",
+      "historicalLabel": "2001",
+      "modernLabel": "Aptos Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69457_24_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69457_24_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 39.2727,
+        "top": 23.1481,
+        "width": 49.0909,
+        "height": 48.0556
+      },
+      "panoId": "As2JoQEf4bwOLI1gLFagug",
+      "panoLat": 36.97716,
+      "panoLng": -121.90234,
+      "heading": 126.7,
+      "pitch": 2.2,
+      "fov": 106.0,
+      "inliers": 69,
+      "reprojErrorPx": 2.42,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=As2JoQEf4bwOLI1gLFagug&heading=126.7&pitch=2.2&fov=106.0"
+    },
+    "AF1QipNVpHfUXHrqiityce6YpgoUUNCsaU01nkM5WavM": {
+      "photoId": "AF1QipNVpHfUXHrqiityce6YpgoUUNCsaU01nkM5WavM",
+      "catalogId": "LH-Im-69615-4",
+      "landmarkTitle": "Branciforte Plaza",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2019)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69615_4_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69615_4_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 32.7273,
+        "top": 34.537,
+        "width": 30.4242,
+        "height": 36.2037
+      },
+      "panoId": "ci84VNgBWNAckD2fe_IWYg",
+      "panoLat": 36.97625,
+      "panoLng": -122.0173,
+      "heading": 347.9,
+      "pitch": 8.2,
+      "fov": 88.0,
+      "inliers": 61,
+      "reprojErrorPx": 2.69,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ci84VNgBWNAckD2fe_IWYg&heading=347.9&pitch=8.2&fov=88.0"
     }
   }
 };
