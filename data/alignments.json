@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 110,
+  "count": 111,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2971,6 +2971,33 @@
       "inliers": 54,
       "reprojErrorPx": 1.32,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=abUiEBDam8NhYGFDCUGq7Q&heading=264.6&pitch=-0.6&fov=114.0"
+    },
+    "AF1QipNyrTNkaPbz3FpuUMtktYPvnxyvI_NGcSW5OYLb": {
+      "photoId": "AF1QipNyrTNkaPbz3FpuUMtktYPvnxyvI_NGcSW5OYLb",
+      "catalogId": "LH-scpl-535",
+      "landmarkTitle": "Mission Santa Cruz",
+      "historicalLabel": "Circa 1960s",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl_535_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl_535_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 20.303,
+        "top": 23.7037,
+        "width": 36.4848,
+        "height": 50.8333
+      },
+      "panoId": "81LkMGYosaVKx1AjP0_MXA",
+      "panoLat": 36.97824,
+      "panoLng": -122.02966,
+      "heading": 151.2,
+      "pitch": 4.5,
+      "fov": 106.0,
+      "inliers": 61,
+      "reprojErrorPx": 1.16,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=81LkMGYosaVKx1AjP0_MXA&heading=151.2&pitch=4.5&fov=106.0"
     }
   }
 }
