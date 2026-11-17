@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 71,
+  "count": 72,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1918,6 +1918,33 @@
       "inliers": 41,
       "reprojErrorPx": 2.18,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=KD0VEVXLVOb8TBny9eTUIg&heading=335.9&pitch=6.9&fov=74.0"
+    },
+    "AF1QipOaFa9W1XOod7x7gkZD2CtJdHhknwZWKMTK_BUJ": {
+      "photoId": "AF1QipOaFa9W1XOod7x7gkZD2CtJdHhknwZWKMTK_BUJ",
+      "catalogId": "LH-lm-69608-14",
+      "landmarkTitle": "The Catalyst",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69608_14_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69608_14_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 26.5455,
+        "top": 26.2963,
+        "width": 46.6667,
+        "height": 46.6667
+      },
+      "panoId": "H6237l59blSFw6QCRs_8Rw",
+      "panoLat": 36.97135,
+      "panoLng": -122.02534,
+      "heading": 268.8,
+      "pitch": 5.7,
+      "fov": 88.0,
+      "inliers": 140,
+      "reprojErrorPx": 1.52,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=H6237l59blSFw6QCRs_8Rw&heading=268.8&pitch=5.7&fov=88.0"
     }
   }
 }
