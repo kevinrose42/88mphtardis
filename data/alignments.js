@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 102,
+  "count": 103,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2756,6 +2756,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 42,
       "reprojErrorPx": 2.59,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ruMhte9tqvib_swEEvrGZw&heading=159.2&pitch=9.6&fov=114.0"
+    },
+    "AF1QipPqhavXXsuIdSj5hzbYjVszYCkgoPgvcqJxfhno": {
+      "photoId": "AF1QipPqhavXXsuIdSj5hzbYjVszYCkgoPgvcqJxfhno",
+      "catalogId": "LH-lm-69602-10",
+      "landmarkTitle": "Santa Cruz Pottery",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69602_10_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69602_10_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 35.3939,
+        "top": 24.6296,
+        "width": 53.8788,
+        "height": 47.8704
+      },
+      "panoId": "KlHja5qTYn6007_RdNTlVw",
+      "panoLat": 36.96546,
+      "panoLng": -122.04143,
+      "heading": 267.5,
+      "pitch": 14.2,
+      "fov": 114.0,
+      "inliers": 61,
+      "reprojErrorPx": 1.13,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=KlHja5qTYn6007_RdNTlVw&heading=267.5&pitch=14.2&fov=114.0"
     }
   }
 };
