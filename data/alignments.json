@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 95,
+  "count": 96,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2566,6 +2566,33 @@
       "inliers": 661,
       "reprojErrorPx": 2.01,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ZYG9hTxfruuP3ehmgIq9xA&heading=181.5&pitch=14.5&fov=96.0"
+    },
+    "AF1QipOB3sqw0s7pMK5iYs5s5HBK_2LzUpDaMSFa4Q55": {
+      "photoId": "AF1QipOB3sqw0s7pMK5iYs5s5HBK_2LzUpDaMSFa4Q55",
+      "catalogId": "PC-V1-030",
+      "landmarkTitle": "Replica of Mission Santa Cruz",
+      "historicalLabel": "1857",
+      "modernLabel": "Santa Cruz Street View (2011)",
+      "album": "scpl-postcards",
+      "svImage": "assets/alignments/pc_pc_v1_030_sv.jpg",
+      "insetImage": "assets/alignments/pc_pc_v1_030_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 6.1212,
+        "top": 27.5,
+        "width": 54.0,
+        "height": 39.537
+      },
+      "panoId": "pvxZLc7Wg9ddBvubwfjXHw",
+      "panoLat": 36.97806,
+      "panoLng": -122.02969,
+      "heading": 88.1,
+      "pitch": 3.2,
+      "fov": 128.0,
+      "inliers": 28,
+      "reprojErrorPx": 1.4,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pvxZLc7Wg9ddBvubwfjXHw&heading=88.1&pitch=3.2&fov=128.0"
     }
   }
 }
