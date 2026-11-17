@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 94,
+  "count": 95,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2539,6 +2539,33 @@
       "inliers": 60,
       "reprojErrorPx": 1.07,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2C4Xdz1f8XtIWkS7w-jcmg&heading=87.9&pitch=4.5&fov=80.0"
+    },
+    "AF1QipN1mADsCKVYrkDwB8LY5jsYeT5_rLJ5KCRyIhqv": {
+      "photoId": "AF1QipN1mADsCKVYrkDwB8LY5jsYeT5_rLJ5KCRyIhqv",
+      "catalogId": "LH-lm-84113-09",
+      "landmarkTitle": "Resetar Residential Hotel",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84113_09_af1qip_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84113_09_af1qip_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.303,
+        "top": 27.8704,
+        "width": 53.0909,
+        "height": 52.8704
+      },
+      "panoId": "ZYG9hTxfruuP3ehmgIq9xA",
+      "panoLat": 36.91167,
+      "panoLng": -121.75842,
+      "heading": 181.5,
+      "pitch": 14.5,
+      "fov": 96.0,
+      "inliers": 661,
+      "reprojErrorPx": 2.01,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ZYG9hTxfruuP3ehmgIq9xA&heading=181.5&pitch=14.5&fov=96.0"
     }
   }
 }
