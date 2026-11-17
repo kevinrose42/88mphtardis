@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 70,
+  "count": 71,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1891,6 +1891,33 @@
       "inliers": 58,
       "reprojErrorPx": 2.32,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=fJYqWfsP3iGNWgJmF0zg6Q&heading=75.0&pitch=13.5&fov=96.0"
+    },
+    "AF1QipPog3uPAizBdW81StRQ2Wp0cWzxlIRbjyaaHrhb": {
+      "photoId": "AF1QipPog3uPAizBdW81StRQ2Wp0cWzxlIRbjyaaHrhb",
+      "catalogId": "LH-lm-84115-14",
+      "landmarkTitle": "Ben Lomond Market",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Ben Lomond Street View (2014)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84115_14_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84115_14_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 31.3939,
+        "top": 23.4259,
+        "width": 49.6364,
+        "height": 52.4074
+      },
+      "panoId": "KD0VEVXLVOb8TBny9eTUIg",
+      "panoLat": 37.08887,
+      "panoLng": -122.08918,
+      "heading": 335.9,
+      "pitch": 6.9,
+      "fov": 74.0,
+      "inliers": 41,
+      "reprojErrorPx": 2.18,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=KD0VEVXLVOb8TBny9eTUIg&heading=335.9&pitch=6.9&fov=74.0"
     }
   }
 }
