@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 75,
+  "count": 76,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2027,6 +2027,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 61,
       "reprojErrorPx": 2.69,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ci84VNgBWNAckD2fe_IWYg&heading=347.9&pitch=8.2&fov=88.0"
+    },
+    "AF1QipMkOhE1-tF-23ohiMl-iggfGCKQ_FbFI3rGRYAN": {
+      "photoId": "AF1QipMkOhE1-tF-23ohiMl-iggfGCKQ_FbFI3rGRYAN",
+      "catalogId": "LH-0066",
+      "landmarkTitle": "Santa Cruz High School",
+      "historicalLabel": "1915",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0066_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0066_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.6364,
+        "top": 27.2222,
+        "width": 52.3636,
+        "height": 50.6481
+      },
+      "panoId": "wPqWCJp-K4XXHZmG9njFgA",
+      "panoLat": 36.97205,
+      "panoLng": -122.03374,
+      "heading": 164.4,
+      "pitch": 5.9,
+      "fov": 106.0,
+      "inliers": 196,
+      "reprojErrorPx": 2.22,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wPqWCJp-K4XXHZmG9njFgA&heading=164.4&pitch=5.9&fov=106.0"
     }
   }
 };
