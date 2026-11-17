@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 88,
+  "count": 90,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2377,6 +2377,60 @@
       "inliers": 80,
       "reprojErrorPx": 1.84,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jGl89sUgsWJXH8GCfnNiyg&heading=342.1&pitch=7.7&fov=114.0"
+    },
+    "AF1QipPecrfwIYeG8jEgMvF9X-QJEa2r7Rq2Uzsov1it": {
+      "photoId": "AF1QipPecrfwIYeG8jEgMvF9X-QJEa2r7Rq2Uzsov1it",
+      "catalogId": "LH-lm-69606-15",
+      "landmarkTitle": "Smith's China Shop",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69606_15_af1qip_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69606_15_af1qip_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 30.1212,
+        "top": 31.0185,
+        "width": 47.3333,
+        "height": 49.8148
+      },
+      "panoId": "-TLOFlW0Al9Xrrq2HaEEOQ",
+      "panoLat": 36.98138,
+      "panoLng": -122.00975,
+      "heading": 344.7,
+      "pitch": 1.0,
+      "fov": 114.0,
+      "inliers": 244,
+      "reprojErrorPx": 2.21,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-TLOFlW0Al9Xrrq2HaEEOQ&heading=344.7&pitch=1.0&fov=114.0"
+    },
+    "AF1QipP4dyw0XT5gi7NHqCIJdtq43qMkdndcv4YqiSbW": {
+      "photoId": "AF1QipP4dyw0XT5gi7NHqCIJdtq43qMkdndcv4YqiSbW",
+      "catalogId": "LH-lm-84114-05",
+      "landmarkTitle": "Santa Cruz Hotel-Planet Fresh",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84114_05_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84114_05_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 44.0606,
+        "top": 29.6296,
+        "width": 43.4545,
+        "height": 42.5926
+      },
+      "panoId": "mhI5ns-Xs6cJY3CtNmkvWg",
+      "panoLat": 36.97524,
+      "panoLng": -122.02781,
+      "heading": 215.1,
+      "pitch": 9.4,
+      "fov": 106.0,
+      "inliers": 68,
+      "reprojErrorPx": 1.43,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=mhI5ns-Xs6cJY3CtNmkvWg&heading=215.1&pitch=9.4&fov=106.0"
     }
   }
 }
