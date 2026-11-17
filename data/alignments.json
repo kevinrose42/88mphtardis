@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 82,
+  "count": 84,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2215,6 +2215,60 @@
       "inliers": 48,
       "reprojErrorPx": 2.01,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Lt764-ZJ4zddbLJYfkEJag&heading=73.4&pitch=1.0&fov=96.0"
+    },
+    "AF1QipP0vWJsD9CBHawLQtHJjK_BZlKIFvKpYYgsZ1-8": {
+      "photoId": "AF1QipP0vWJsD9CBHawLQtHJjK_BZlKIFvKpYYgsZ1-8",
+      "catalogId": "SS-LIBRARYBC-04",
+      "landmarkTitle": "From the Old Boulder Creek Library Branch to the New",
+      "historicalLabel": "1985-03-01",
+      "modernLabel": "Boulder Creek Street View (2021)",
+      "album": "scpl-snapshots",
+      "svImage": "assets/alignments/ss_ss_librarybc_04_sv.jpg",
+      "insetImage": "assets/alignments/ss_ss_librarybc_04_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 31.2121,
+        "top": 33.2407,
+        "width": 40.6667,
+        "height": 42.4074
+      },
+      "panoId": "0oAW6n7S-nNs7j50ZGJY2Q",
+      "panoLat": 37.12555,
+      "panoLng": -122.12242,
+      "heading": 47.3,
+      "pitch": 1.0,
+      "fov": 80.0,
+      "inliers": 82,
+      "reprojErrorPx": 2.5,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=0oAW6n7S-nNs7j50ZGJY2Q&heading=47.3&pitch=1.0&fov=80.0"
+    },
+    "AF1QipM6RKaKkL-TFb6LdwnA9LDCeG0WJDbdQWWKr8UD": {
+      "photoId": "AF1QipM6RKaKkL-TFb6LdwnA9LDCeG0WJDbdQWWKr8UD",
+      "catalogId": "LH-0005",
+      "landmarkTitle": "The Octagon, designed by J. W. Newcum",
+      "historicalLabel": "ca. 1890's",
+      "modernLabel": "Santa Cruz Street View (2014)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0005_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0005_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 26.7273,
+        "top": 32.1296,
+        "width": 46.9697,
+        "height": 43.5185
+      },
+      "panoId": "AccVx3_oCA9RI7_DHtKenQ",
+      "panoLat": 36.97516,
+      "panoLng": -122.02575,
+      "heading": 152.8,
+      "pitch": 3.8,
+      "fov": 96.0,
+      "inliers": 188,
+      "reprojErrorPx": 2.08,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=AccVx3_oCA9RI7_DHtKenQ&heading=152.8&pitch=3.8&fov=96.0"
     }
   }
 }
