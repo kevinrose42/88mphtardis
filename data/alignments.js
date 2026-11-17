@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 84,
+  "count": 86,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2270,6 +2270,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 188,
       "reprojErrorPx": 2.08,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=AccVx3_oCA9RI7_DHtKenQ&heading=152.8&pitch=3.8&fov=96.0"
+    },
+    "AF1QipMxXzWBa-Y8U85CkLlZXAzmKGx3PhC9VNrQ1LUt": {
+      "photoId": "AF1QipMxXzWBa-Y8U85CkLlZXAzmKGx3PhC9VNrQ1LUt",
+      "catalogId": "LH-scm-1001",
+      "landmarkTitle": "Santa Cruz Mission",
+      "historicalLabel": "1934",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scm_1001_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scm_1001_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 10.6061,
+        "top": 34.9074,
+        "width": 55.3333,
+        "height": 25.9259
+      },
+      "panoId": "3WxnWHoFMrIKWANFDVS7aA",
+      "panoLat": 36.97821,
+      "panoLng": -122.02965,
+      "heading": 140.2,
+      "pitch": 5.1,
+      "fov": 122.0,
+      "inliers": 44,
+      "reprojErrorPx": 1.4,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=3WxnWHoFMrIKWANFDVS7aA&heading=140.2&pitch=5.1&fov=122.0"
+    },
+    "AF1QipOKWgDgow7XvSTv1VmG0oKVcpVqfk40-aPetN1g": {
+      "photoId": "AF1QipOKWgDgow7XvSTv1VmG0oKVcpVqfk40-aPetN1g",
+      "catalogId": "PC-V2-102",
+      "landmarkTitle": "Park Hall in Ben Lomond",
+      "historicalLabel": "c. 1941",
+      "modernLabel": "Ben Lomond Street View (2014)",
+      "album": "scpl-postcards",
+      "svImage": "assets/alignments/pc_pc_v2_102_sv.jpg",
+      "insetImage": "assets/alignments/pc_pc_v2_102_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.0606,
+        "top": 32.8704,
+        "width": 38.8485,
+        "height": 48.0556
+      },
+      "panoId": "eol70Vgd_MrXZNbJZYj8eg",
+      "panoLat": 37.0889,
+      "panoLng": -122.08997,
+      "heading": 52.9,
+      "pitch": 6.9,
+      "fov": 106.0,
+      "inliers": 50,
+      "reprojErrorPx": 2.27,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=eol70Vgd_MrXZNbJZYj8eg&heading=52.9&pitch=6.9&fov=106.0"
     }
   }
 };
