@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 81,
+  "count": 82,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2188,6 +2188,33 @@
       "inliers": 80,
       "reprojErrorPx": 2.19,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=cLBNAi0QYaVWpc-JGd_MEQ&heading=270.4&pitch=4.4&fov=96.0"
+    },
+    "AF1QipPbqbd8y0zlp0PUeZhMT0rYFvzU5lNa3CNfojSs": {
+      "photoId": "AF1QipPbqbd8y0zlp0PUeZhMT0rYFvzU5lNa3CNfojSs",
+      "catalogId": "LH-BCD_025",
+      "landmarkTitle": "Exterior of the old Boulder Creek Library",
+      "historicalLabel": "1980s",
+      "modernLabel": "Boulder Creek Street View (2025)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_bcd_025_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_bcd_025_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 24.6667,
+        "top": 24.3519,
+        "width": 44.8485,
+        "height": 48.1481
+      },
+      "panoId": "Lt764-ZJ4zddbLJYfkEJag",
+      "panoLat": 37.1256,
+      "panoLng": -122.12235,
+      "heading": 73.4,
+      "pitch": 1.0,
+      "fov": 96.0,
+      "inliers": 48,
+      "reprojErrorPx": 2.01,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Lt764-ZJ4zddbLJYfkEJag&heading=73.4&pitch=1.0&fov=96.0"
     }
   }
 }
