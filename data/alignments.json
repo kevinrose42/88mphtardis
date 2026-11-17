@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 79,
+  "count": 81,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2134,6 +2134,60 @@
       "inliers": 55,
       "reprojErrorPx": 2.57,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=a0eeldwvUPs1SQ1jisU0Qw&heading=300.1&pitch=3.0&fov=106.0"
+    },
+    "AF1QipNigmj5ugpcwaLBb6OBSfqj4erEzwoVnNG9-LCM": {
+      "photoId": "AF1QipNigmj5ugpcwaLBb6OBSfqj4erEzwoVnNG9-LCM",
+      "catalogId": "LH-scpl052",
+      "landmarkTitle": "Buses outside the Civic Auditorium",
+      "historicalLabel": "1989",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scpl052_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scpl052_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 16.0606,
+        "top": 38.3333,
+        "width": 54.7879,
+        "height": 39.0741
+      },
+      "panoId": "qi3EPh9M_E8zRVKRKbLcLA",
+      "panoLat": 36.9741,
+      "panoLng": -122.02912,
+      "heading": 194.7,
+      "pitch": 8.0,
+      "fov": 122.0,
+      "inliers": 113,
+      "reprojErrorPx": 1.59,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=qi3EPh9M_E8zRVKRKbLcLA&heading=194.7&pitch=8.0&fov=122.0"
+    },
+    "AF1QipM8JBXnnJ7rIjBufiHrX3dxDXDfEU3xmIi1JJJa": {
+      "photoId": "AF1QipM8JBXnnJ7rIjBufiHrX3dxDXDfEU3xmIi1JJJa",
+      "catalogId": "LH-0572",
+      "landmarkTitle": "Exterior of the Garfield Park Branch Library",
+      "historicalLabel": "c. 1915",
+      "modernLabel": "Santa Cruz Street View (2011)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_0572_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_0572_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 21.9394,
+        "top": 32.3148,
+        "width": 48.6667,
+        "height": 51.7593
+      },
+      "panoId": "cLBNAi0QYaVWpc-JGd_MEQ",
+      "panoLat": 36.95806,
+      "panoLng": -122.03805,
+      "heading": 270.4,
+      "pitch": 4.4,
+      "fov": 96.0,
+      "inliers": 80,
+      "reprojErrorPx": 2.19,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=cLBNAi0QYaVWpc-JGd_MEQ&heading=270.4&pitch=4.4&fov=96.0"
     }
   }
 }
