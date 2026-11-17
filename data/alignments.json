@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 106,
+  "count": 107,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2863,6 +2863,33 @@
       "inliers": 26,
       "reprojErrorPx": 1.71,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2FF3NWFeJ3L7mTHBslk8Rw&heading=18.1&pitch=6.2&fov=66.0"
+    },
+    "AF1QipObIp0mpNBNYRgE1p17TEcBlS-UnmVXhfgsUHQZ": {
+      "photoId": "AF1QipObIp0mpNBNYRgE1p17TEcBlS-UnmVXhfgsUHQZ",
+      "catalogId": "PC-V1-172",
+      "landmarkTitle": "Post Office",
+      "historicalLabel": "c. 1940",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "scpl-postcards",
+      "svImage": "assets/alignments/pc_pc_v1_172_sv.jpg",
+      "insetImage": "assets/alignments/pc_pc_v1_172_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 33.8788,
+        "top": 31.9444,
+        "width": 47.8182,
+        "height": 44.9074
+      },
+      "panoId": "SvK4S4GQm2jsLRHnLbCKfA",
+      "panoLat": 36.91014,
+      "panoLng": -121.75557,
+      "heading": 25.1,
+      "pitch": 3.6,
+      "fov": 66.0,
+      "inliers": 135,
+      "reprojErrorPx": 2.13,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=SvK4S4GQm2jsLRHnLbCKfA&heading=25.1&pitch=3.6&fov=66.0"
     }
   }
 }
