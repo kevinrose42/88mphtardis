@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 104,
+  "count": 105,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2809,6 +2809,33 @@
       "inliers": 47,
       "reprojErrorPx": 2.13,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=zH6_Dr1K3VIWupElZoUShw&heading=281.1&pitch=-0.1&fov=74.0"
+    },
+    "AF1QipMpFgLpfBVWQ3eK7j7kJ0wcMJ3_bPvbNHMQCW_8": {
+      "photoId": "AF1QipMpFgLpfBVWQ3eK7j7kJ0wcMJ3_bPvbNHMQCW_8",
+      "catalogId": "LH-lm-69605-03",
+      "landmarkTitle": "Five Mile House",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Corralitos Street View (2011)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69605_03_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69605_03_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 17.3939,
+        "top": 22.7778,
+        "width": 49.3939,
+        "height": 46.6667
+      },
+      "panoId": "JEPHuaPmA1mGn5OuqZijcQ",
+      "panoLat": 36.96349,
+      "panoLng": -121.80952,
+      "heading": 21.1,
+      "pitch": 0.5,
+      "fov": 80.0,
+      "inliers": 145,
+      "reprojErrorPx": 1.7,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=JEPHuaPmA1mGn5OuqZijcQ&heading=21.1&pitch=0.5&fov=80.0"
     }
   }
 }
