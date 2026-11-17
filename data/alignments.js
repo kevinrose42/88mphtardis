@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 97,
+  "count": 98,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2621,6 +2621,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 127,
       "reprojErrorPx": 1.37,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=bPVMHh3t3wiXbaByZcaIqA&heading=79.8&pitch=0.6&fov=74.0"
+    },
+    "AF1QipNcAN4G23BWx4CtJ6jqkRiizBk_yqCJUmtdAuy7": {
+      "photoId": "AF1QipNcAN4G23BWx4CtJ6jqkRiizBk_yqCJUmtdAuy7",
+      "catalogId": "LH-lm-69604-12",
+      "landmarkTitle": "Corralitos Market and Sausage Company",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Corralitos Street View (2019)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69604_12_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69604_12_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.2121,
+        "top": 18.9815,
+        "width": 53.6364,
+        "height": 54.2593
+      },
+      "panoId": "ZcTCA4IShVwZn9MwDO76_Q",
+      "panoLat": 36.98865,
+      "panoLng": -121.80704,
+      "heading": 223.8,
+      "pitch": 3.4,
+      "fov": 96.0,
+      "inliers": 45,
+      "reprojErrorPx": 1.52,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ZcTCA4IShVwZn9MwDO76_Q&heading=223.8&pitch=3.4&fov=96.0"
     }
   }
 };
