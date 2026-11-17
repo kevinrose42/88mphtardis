@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 76,
+  "count": 77,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2053,6 +2053,33 @@
       "inliers": 196,
       "reprojErrorPx": 2.22,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wPqWCJp-K4XXHZmG9njFgA&heading=164.4&pitch=5.9&fov=106.0"
+    },
+    "AF1QipMSNVAb6i7b0KX15cMKG7L0itLROS8pmQRcJvWB": {
+      "photoId": "AF1QipMSNVAb6i7b0KX15cMKG7L0itLROS8pmQRcJvWB",
+      "catalogId": "3299",
+      "landmarkTitle": "Alameda (2002)",
+      "historicalLabel": "2002",
+      "modernLabel": "Menlo Park Street View (2026)",
+      "album": "menlo-park",
+      "svImage": "assets/alignments/mp_3299_sv.jpg",
+      "insetImage": "assets/alignments/mp_3299_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.3939,
+        "top": 30.5556,
+        "width": 47.9394,
+        "height": 52.2222
+      },
+      "panoId": "fMN4IBXOygRm17Dt_zWz8w",
+      "panoLat": 37.43241,
+      "panoLng": -122.20277,
+      "heading": 51.6,
+      "pitch": 4.8,
+      "fov": 106.0,
+      "inliers": 221,
+      "reprojErrorPx": 2.09,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=fMN4IBXOygRm17Dt_zWz8w&heading=51.6&pitch=4.8&fov=106.0"
     }
   }
 }
