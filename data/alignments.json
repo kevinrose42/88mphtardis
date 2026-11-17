@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 111,
+  "count": 112,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2998,6 +2998,33 @@
       "inliers": 61,
       "reprojErrorPx": 1.16,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=81LkMGYosaVKx1AjP0_MXA&heading=151.2&pitch=4.5&fov=106.0"
+    },
+    "AF1QipM34Y86-8xjsdSZTmmXiTvo4qJvJ9mmHUAfwEd6": {
+      "photoId": "AF1QipM34Y86-8xjsdSZTmmXiTvo4qJvJ9mmHUAfwEd6",
+      "catalogId": "LH-Im-69617-13; LH-lm-69617-14",
+      "landmarkTitle": "Santa Cruz Roller Palladium",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69617_13_lh_lm_69617_14_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69617_13_lh_lm_69617_14_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 39.8182,
+        "top": 30.6481,
+        "width": 48.303,
+        "height": 46.0185
+      },
+      "panoId": "TxP7JoOU1g7cVCl-nf827Q",
+      "panoLat": 36.97884,
+      "panoLng": -122.00999,
+      "heading": 37.3,
+      "pitch": 0.4,
+      "fov": 96.0,
+      "inliers": 106,
+      "reprojErrorPx": 1.3,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=TxP7JoOU1g7cVCl-nf827Q&heading=37.3&pitch=0.4&fov=96.0"
     }
   }
 }
