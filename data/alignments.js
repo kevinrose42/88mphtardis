@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 103,
+  "count": 104,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2783,6 +2783,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 61,
       "reprojErrorPx": 1.13,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=KlHja5qTYn6007_RdNTlVw&heading=267.5&pitch=14.2&fov=114.0"
+    },
+    "AF1QipMqz8F1cCIKWbVcAzoDt55qKdeMSvsy0QFIvgOJ": {
+      "photoId": "AF1QipMqz8F1cCIKWbVcAzoDt55qKdeMSvsy0QFIvgOJ",
+      "catalogId": "LH-lm-69602-13",
+      "landmarkTitle": "Covello & Covello Photography",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69602_13_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69602_13_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 25.0303,
+        "top": 27.2222,
+        "width": 41.697,
+        "height": 46.5741
+      },
+      "panoId": "zH6_Dr1K3VIWupElZoUShw",
+      "panoLat": 36.97481,
+      "panoLng": -122.0339,
+      "heading": 281.1,
+      "pitch": -0.1,
+      "fov": 74.0,
+      "inliers": 47,
+      "reprojErrorPx": 2.13,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=zH6_Dr1K3VIWupElZoUShw&heading=281.1&pitch=-0.1&fov=74.0"
     }
   }
 };
