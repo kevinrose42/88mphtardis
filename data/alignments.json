@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 93,
+  "count": 94,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2512,6 +2512,33 @@
       "inliers": 63,
       "reprojErrorPx": 2.18,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=LS4N5lg9iqaOJiYhqZvfww&heading=329.6&pitch=7.3&fov=74.0"
+    },
+    "AF1QipOQLqHqT03X8In50rk0UsMNpm9NKRHYzTTHztm4": {
+      "photoId": "AF1QipOQLqHqT03X8In50rk0UsMNpm9NKRHYzTTHztm4",
+      "catalogId": "0184a",
+      "landmarkTitle": "American Trust Building (1930?)",
+      "historicalLabel": "1930?",
+      "modernLabel": "Menlo Park Street View (2017)",
+      "album": "menlo-park",
+      "svImage": "assets/alignments/mp_0184a_sv.jpg",
+      "insetImage": "assets/alignments/mp_0184a_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 15.3939,
+        "top": 35.0926,
+        "width": 47.5758,
+        "height": 42.1296
+      },
+      "panoId": "2C4Xdz1f8XtIWkS7w-jcmg",
+      "panoLat": 37.45364,
+      "panoLng": -122.18328,
+      "heading": 87.9,
+      "pitch": 4.5,
+      "fov": 80.0,
+      "inliers": 60,
+      "reprojErrorPx": 1.07,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2C4Xdz1f8XtIWkS7w-jcmg&heading=87.9&pitch=4.5&fov=80.0"
     }
   }
 }
