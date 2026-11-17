@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 77,
+  "count": 79,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2080,6 +2080,60 @@
       "inliers": 221,
       "reprojErrorPx": 2.09,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=fMN4IBXOygRm17Dt_zWz8w&heading=51.6&pitch=4.8&fov=106.0"
+    },
+    "AF1QipM5i-baKFlACZcaBIIuNvSmUYZJW65wCOpzWdCX": {
+      "photoId": "AF1QipM5i-baKFlACZcaBIIuNvSmUYZJW65wCOpzWdCX",
+      "catalogId": "LH-lm-84115-11",
+      "landmarkTitle": "Ben Lomond",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Ben Lomond Street View (2025)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84115_11_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84115_11_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 24.4242,
+        "top": 15.6481,
+        "width": 52.7879,
+        "height": 51.5741
+      },
+      "panoId": "o0-Etwo37Lqc3noIdIBh5g",
+      "panoLat": 37.08874,
+      "panoLng": -122.08852,
+      "heading": 47.5,
+      "pitch": 2.5,
+      "fov": 80.0,
+      "inliers": 46,
+      "reprojErrorPx": 2.45,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=o0-Etwo37Lqc3noIdIBh5g&heading=47.5&pitch=2.5&fov=80.0"
+    },
+    "AF1QipNlCVWlR_J6SuxnNFHBkamquXMfOoHCakCkCPac": {
+      "photoId": "AF1QipNlCVWlR_J6SuxnNFHBkamquXMfOoHCakCkCPac",
+      "catalogId": "LH-SCCFU-13",
+      "landmarkTitle": "Santa Cruz City fire engines in front of fire station (No. 1)",
+      "historicalLabel": "ca. 1970-1975",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_sccfu_13_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_sccfu_13_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 34.1212,
+        "top": 42.3148,
+        "width": 30.5455,
+        "height": 33.7963
+      },
+      "panoId": "a0eeldwvUPs1SQ1jisU0Qw",
+      "panoLat": 36.9734,
+      "panoLng": -122.02849,
+      "heading": 300.1,
+      "pitch": 3.0,
+      "fov": 106.0,
+      "inliers": 55,
+      "reprojErrorPx": 2.57,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=a0eeldwvUPs1SQ1jisU0Qw&heading=300.1&pitch=3.0&fov=106.0"
     }
   }
 }
