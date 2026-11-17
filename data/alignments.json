@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 96,
+  "count": 97,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2593,6 +2593,33 @@
       "inliers": 28,
       "reprojErrorPx": 1.4,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pvxZLc7Wg9ddBvubwfjXHw&heading=88.1&pitch=3.2&fov=128.0"
+    },
+    "AF1QipOceQ8PDvST2xEdbsJG_X9cgOLi-oryzSb32plF": {
+      "photoId": "AF1QipOceQ8PDvST2xEdbsJG_X9cgOLi-oryzSb32plF",
+      "catalogId": "LH-Im-69455-11",
+      "landmarkTitle": "Chill Out Caf\u00e9",
+      "historicalLabel": "2001",
+      "modernLabel": "Santa Cruz Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69455_11_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69455_11_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 36.0606,
+        "top": 34.537,
+        "width": 39.5758,
+        "height": 49.2593
+      },
+      "panoId": "bPVMHh3t3wiXbaByZcaIqA",
+      "panoLat": 36.96446,
+      "panoLng": -121.96494,
+      "heading": 79.8,
+      "pitch": 0.6,
+      "fov": 74.0,
+      "inliers": 127,
+      "reprojErrorPx": 1.37,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=bPVMHh3t3wiXbaByZcaIqA&heading=79.8&pitch=0.6&fov=74.0"
     }
   }
 }
