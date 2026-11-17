@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 98,
+  "count": 100,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2648,6 +2648,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 45,
       "reprojErrorPx": 1.52,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ZcTCA4IShVwZn9MwDO76_Q&heading=223.8&pitch=3.4&fov=96.0"
+    },
+    "AF1QipMeki371quJAOC3CfyiHNIiEsLQCDa-qcvP-ljY": {
+      "photoId": "AF1QipMeki371quJAOC3CfyiHNIiEsLQCDa-qcvP-ljY",
+      "catalogId": "LH-Im-84112-19",
+      "landmarkTitle": "Old Firemen's Hall and Boulder Creek Drug Store",
+      "historicalLabel": "2001",
+      "modernLabel": "Boulder Creek Street View (2014)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_84112_19_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_84112_19_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 12.7879,
+        "top": 28.7037,
+        "width": 52.3636,
+        "height": 49.9074
+      },
+      "panoId": "mjOHhzqipXXqY4bLJAHHnQ",
+      "panoLat": 37.1239,
+      "panoLng": -122.1218,
+      "heading": 256.7,
+      "pitch": 7.8,
+      "fov": 106.0,
+      "inliers": 84,
+      "reprojErrorPx": 1.2,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=mjOHhzqipXXqY4bLJAHHnQ&heading=256.7&pitch=7.8&fov=106.0"
+    },
+    "AF1QipMIvJZg7oT53hThbAR1XDfkZv6EtRNRhqT4qOwc": {
+      "photoId": "AF1QipMIvJZg7oT53hThbAR1XDfkZv6EtRNRhqT4qOwc",
+      "catalogId": "LH-Im-69457-16",
+      "landmarkTitle": "Caf\u00e9 Sparrow",
+      "historicalLabel": "2001",
+      "modernLabel": "Aptos Street View (2017)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69457_16_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69457_16_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 27.8182,
+        "top": 22.8704,
+        "width": 50.1212,
+        "height": 50.8333
+      },
+      "panoId": "S0y8dlofd1P4a7MlKvSFWg",
+      "panoLat": 36.97717,
+      "panoLng": -121.90082,
+      "heading": 221.6,
+      "pitch": 0.2,
+      "fov": 114.0,
+      "inliers": 39,
+      "reprojErrorPx": 1.9,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=S0y8dlofd1P4a7MlKvSFWg&heading=221.6&pitch=0.2&fov=114.0"
     }
   }
 };
