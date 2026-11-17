@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 92,
+  "count": 93,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2486,6 +2486,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 99,
       "reprojErrorPx": 2.01,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=eUILPiuxfxFrK52tAhgj1w&heading=28.4&pitch=9.5&fov=122.0"
+    },
+    "AF1QipPrt7Z1bOozvspclRTWlHFVm01yOMA-37ydvbT2": {
+      "photoId": "AF1QipPrt7Z1bOozvspclRTWlHFVm01yOMA-37ydvbT2",
+      "catalogId": "LH-Im-69454-9; LH-lm-69454-7",
+      "landmarkTitle": "Oliver Realty",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville Street View (2024)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69454_9_lh_lm_69454_7_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69454_9_lh_lm_69454_7_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 39.8182,
+        "top": 34.9074,
+        "width": 23.9394,
+        "height": 32.2222
+      },
+      "panoId": "LS4N5lg9iqaOJiYhqZvfww",
+      "panoLat": 36.92098,
+      "panoLng": -121.74744,
+      "heading": 329.6,
+      "pitch": 7.3,
+      "fov": 74.0,
+      "inliers": 63,
+      "reprojErrorPx": 2.18,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=LS4N5lg9iqaOJiYhqZvfww&heading=329.6&pitch=7.3&fov=74.0"
     }
   }
 };
