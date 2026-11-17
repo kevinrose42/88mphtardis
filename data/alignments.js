@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 90,
+  "count": 92,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2432,6 +2432,60 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 68,
       "reprojErrorPx": 1.43,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=mhI5ns-Xs6cJY3CtNmkvWg&heading=215.1&pitch=9.4&fov=106.0"
+    },
+    "AF1QipMt4ZwlU9H-NHdFiU9AFeLoK1cEXpfj08PSaxH0": {
+      "photoId": "AF1QipMt4ZwlU9H-NHdFiU9AFeLoK1cEXpfj08PSaxH0",
+      "catalogId": "LH-Im-69458-24; LH-lm-69458-10",
+      "landmarkTitle": "Van's Shoes",
+      "historicalLabel": "2001",
+      "modernLabel": "Watsonville Street View (2016)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_69458_24_lh_lm_69458_10_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_69458_24_lh_lm_69458_10_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 14.6667,
+        "top": 37.4074,
+        "width": 51.8788,
+        "height": 38.4259
+      },
+      "panoId": "kH1adtGVP-GW-SSJKC3JXA",
+      "panoLat": 36.91198,
+      "panoLng": -121.7579,
+      "heading": 139.7,
+      "pitch": 13.5,
+      "fov": 122.0,
+      "inliers": 123,
+      "reprojErrorPx": 1.58,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=kH1adtGVP-GW-SSJKC3JXA&heading=139.7&pitch=13.5&fov=122.0"
+    },
+    "AF1QipOM5or7fpURpSKSrc7pyJaKPqtP4Xmjd1lkIHZ_": {
+      "photoId": "AF1QipOM5or7fpURpSKSrc7pyJaKPqtP4Xmjd1lkIHZ_",
+      "catalogId": "LH-SCM086",
+      "landmarkTitle": "Seabright Library",
+      "historicalLabel": "After 1915",
+      "modernLabel": "Santa Cruz Street View (2015)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_scm086_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_scm086_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 22.6061,
+        "top": 30.6481,
+        "width": 50.303,
+        "height": 43.7963
+      },
+      "panoId": "eUILPiuxfxFrK52tAhgj1w",
+      "panoLat": 36.96431,
+      "panoLng": -122.00972,
+      "heading": 28.4,
+      "pitch": 9.5,
+      "fov": 122.0,
+      "inliers": 99,
+      "reprojErrorPx": 2.01,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=eUILPiuxfxFrK52tAhgj1w&heading=28.4&pitch=9.5&fov=122.0"
     }
   }
 };
