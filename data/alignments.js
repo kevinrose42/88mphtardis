@@ -1,7 +1,7 @@
 // Auto-generated sub-pixel Google Street View alignments for archival landmarks.
 window.STREETVIEW_ALIGNMENTS = {
   "version": 1,
-  "count": 72,
+  "count": 73,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -1946,6 +1946,33 @@ window.STREETVIEW_ALIGNMENTS = {
       "inliers": 140,
       "reprojErrorPx": 1.52,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=H6237l59blSFw6QCRs_8Rw&heading=268.8&pitch=5.7&fov=88.0"
+    },
+    "AF1QipPSDmHo6UggB1xON4vtvJ0Qs1rGjkuCSCGVdNct": {
+      "photoId": "AF1QipPSDmHo6UggB1xON4vtvJ0Qs1rGjkuCSCGVdNct",
+      "catalogId": "LH-lm-69608-02",
+      "landmarkTitle": "Poet & Patriot",
+      "historicalLabel": "May 2001",
+      "modernLabel": "Santa Cruz Street View (2022)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_69608_02_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_69608_02_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 32.7273,
+        "top": 24.2593,
+        "width": 60.6667,
+        "height": 44.8148
+      },
+      "panoId": "wqpwMim7wKn2jtZVcon7pA",
+      "panoLat": 36.96963,
+      "panoLng": -122.02566,
+      "heading": 305.2,
+      "pitch": 4.8,
+      "fov": 122.0,
+      "inliers": 223,
+      "reprojErrorPx": 1.66,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wqpwMim7wKn2jtZVcon7pA&heading=305.2&pitch=4.8&fov=122.0"
     }
   }
 };
