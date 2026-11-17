@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 100,
+  "count": 102,
   "byPhotoId": {
     "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU": {
       "photoId": "AF1QipNngq0YtSYRvoliFA9sjN9WtdsrSjPWXLJHMCzU",
@@ -2701,6 +2701,60 @@
       "inliers": 39,
       "reprojErrorPx": 1.9,
       "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=S0y8dlofd1P4a7MlKvSFWg&heading=221.6&pitch=0.2&fov=114.0"
+    },
+    "AF1QipMY8mRyXsni-LvG0VuH8_v7G7p_lEDM8h70ubD6": {
+      "photoId": "AF1QipMY8mRyXsni-LvG0VuH8_v7G7p_lEDM8h70ubD6",
+      "catalogId": "LH-Im-84112-13",
+      "landmarkTitle": "New Leaf Market - Boulder Creek",
+      "historicalLabel": "2001",
+      "modernLabel": "Boulder Creek Street View (2014)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_im_84112_13_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_im_84112_13_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 38.9697,
+        "top": 15.5556,
+        "width": 49.0909,
+        "height": 49.2593
+      },
+      "panoId": "60ebsp7GZJmwyuR_KV0Lig",
+      "panoLat": 37.12501,
+      "panoLng": -122.12215,
+      "heading": 183.8,
+      "pitch": 2.7,
+      "fov": 88.0,
+      "inliers": 66,
+      "reprojErrorPx": 1.13,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=60ebsp7GZJmwyuR_KV0Lig&heading=183.8&pitch=2.7&fov=88.0"
+    },
+    "AF1QipPNEQfwMx4nRXlmdPamT50W4BevIALNf1jf7NS3": {
+      "photoId": "AF1QipPNEQfwMx4nRXlmdPamT50W4BevIALNf1jf7NS3",
+      "catalogId": "LH-lm-84114-10",
+      "landmarkTitle": "West Coast Santa Cruz Hotel (former Dream Inn)",
+      "historicalLabel": "Jun 2001",
+      "modernLabel": "Santa Cruz Street View (2018)",
+      "album": "santa-cruz",
+      "svImage": "assets/alignments/sc_lh_lm_84114_10_sv.jpg",
+      "insetImage": "assets/alignments/sc_lh_lm_84114_10_inset.jpg",
+      "canvasWidth": 1650,
+      "canvasHeight": 1080,
+      "rectPct": {
+        "left": 32.7879,
+        "top": 17.5926,
+        "width": 39.3939,
+        "height": 47.6852
+      },
+      "panoId": "ruMhte9tqvib_swEEvrGZw",
+      "panoLat": 36.96187,
+      "panoLng": -122.0253,
+      "heading": 159.2,
+      "pitch": 9.6,
+      "fov": 114.0,
+      "inliers": 42,
+      "reprojErrorPx": 2.59,
+      "streetViewPanoUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ruMhte9tqvib_swEEvrGZw&heading=159.2&pitch=9.6&fov=114.0"
     }
   }
 }
